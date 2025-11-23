@@ -1,0 +1,923 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-16T18:28:41.228635252Z
+
+Team #0 PlayerParticipant lame1202 minecraft:overworld (-217463.33229915882, 63.0, -170831.12104239775) 
+	Parasect {Ability:"EffectSpore",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:6s,EVDefense:3s,EVHP:8s,EVSpecialAttack:1s,EVSpecialDefense:4s,EVSpeed:4s,EXP:9404,Friendship:130s,Gender:1b,GigantamaxFactor:0b,Health:0,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:4b,IVDefense:10b,IVHP:10b,IVSpAtt:24b,IVSpDef:21b,IVSpeed:25b,Level:63,MintNature:10b,Moveset:[{MoveID:"False Swipe",MovePP:40b},{MoveID:"Spore",MovePP:13b},{MoveID:"Stun Spore",MovePP:30b},{MoveID:"Aromatherapy",MovePP:5b}],NBT_VERSION:2b,Nature:18b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Poison Powder","Scratch","Spore","Stun Spore","Absorb","Aromatherapy","Fury Cutter"],Size:160.5631275379926d,SpecFlags:[],StatsAttack:126s,StatsDefense:121s,StatsHP:153s,StatsSpecialAttack:94s,StatsSpecialDefense:117s,StatsSpeed:52s,UUID:[I;-1276842647,-1846917542,-1364704173,2018912491],Variant:"base",eggCycles:-1,ndex:47,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"pink",ribbons2:[]}
+	Miraidon {Ability:"HadronEngine",CaughtBall:"dive_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:0s,EVDefense:4s,EVHP:252s,EVSpecialAttack:206s,EVSpecialDefense:36s,EVSpeed:12s,EXP:4021,Friendship:255s,Gender:2b,GigantamaxFactor:0b,Health:404,HeldItemStack:{count:1,id:"pixelmon:assault_vest"},IVAttack:31b,IVDefense:31b,IVHP:31b,IVSpAtt:14b,IVSpDef:16b,IVSpeed:31b,IV_HTSPECIAL_ATTACK:1b,IV_HTSPECIAL_DEFENSE:1b,Level:100,MintNature:20b,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763070128452L,MoveSkillCooldownId:"mount_boost",MoveSkillCooldownTarget:1763070168452L}],Moveset:[{MoveID:"Electro Drift",MovePP:5b},{MoveID:"Draco Meteor",MovePP:5b},{MoveID:"Volt Switch",MovePP:20b},{MoveID:"Mirror Coat",MovePP:20b}],NBT_VERSION:2b,Nature:5b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Dragon Pulse","Agility","Mirror Coat","Volt Switch","Electro Drift"],Size:251.36755389744684d,SpecFlags:[],StatsAttack:206s,StatsDefense:237s,StatsHP:404s,StatsSpecialAttack:392s,StatsSpecialDefense:247s,StatsSpeed:309s,UUID:[I;-1276603403,-815378904,-1224603960,576349335],Variant:"base",eggCycles:-1,ndex:1008,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Yveltal {Ability:"DarkAura",CaughtBall:"master_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:6s,EVDefense:0s,EVHP:0s,EVSpecialAttack:252s,EVSpecialDefense:0s,EVSpeed:252s,EXP:0,FormattedNickname:'{"text":"","extra":["『カラス』"]}',Friendship:255s,Gender:2b,GigantamaxFactor:0b,Health:393,HeldItemStack:{count:1,id:"pixelmon:life_orb"},IVAttack:22b,IVDefense:31b,IVHP:27b,IVSpAtt:12b,IVSpDef:31b,IVSpeed:31b,IV_HTATTACK:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763071366066L,MoveSkillCooldownId:"fly",MoveSkillCooldownTarget:1763071367116L}],Moveset:[{MoveID:"Sky Attack",MovePP:5b},{MoveID:"Foul Play",MovePP:15b},{MoveID:"Dark Pulse",MovePP:15b},{MoveID:"Fly",MovePP:15b}],NBT_VERSION:2b,Nature:2b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Foul Play","Fly","Roost","Snarl","Dark Pulse","Gust","Disable"],Size:354.61112173609985d,SpecFlags:[],StatsAttack:299s,StatsDefense:226s,StatsHP:393s,StatsSpecialAttack:361s,StatsSpecialDefense:232s,StatsSpeed:297s,UUID:[I;-1063911881,-209827597,-1503807379,789664429],Variant:"base",eggCycles:-1,ndex:717,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Lunala {Ability:"ShadowShield",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:0s,EVDefense:4s,EVHP:118s,EVSpecialAttack:252s,EVSpecialDefense:4s,EVSpeed:132s,EXP:7716,FormattedNickname:'{"text":"","extra":["『コウモリ』"]}',Friendship:255s,Gender:2b,GigantamaxFactor:0b,Health:415,HeldItemStack:{count:1,id:"pixelmon:choice_scarf"},IVAttack:31b,IVDefense:9b,IVHP:22b,IVSpAtt:15b,IVSpDef:31b,IVSpeed:31b,IV_HTDEFENSE:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,Level:100,MintNature:16b,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762894687610L,MoveSkillCooldownId:"open_wormhole",MoveSkillCooldownTarget:1762895587610L},{MoveSkillCooldownCurrent:1762706868028L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762706893028L}],Moveset:[{MoveID:"Moongeist Beam",MovePP:5b},{MoveID:"Moonblast",MovePP:15b},{MoveID:"Psyshock",MovePP:10b},{MoveID:"Focus Blast",MovePP:5b}],NBT_VERSION:2b,Nature:2b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Future Sight","Cosmic Power","Psyshock","Splash","Teleport","Moongeist Beam","Focus Blast"],Size:392.969829837004d,SpecFlags:[],StatsAttack:262s,StatsDefense:215s,StatsHP:444s,StatsSpecialAttack:373s,StatsSpecialDefense:225s,StatsSpeed:289s,UUID:[I;-1179243225,-108770495,-1853800206,-1381633602],Variant:"base",eggCycles:-1,ndex:792,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Mew {Ability:"Synchronize",CaughtBall:"dive_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:119s,EVDefense:180s,EVHP:10s,EVSpecialAttack:37s,EVSpecialDefense:153s,EVSpeed:11s,EXP:3370,Friendship:200s,Gender:2b,GigantamaxFactor:0b,Health:0,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:31b,IVDefense:19b,IVHP:25b,IVSpAtt:31b,IVSpDef:31b,IVSpeed:19b,Level:91,Moveset:[{MoveID:"Metronome",MovePP:10b},{MoveID:"Reflect Type",MovePP:15b},{MoveID:"Transform",MovePP:9b},{MoveID:"Aura Sphere",MovePP:20b}],NBT_VERSION:2b,Nature:8b,NumCloned:3,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Metronome","Pound","Nasty Plot","Amnesia","Imprison","Transform","Reflect Type"],Size:106.558880315261d,SpecFlags:[],StatsAttack:266s,StatsDefense:245s,StatsHP:308s,StatsSpecialAttack:223s,StatsSpecialDefense:225s,StatsSpeed:206s,UUID:[I;-1225383886,-584367429,-1538880300,1643557846],Variant:"base",eggCycles:-1,ndex:151,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Mawile {Ability:"Intimidate",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:198s,EVDefense:0s,EVHP:167s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:145s,EXP:439,FormattedNickname:'{"text":"","extra":["『ハ』"]}',Friendship:255s,Gender:1b,GigantamaxFactor:0b,Health:280,HeldItemStack:{components:{"pixelmon:mega_evolution":{duration:5400000L,form_name:"mega",valid_pokemon:["mawile"]},"pixelmon:next_usable":"2036-02-17T04:12:18.968934574Z"},count:1,id:"pixelmon:mawilite"},IVAttack:6b,IVDefense:26b,IVHP:29b,IVSpAtt:29b,IVSpDef:0b,IVSpeed:10b,Level:100,MintNature:16b,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762752859894L,MoveSkillCooldownId:"scare",MoveSkillCooldownTarget:1762753159894L},{MoveSkillCooldownCurrent:1762706857877L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762706882877L}],Moveset:[{MoveID:"Play Rough",MovePP:10b},{MoveID:"False Swipe",MovePP:32b},{MoveID:"Iron Head",MovePP:15b},{MoveID:"Fire Fang",MovePP:14b}],NBT_VERSION:2b,Nature:10b,PAbilitySlot:1,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Play Rough","Astonish","Bite","Iron Defense","Fire Fang","Crunch","Iron Head"],Size:61.85857324827446d,SpecFlags:[],StatsAttack:230s,StatsDefense:201s,StatsHP:280s,StatsSpecialAttack:144s,StatsSpecialDefense:103s,StatsSpeed:166s,UUID:[I;509829599,-497333300,-1288727742,147472422],Variant:"base",eggCycles:-1,ndex:303,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+Team #1 WildPixelmonParticipant Latias minecraft:overworld (-217447.40309718534, 66.22454470269439, -170805.6072489149) 
+	Latias {Ability:"Levitate",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:1b,GigantamaxFactor:0b,Health:15,IVAttack:15b,IVDefense:11b,IVHP:26b,IVSpAtt:31b,IVSpDef:31b,IVSpeed:31b,Level:70,Moveset:[{MoveID:"Charm",MovePP:14b},{MoveID:"Dragon Breath",MovePP:15b},{MoveID:"Wish",MovePP:6b},{MoveID:"Dragon Pulse",MovePP:1b}],NBT_VERSION:2b,Nature:4b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Dragon Breath","Charm","Wish"],Size:98.3616577222831d,SpecFlags:[],StatsAttack:127s,StatsDefense:138s,StatsHP:210s,StatsSpecialAttack:180s,StatsSpecialDefense:208s,StatsSpeed:180s,Status:0s,UUID:[I;1601220951,7227434,-1996988633,624896692],Variant:"base",eggCycles:-1,ndex:380,palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Parasect stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-4
+Miraidon stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Yveltal stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Lunala stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-3
+Mew stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-3
+Mawile stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-4
+Latias stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Parasect stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53] delta: ATTACK=-125, DEFENSE=-120, SPECIAL_ATTACK=-92, SPECIAL_DEFENSE=-116, SPEED=-49
+Latias stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180] delta: ATTACK=-124, DEFENSE=-135, SPECIAL_ATTACK=-178, SPECIAL_DEFENSE=-206, SPEED=-178
+Latias selected attack Dragon Pulse for Latias targeting Parasect and opted to mega evolve
+lame1202 selected attack Spore for Parasect targeting Latias
+Battle Message: Latias used Dragon Pulse!
+Parasect was damaged by Latias type ATTACK for 111 before: 156 after: 45
+Latias used Dragon Pulse against Parasect with results MoveResults{damage=111, fullDamage=111, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Parasect used Spore!
+Latias was given status com.pixelmonmod.pixelmon.battles.status.Sleep@2326309f
+lame1202 told Parasect to use Spore against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=proceed, weightMod=0.0}
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=153, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=30, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=45, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Wish for Latias targeting Latias and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Latias
+Battle Message: lame1202 threw the Dusk Ball!
+Battle Message: Latias is still sleeping!
+
+Turn #1 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=45, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #2 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=45, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Breath for Latias targeting Parasect and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Latias
+Battle Message: lame1202 threw the Dusk Ball!
+Battle Message: Latias is still sleeping!
+
+Turn #2 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=45, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #3 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=45, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Wish for Latias targeting Latias and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Latias
+Battle Message: lame1202 threw the Dusk Ball!
+Battle Message: Latias is still sleeping!
+
+Turn #3 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=45, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #4 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=45, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Breath for Latias targeting Parasect and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Latias
+Battle Message: lame1202 threw the Dusk Ball!
+Latias lost status com.pixelmonmod.pixelmon.battles.status.Sleep@2de1da8b
+Battle Message: Latias woke up!
+Battle Message: Latias used Dragon Breath!
+Parasect was damaged by Latias type ATTACK for 45 before: 45 after: 0
+Battle Message: Parasect fainted!
+Latias used Dragon Breath against Parasect with results MoveResults{damage=45, fullDamage=75, power=[], accuracy=0, priority=0.0, result=killed, weightMod=0.0}
+
+Turn #4 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mew[health=308, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #5 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mew[health=308, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Pulse for Latias targeting Mew and opted to mega evolve
+lame1202 selected attack Transform for Mew targeting Latias
+Mew stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=266, DEFENSE=245, SPECIAL_ATTACK=223, SPECIAL_DEFENSE=225, SPEED=206] delta: ATTACK=-263, DEFENSE=-242, SPECIAL_ATTACK=-220, SPECIAL_DEFENSE=-222, SPEED=-203
+Battle Message: Mew used Transform!
+Battle Message: Mew transformed into Latias!
+Mew was given status com.pixelmonmod.pixelmon.battles.status.Transformed@10f31630
+Mew changed types from pixelmon:psychic to pixelmon:dragon, pixelmon:psychic
+Mew changed abilities from Synchronize to Levitate
+lame1202 told Latias to use Transform against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Latias stats changed from [ACCURACY=100, EVASION=100, ATTACK=266, DEFENSE=245, SPECIAL_ATTACK=223, SPECIAL_DEFENSE=225, SPEED=206] to [ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180] delta: ATTACK=139, DEFENSE=107, SPECIAL_ATTACK=43, SPECIAL_DEFENSE=17, SPEED=26
+Battle Message: Latias used Dragon Pulse!
+Battle Message: It's super effective!
+Latias was damaged by Latias type ATTACK for 135 before: 308 after: 173
+Latias used Dragon Pulse against Latias with results null
+
+Turn #5 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=308, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #6 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=173, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Charm for Latias targeting Mew and opted to mega evolve
+lame1202 selected attack Dragon Breath for Latias targeting Latias
+Battle Message: Latias used Charm!
+Battle Message: Mew's Attack was decreased harshly!
+Latias used Charm against Latias with results null
+Battle Message: Mew used Dragon Breath!
+Battle Message: It's super effective!
+Latias was damaged by Latias type ATTACK for 113 before: 210 after: 97
+lame1202 told Latias to use Dragon Breath against Latias with results MoveResults{damage=113, fullDamage=113, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #6 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=173, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=210, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #7 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=173, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=97, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Breath for Latias targeting Mew and opted to mega evolve
+lame1202 selected attack Charm for Latias targeting Latias
+Battle Message: Latias used Dragon Breath!
+Battle Message: It's super effective!
+Latias was damaged by Latias type ATTACK for 92 before: 173 after: 81
+Latias used Dragon Breath against Latias with results null
+Battle Message: Mew used Charm!
+Battle Message: Latias's Attack was decreased harshly!
+lame1202 told Latias to use Charm against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+
+Turn #7 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=173, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=97, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #8 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=81, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=97, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Charm for Latias targeting Mew and opted to mega evolve
+lame1202 selected attack Charm for Latias targeting Latias
+Battle Message: Mew used Charm!
+Battle Message: Latias's Attack was decreased harshly!
+lame1202 told Latias to use Charm against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Latias used Charm!
+Battle Message: Mew's Attack was decreased harshly!
+Latias used Charm against Latias with results null
+
+Turn #8 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=81, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=97, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #9 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=81, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=97, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Wish for Latias targeting Latias and opted to mega evolve
+lame1202 selected attack Charm for Latias targeting Latias
+Battle Message: Mew used Charm!
+Battle Message: Latias's Attack was decreased harshly!
+lame1202 told Latias to use Charm against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Latias used Wish!
+Latias was given status com.pixelmonmod.pixelmon.battles.status.Wish@2713b214
+Latias used Wish against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+
+Turn #9 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=81, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=97, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #10 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=81, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=97, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Wish for Latias targeting Latias and opted to mega evolve
+lame1202 selected attack Charm for Latias targeting Latias
+Battle Message: Mew used Charm!
+Battle Message: Latias's Attack can't go lower!
+lame1202 told Latias to use Charm against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Battle Message: Latias used Wish!
+Battle Message: But it failed!
+Latias used Wish against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Latias lost status com.pixelmonmod.pixelmon.battles.status.Wish@2713b214
+Battle Message: Latias's wish came true!
+Latias was healed by 105 before: 97 after: 202
+
+Turn #10 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=81, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=97, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #11 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=81, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=202, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Wish for Latias targeting Latias and opted to mega evolve
+lame1202 selected attack Wish for Latias targeting Mew
+Battle Message: Latias used Wish!
+Latias was given status com.pixelmonmod.pixelmon.battles.status.Wish@627798df
+Latias used Wish against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Mew used Wish!
+Latias was given status com.pixelmonmod.pixelmon.battles.status.Wish@65d5d1ce
+lame1202 told Latias to use Wish against Latias with results null
+
+Turn #11 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=81, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=202, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #12 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Latias[health=81, , max health=308]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=202, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Pulse for Latias targeting Mew and opted to mega evolve
+lame1202 selected attack Dragon Breath for Latias targeting Latias
+Battle Message: Mew used Dragon Breath!
+Battle Message: It's super effective!
+Latias was damaged by Latias type ATTACK for 115 before: 202 after: 87
+lame1202 told Latias to use Dragon Breath against Latias with results MoveResults{damage=115, fullDamage=115, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Latias used Dragon Pulse!
+Battle Message: It's super effective!
+Latias was damaged by Latias type ATTACK for 81 before: 81 after: 0
+Battle Message: Mew fainted!
+Latias used Dragon Pulse against Latias with results null
+Latias lost status com.pixelmonmod.pixelmon.battles.status.Wish@65d5d1ce
+Latias lost status com.pixelmonmod.pixelmon.battles.status.Wish@627798df
+Battle Message: Latias's wish came true!
+Latias was healed by 105 before: 87 after: 192
+Mew lost status com.pixelmonmod.pixelmon.battles.status.Transformed@10f31630
+Battle Message: 『ハ』's Intimidate activated!
+Battle Message: Latias's Attack can't go lower!
+
+Turn #12 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=202, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #13 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=192, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Charm for Latias targeting Mawile and opted to mega evolve
+lame1202 selected attack False Swipe for Mawile targeting Latias
+Mawile stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166] delta: ATTACK=-227, DEFENSE=-198, SPECIAL_ATTACK=-141, SPECIAL_DEFENSE=-100, SPEED=-162
+Battle Message: Latias used Charm!
+Battle Message: 『ハ』's Attack was decreased harshly!
+Latias used Charm against Mawile with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: 『ハ』 used False Swipe!
+Latias was damaged by Mawile type ATTACK for 25 before: 192 after: 167
+lame1202 told Mawile to use False Swipe against Latias with results MoveResults{damage=25, fullDamage=25, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #13 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=192, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #14 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=167, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Pulse for Latias targeting Mawile and opted to mega evolve
+lame1202 selected attack False Swipe for Mawile targeting Latias
+Battle Message: Latias used Dragon Pulse!
+Battle Message: It doesn't affect 『ハ』...
+Latias used Dragon Pulse against Mawile with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Battle Message: 『ハ』 used False Swipe!
+Latias was damaged by Mawile type ATTACK for 29 before: 167 after: 138
+lame1202 told Mawile to use False Swipe against Latias with results MoveResults{damage=29, fullDamage=29, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #14 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=167, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #15 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=138, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Breath for Latias targeting Mawile and opted to mega evolve
+lame1202 selected attack False Swipe for Mawile targeting Latias
+Battle Message: Latias used Dragon Breath!
+Battle Message: It doesn't affect 『ハ』...
+Latias used Dragon Breath against Mawile with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Battle Message: 『ハ』 used False Swipe!
+Latias was damaged by Mawile type ATTACK for 27 before: 138 after: 111
+lame1202 told Mawile to use False Swipe against Latias with results MoveResults{damage=27, fullDamage=27, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #15 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=138, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #16 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=111, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Breath for Latias targeting Mawile and opted to mega evolve
+lame1202 selected attack False Swipe for Mawile targeting Latias
+Battle Message: Latias used Dragon Breath!
+Battle Message: It doesn't affect 『ハ』...
+Latias used Dragon Breath against Mawile with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Battle Message: 『ハ』 used False Swipe!
+Latias was damaged by Mawile type ATTACK for 29 before: 111 after: 82
+lame1202 told Mawile to use False Swipe against Latias with results MoveResults{damage=29, fullDamage=29, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #16 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=111, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #17 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=82, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Charm for Latias targeting Mawile and opted to mega evolve
+lame1202 selected attack False Swipe for Mawile targeting Latias
+Battle Message: Latias used Charm!
+Battle Message: 『ハ』's Attack was decreased harshly!
+Latias used Charm against Mawile with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: 『ハ』 used False Swipe!
+Latias was damaged by Mawile type ATTACK for 18 before: 82 after: 64
+lame1202 told Mawile to use False Swipe against Latias with results MoveResults{damage=18, fullDamage=18, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #17 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=82, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #18 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=64, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Wish for Latias targeting Latias and opted to mega evolve
+lame1202 selected attack False Swipe for Mawile targeting Latias
+Battle Message: Latias used Wish!
+Latias was given status com.pixelmonmod.pixelmon.battles.status.Wish@5ea9114b
+Latias used Wish against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: 『ハ』 used False Swipe!
+Latias was damaged by Mawile type ATTACK for 19 before: 64 after: 45
+lame1202 told Mawile to use False Swipe against Latias with results MoveResults{damage=19, fullDamage=19, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #18 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=64, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #19 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=45, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Pulse for Latias targeting Mawile and opted to mega evolve
+lame1202 selected attack False Swipe for Mawile targeting Latias
+Battle Message: Latias used Dragon Pulse!
+Battle Message: It doesn't affect 『ハ』...
+Latias used Dragon Pulse against Mawile with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Battle Message: 『ハ』 used False Swipe!
+Latias was damaged by Mawile type ATTACK for 18 before: 45 after: 27
+lame1202 told Mawile to use False Swipe against Latias with results MoveResults{damage=18, fullDamage=18, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Latias lost status com.pixelmonmod.pixelmon.battles.status.Wish@5ea9114b
+Battle Message: Latias's wish came true!
+Latias was healed by 105 before: 27 after: 132
+
+Turn #19 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=45, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #20 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-4, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=132, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Charm for Latias targeting Mawile and opted to mega evolve
+lame1202 selected attack Fire Fang for Mawile targeting Latias
+Battle Message: Latias used Charm!
+Battle Message: 『ハ』's Attack was decreased harshly!
+Latias used Charm against Mawile with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: 『ハ』 used Fire Fang!
+Battle Message: It wasn't very effective...
+Latias was damaged by Mawile type ATTACK for 12 before: 132 after: 120
+Latias was given status com.pixelmonmod.pixelmon.battles.status.Burn@1a91aba2
+lame1202 told Mawile to use Fire Fang against Latias with results MoveResults{damage=12, fullDamage=12, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Latias is hurt by its burn!
+Latias was damaged by Latias type STATUS for 13 before: 120 after: 107
+
+Turn #20 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=132, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #21 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=107, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Breath for Latias targeting Mawile and opted to mega evolve
+lame1202 selected attack False Swipe for Mawile targeting Latias
+Battle Message: Latias used Dragon Breath!
+Battle Message: It doesn't affect 『ハ』...
+Latias used Dragon Breath against Mawile with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Battle Message: 『ハ』 used False Swipe!
+Latias was damaged by Mawile type ATTACK for 14 before: 107 after: 93
+lame1202 told Mawile to use False Swipe against Latias with results MoveResults{damage=14, fullDamage=14, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Latias is hurt by its burn!
+Latias was damaged by Latias type STATUS for 13 before: 93 after: 80
+
+Turn #21 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=107, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #22 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=80, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Pulse for Latias targeting Mawile and opted to mega evolve
+lame1202 used pixelmon:revival_herb on Parasect
+Battle Message: lame1202 used the Revival Herb.
+lame1202 was healed by 156 before: 0 after: 156
+Battle Message: Parasect restored health!
+Battle Message: Latias used Dragon Pulse!
+Battle Message: It doesn't affect 『ハ』...
+Latias used Dragon Pulse against Mawile with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Battle Message: Latias is hurt by its burn!
+Latias was damaged by Latias type STATUS for 13 before: 80 after: 67
+
+Turn #22 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=80, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #23 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Mawile[health=280, , max health=280]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=230, DEFENSE=201, SPECIAL_ATTACK=144, SPECIAL_DEFENSE=103, SPEED=166, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=67, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Pulse for Latias targeting Mawile and opted to mega evolve
+lame1202 switching from Mawile to Parasect
+Battle Message: Latias used Dragon Pulse!
+Parasect was damaged by Latias type ATTACK for 109 before: 156 after: 47
+Latias used Dragon Pulse against Parasect with results MoveResults{damage=109, fullDamage=109, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Latias is hurt by its burn!
+Latias was damaged by Latias type STATUS for 13 before: 67 after: 54
+
+Turn #23 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=156, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=67, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #24 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=47, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=54, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Charm for Latias targeting Parasect and opted to mega evolve
+lame1202 selected attack Spore for Parasect targeting Latias
+Battle Message: Latias used Charm!
+Battle Message: Parasect's Attack was decreased harshly!
+Latias used Charm against Parasect with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Parasect used Spore!
+Battle Message: But it failed!
+lame1202 told Parasect to use Spore against Latias with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Battle Message: Latias is hurt by its burn!
+Latias was damaged by Latias type STATUS for 13 before: 54 after: 41
+
+Turn #24 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=47, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=54, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #25 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=47, , max health=156]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=128, DEFENSE=123, SPECIAL_ATTACK=95, SPECIAL_DEFENSE=119, SPEED=53, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-2, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=41, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Pulse for Latias targeting Parasect and opted to mega evolve
+lame1202 selected attack Spore for Parasect targeting Latias
+Battle Message: Latias used Dragon Pulse!
+Parasect was damaged by Latias type ATTACK for 47 before: 47 after: 0
+Battle Message: Parasect fainted!
+Latias used Dragon Pulse against Parasect with results MoveResults{damage=47, fullDamage=114, power=[], accuracy=0, priority=0.0, result=killed, weightMod=0.0}
+Battle Message: Latias is hurt by its burn!
+Latias was damaged by Latias type STATUS for 13 before: 41 after: 28
+Battle Message: lame1202 couldn't escape!
+lame1202 fled the battle
+Battle Message: lame1202 couldn't escape!
+lame1202 fled the battle
+
+Turn #25 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=444, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=41, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #26 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=444, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=28, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Pulse for Latias targeting Lunala and opted to mega evolve
+Lunala stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433] delta: ATTACK=-260, DEFENSE=-212, SPECIAL_ATTACK=-371, SPECIAL_DEFENSE=-223, SPEED=-430
+lame1202 used pixelmon:poke_ball on Latias
+Battle Message: lame1202 threw the Timer Ball!
+Battle Message: Latias used Dragon Pulse!
+Lunala was damaged by Latias type ATTACK for 29 before: 444 after: 415
+Latias used Dragon Pulse against Lunala with results MoveResults{damage=29, fullDamage=29, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Latias is hurt by its burn!
+Latias was damaged by Latias type STATUS for 13 before: 28 after: 15
+
+Turn #26 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=444, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=28, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #27 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=415, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latias[health=15, , max health=210]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=127, DEFENSE=138, SPECIAL_ATTACK=180, SPECIAL_DEFENSE=208, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-6, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latias selected attack Dragon Breath for Latias targeting Lunala and opted to mega evolve
+
+BATTLE ENDED
+
+BATTLE ENDED
+Caught error in battle. Continuing...
+Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.common.asm.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:60)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:94)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:57)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:190)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$20(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:311)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:214)
+java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.forfeitBattleForBeingTooFarAway(PlayerParticipant.java:666)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.handlePlayerDistanceFromBattle(PlayerParticipant.java:647)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.tick(PlayerParticipant.java:451)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.onUpdate(BattleController.java:1135)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:511)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

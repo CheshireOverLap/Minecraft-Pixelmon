@@ -1,0 +1,1 @@
+-Xmx10G -Xms8G -Dlog4j.configurationFile=log4j2.xml

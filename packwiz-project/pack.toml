@@ -1,0 +1,13 @@
+name = "OMC Pixelmon Modpack"
+author = "OverTop"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b764cb53bbbd37a01eec80fcab30c1d15bcac46f899e5c9629ce76c1d6a3ed37"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.209"

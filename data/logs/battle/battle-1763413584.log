@@ -1,0 +1,89 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-17T21:06:24.894339062Z
+
+Team #0 PlayerParticipant lame1202 minecraft:overworld (-217435.1659269699, 89.59297961189623, -170839.016285312) 
+	Parasect {Ability:"Damp",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:252s,EVDefense:0s,EVHP:6s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:252s,EXP:14580,FormattedNickname:'{"text":"","extra":["『キノコ』"]}',Friendship:206s,Gender:1b,GigantamaxFactor:0b,Health:194,HeldItemStack:{count:1,id:"pixelmon:leftovers"},IVAttack:4b,IVDefense:10b,IVHP:10b,IVSpAtt:24b,IVSpDef:21b,IVSpeed:25b,IV_HTATTACK:1b,IV_HTDEFENSE:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,IV_HTSPECIAL_DEFENSE:1b,IV_HTSPEED:1b,Level:100,MintNature:14b,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763400069074L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1763400094074L}],Moveset:[{MoveID:"False Swipe",MovePP:40b},{MoveID:"Spore",MovePP:24b,MovePPLevel:3b},{MoveID:"X-Scissor",MovePP:15b},{MoveID:"Stun Spore",MovePP:30b}],NBT_VERSION:2b,Nature:18b,PAbilitySlot:0,PHiddenAbility:1b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Poison Powder","False Swipe","Scratch","Spore","Stun Spore","Absorb","Aromatherapy","Fury Cutter"],Size:160.5631275379926d,SpecFlags:[],StatsAttack:289s,StatsDefense:176s,StatsHP:262s,StatsSpecialAttack:156s,StatsSpecialDefense:196s,StatsSpeed:174s,UUID:[I;-1276842647,-1846917542,-1364704173,2018912491],Variant:"base",eggCycles:-1,ndex:47,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"pink",ribbons2:[]}
+	Gholdengo {Ability:"GoodAsGold",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:228s,EVDefense:9s,EVHP:8s,EVSpecialAttack:237s,EVSpecialDefense:12s,EVSpeed:16s,EXP:3297,FormattedNickname:'{"text":"","extra":["『キン』"]}',Friendship:62s,Gender:2b,GigantamaxFactor:0b,Health:309,HeldItemStack:{count:1,id:"pixelmon:choice_specs"},IVAttack:12b,IVDefense:30b,IVHP:23b,IVSpAtt:6b,IVSpDef:15b,IVSpeed:10b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762540317434L,MoveSkillCooldownId:"ore_sense",MoveSkillCooldownTarget:1762540437434L},{MoveSkillCooldownCurrent:1762700864955L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762700889955L}],Moveset:[{MoveID:"Make It Rain",MovePP:8b,MovePPLevel:3b},{MoveID:"Shadow Ball",MovePP:15b},{MoveID:"Trick",MovePP:10b},{MoveID:"Power Gem",MovePP:20b}],NBT_VERSION:2b,Nature:11b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Night Shade","Nasty Plot","Make It Rain","Shadow Ball","Confuse Ray","Recover","Substitute","Flash Cannon","Power Gem","Metal Sound"],Size:51.93591104927317d,SpecFlags:[],StatsAttack:194s,StatsDefense:249s,StatsHP:309s,StatsSpecialAttack:302s,StatsSpecialDefense:205s,StatsSpeed:187s,UUID:[I;-1646217366,-392935378,-1324744369,1913311800],Variant:"base",eggCycles:-1,ndex:1000,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Miraidon {Ability:"HadronEngine",CaughtBall:"dive_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:0s,EVDefense:4s,EVHP:252s,EVSpecialAttack:206s,EVSpecialDefense:36s,EVSpeed:12s,EXP:4021,Friendship:0s,Gender:2b,GigantamaxFactor:0b,Health:404,HeldItemStack:{count:1,id:"pixelmon:assault_vest"},IVAttack:31b,IVDefense:31b,IVHP:31b,IVSpAtt:14b,IVSpDef:16b,IVSpeed:31b,IV_HTSPECIAL_ATTACK:1b,IV_HTSPECIAL_DEFENSE:1b,Level:100,MintNature:20b,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763070128452L,MoveSkillCooldownId:"mount_boost",MoveSkillCooldownTarget:1763070168452L},{MoveSkillCooldownCurrent:1763400059867L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1763400084867L}],Moveset:[{MoveID:"Electro Drift",MovePP:8b,MovePPLevel:3b},{MoveID:"Draco Meteor",MovePP:8b,MovePPLevel:3b},{MoveID:"Volt Switch",MovePP:20b},{MoveID:"Mirror Coat",MovePP:20b}],NBT_VERSION:2b,Nature:5b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Dragon Pulse","Agility","Mirror Coat","Volt Switch","Electro Drift"],Size:251.36755389744684d,SpecFlags:[],StatsAttack:206s,StatsDefense:237s,StatsHP:404s,StatsSpecialAttack:392s,StatsSpecialDefense:247s,StatsSpeed:309s,UUID:[I;-1276603403,-815378904,-1224603960,576349335],Variant:"base",eggCycles:-1,ndex:1008,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Yveltal {Ability:"DarkAura",CaughtBall:"master_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:6s,EVDefense:0s,EVHP:0s,EVSpecialAttack:252s,EVSpecialDefense:0s,EVSpeed:252s,EXP:0,FormattedNickname:'{"text":"","extra":["『カラス』"]}',Friendship:12s,Gender:2b,GigantamaxFactor:0b,Health:393,HeldItemStack:{count:1,id:"pixelmon:life_orb"},IVAttack:22b,IVDefense:31b,IVHP:27b,IVSpAtt:12b,IVSpDef:31b,IVSpeed:31b,IV_HTATTACK:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763071366066L,MoveSkillCooldownId:"fly",MoveSkillCooldownTarget:1763071367116L},{MoveSkillCooldownCurrent:1763400062074L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1763400087074L}],Moveset:[{MoveID:"Oblivion Wing",MovePP:16b,MovePPLevel:3b},{MoveID:"Foul Play",MovePP:15b},{MoveID:"Dark Pulse",MovePP:15b},{MoveID:"Fly",MovePP:15b}],NBT_VERSION:2b,Nature:2b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Foul Play","Fly","Roost","Sky Attack","Snarl","Dark Pulse","Gust","Disable"],Size:354.61112173609985d,SpecFlags:[],StatsAttack:299s,StatsDefense:226s,StatsHP:393s,StatsSpecialAttack:361s,StatsSpecialDefense:232s,StatsSpeed:297s,UUID:[I;-1063911881,-209827597,-1503807379,789664429],Variant:"base",eggCycles:-1,ndex:717,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Calyrex {Ability:"AsOne",CaughtBall:"dive_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:26s,EVDefense:138s,EVHP:68s,EVSpecialAttack:11s,EVSpecialDefense:24s,EVSpeed:18s,EXP:14599,Friendship:102s,Gender:2b,GigantamaxFactor:0b,Health:267,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:31b,IVDefense:7b,IVHP:31b,IVSpAtt:31b,IVSpDef:14b,IVSpeed:21b,Level:74,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763400044784L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1763400069784L}],Moveset:[{MoveID:"Life Dew",MovePP:10b},{MoveID:"Helping Hand",MovePP:20b},{MoveID:"Psychic Terrain",MovePP:10b},{MoveID:"Astral Barrage",MovePP:8b,MovePPLevel:3b}],NBT_VERSION:2b,Nature:5b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{FusedPokemon:{Ability:"GrimNeigh",CaughtBall:"dive_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:35s,Gender:2b,GigantamaxFactor:0b,Health:227,IVAttack:31b,IVDefense:20b,IVHP:10b,IVSpAtt:31b,IVSpDef:4b,IVSpeed:31b,Level:70,Moveset:[{MoveID:"Tackle",MovePP:35b},{MoveID:"Tail Whip",MovePP:30b},{MoveID:"Hex",MovePP:10b},{MoveID:"Haze",MovePP:30b}],NBT_VERSION:2b,Nature:1b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Tackle","Tail Whip","Hex"],Size:153.14231627072277d,SpecFlags:[],StatsAttack:117s,StatsDefense:103s,StatsHP:227s,StatsSpecialAttack:229s,StatsSpecialDefense:119s,StatsSpeed:208s,UUID:[I;-330583638,-2093398841,-1301516363,189157875],Variant:"base",eggCycles:-1,ndex:897,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Helping Hand","Psychic Terrain","Life Dew","Pound"],Size:110.17346430423368d,SpecFlags:[],StatsAttack:173s,StatsDefense:138s,StatsHP:267s,StatsSpecialAttack:274s,StatsSpecialDefense:167s,StatsSpeed:245s,UUID:[I;878262009,638142455,-1732422590,-275664414],Variant:"shadowrider",eggCycles:-1,ndex:898,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Eternatus {Ability:"Pressure",CaughtBall:"dusk_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:20s,EVDefense:136s,EVHP:68s,EVSpecialAttack:11s,EVSpecialDefense:24s,EVSpeed:18s,EXP:12149,Friendship:0s,Gender:2b,GigantamaxFactor:0b,Health:306,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:31b,IVDefense:31b,IVHP:4b,IVSpAtt:11b,IVSpDef:31b,IVSpeed:10b,Level:74,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763400042229L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1763400067229L}],Moveset:[{MoveID:"Dynamax Cannon",MovePP:8b,MovePPLevel:3b},{MoveID:"Poison Tail",MovePP:25b},{MoveID:"Cross Poison",MovePP:20b},{MoveID:"Dragon Pulse",MovePP:10b}],NBT_VERSION:2b,Nature:8b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Dragon Pulse","Poison Tail","Cross Poison","Agility"],Size:594.9818510150182d,SpecFlags:[],StatsAttack:172s,StatsDefense:193s,StatsHP:306s,StatsSpecialAttack:229s,StatsSpecialDefense:154s,StatsSpeed:208s,UUID:[I;323583437,1923499351,-1821434788,-1937172760],Variant:"ordinary",eggCycles:-1,ndex:890,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+Team #1 WildPixelmonParticipant Latios minecraft:overworld (-217426.72970970144, 93.02021291721547, -170828.89315786952) 
+	Latios {Ability:"Levitate",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:0b,GigantamaxFactor:0b,Health:213,IVAttack:25b,IVDefense:18b,IVHP:31b,IVSpAtt:31b,IVSpDef:4b,IVSpeed:31b,Level:70,Moveset:[{MoveID:"Stored Power",MovePP:10b},{MoveID:"Dragon Breath",MovePP:20b},{MoveID:"Zen Headbutt",MovePP:15b},{MoveID:"Dragon Pulse",MovePP:9b}],NBT_VERSION:2b,Nature:2b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Dragon Breath","Zen Headbutt","Stored Power"],Size:107.97610243031315d,SpecFlags:[],StatsAttack:148s,StatsDefense:129s,StatsHP:213s,StatsSpecialAttack:208s,StatsSpecialDefense:161s,StatsSpeed:180s,UUID:[I;844880682,-601143795,-1472093683,2007914308],Variant:"base",eggCycles:-1,ndex:381,palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Parasect stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-4
+Gholdengo stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Miraidon stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Yveltal stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Calyrex stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=1, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-1, SPECIAL_DEFENSE=-3, SPEED=-2
+Eternatus stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-2
+Latios stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Parasect stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=289, DEFENSE=176, SPECIAL_ATTACK=156, SPECIAL_DEFENSE=196, SPEED=174] delta: ATTACK=-286, DEFENSE=-173, SPECIAL_ATTACK=-153, SPECIAL_DEFENSE=-193, SPEED=-170
+Latios stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=129, SPECIAL_ATTACK=208, SPECIAL_DEFENSE=161, SPEED=180] delta: ATTACK=-145, DEFENSE=-126, SPECIAL_ATTACK=-206, SPECIAL_DEFENSE=-159, SPEED=-178
+Latios selected attack Dragon Pulse for Latios targeting Parasect and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Latios
+Battle Message: lame1202 threw the Quick Ball!
+Battle Message: Latios used Dragon Pulse!
+Parasect was damaged by Latios type ATTACK for 84 before: 262 after: 178
+Latios used Dragon Pulse against Parasect with results MoveResults{damage=84, fullDamage=84, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+lame1202 was healed by 16 before: 178 after: 194
+Battle Message: 『キノコ』's Leftovers restored some of its health!
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=262, , max health=262]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=289, DEFENSE=176, SPECIAL_ATTACK=156, SPECIAL_DEFENSE=196, SPEED=174, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latios[health=213, , max health=213]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=129, SPECIAL_ATTACK=208, SPECIAL_DEFENSE=161, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Parasect[health=194, , max health=262]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=289, DEFENSE=176, SPECIAL_ATTACK=156, SPECIAL_DEFENSE=196, SPEED=174, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Latios[health=213, , max health=213]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=129, SPECIAL_ATTACK=208, SPECIAL_DEFENSE=161, SPEED=180, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Latios selected attack Dragon Pulse for Latios targeting Parasect and opted to mega evolve
+
+BATTLE ENDED
+
+BATTLE ENDED
+Caught error in battle. Continuing...
+Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.common.asm.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:60)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:94)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:57)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:190)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$20(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:311)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:214)
+java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.forfeitBattleForBeingTooFarAway(PlayerParticipant.java:666)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.handlePlayerDistanceFromBattle(PlayerParticipant.java:647)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.tick(PlayerParticipant.java:451)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.onUpdate(BattleController.java:1135)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:511)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

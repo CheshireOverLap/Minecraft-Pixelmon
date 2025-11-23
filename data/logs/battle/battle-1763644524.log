@@ -1,0 +1,151 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-20T13:15:24.890425585Z
+
+Team #0 PlayerParticipant ___________12345 minecraft:overworld (1909.1223650125899, 116.0, 45117.56136824361) 
+	Arceus {Ability:"Multitype",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:54s,EVDefense:67s,EVHP:10s,EVSpecialAttack:23s,EVSpecialDefense:8s,EVSpeed:24s,EXP:30498,Friendship:100s,Gender:2b,GigantamaxFactor:0b,Health:383,HeldItemStack:{count:1,id:"pixelmon:legend_plate"},IVAttack:4b,IVDefense:31b,IVHP:22b,IVSpAtt:31b,IVSpDef:4b,IVSpeed:31b,IV_HTATTACK:1b,IV_HTHP:1b,IV_HTSPECIAL_DEFENSE:1b,Level:100,Moveset:[{MoveID:"Judgment",MovePP:8b,MovePPLevel:3b},{MoveID:"Hyper Voice",MovePP:10b},{MoveID:"Extreme Speed",MovePP:8b,MovePPLevel:3b},{MoveID:"Perish Song",MovePP:5b}],NBT_VERSION:2b,Nature:16b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Extreme Speed","Perish Song","Seismic Toss","Recover","Hyper Voice"],Size:341.23017593177786d,SpecFlags:[],StatsAttack:289s,StatsDefense:292s,StatsHP:383s,StatsSpecialAttack:281s,StatsSpecialDefense:250s,StatsSpeed:310s,Status:16s,StatusSleepTurns:2,UUID:[I;-89592044,757156893,-1891161653,1352600663],Variant:"base",eggCycles:-1,ndex:493,originalTrainer:"___________12345",originalTrainerUUID:[I;-1755248099,-1258862460,-2021475255,1498965264],palette:"none",ribbons2:[]}
+Team #0 PlayerParticipant Dulmin minecraft:overworld (1905.699999988079, 115.375, 45117.69999998808) 
+	Arceus {Ability:"Multitype",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:252s,EVDefense:0s,EVHP:6s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:252s,EXP:17006,Friendship:255s,Gender:2b,GigantamaxFactor:0b,Health:382,HeldItemStack:{count:1,id:"pixelmon:legend_plate"},IVAttack:31b,IVDefense:31b,IVHP:2b,IVSpAtt:31b,IVSpDef:0b,IVSpeed:31b,IV_HTATTACK:1b,IV_HTDEFENSE:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,IV_HTSPECIAL_DEFENSE:1b,IV_HTSPEED:1b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763598796718L,MoveSkillCooldownId:"open_wormhole",MoveSkillCooldownTarget:1763599696718L}],Moveset:[{MoveID:"Judgment",MovePP:8b,MovePPLevel:3b},{MoveID:"Gravity",MovePP:5b},{MoveID:"Earthquake",MovePP:10b},{MoveID:"Extreme Speed",MovePP:5b}],NBT_VERSION:2b,Nature:0b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Extreme Speed","Earthquake","Cosmic Power","Earth Power","Gravity"],Size:329.9822809754581d,SpecFlags:[],StatsAttack:339s,StatsDefense:276s,StatsHP:382s,StatsSpecialAttack:276s,StatsSpecialDefense:276s,StatsSpeed:339s,Status:16s,StatusSleepTurns:1,UUID:[I;274323203,-1232321768,-1137249648,-857832600],Variant:"base",eggCycles:-1,ndex:493,originalTrainer:"Dulmin",originalTrainerUUID:[I;-2036690395,-938456484,-1479550921,1712610171],palette:"none",ribbons2:[]}
+Team #0 PlayerParticipant tydf62 minecraft:overworld (1906.2293019445642, 116.5, 45115.212106895255) 
+	Dialga {Ability:"Pressure",CaughtBall:"master_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:3s,EVDefense:211s,EVHP:0s,EVSpecialAttack:7s,EVSpecialDefense:4s,EVSpeed:0s,EXP:317,Friendship:0s,Gender:2b,GigantamaxFactor:0b,Health:238,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:31b,IVDefense:31b,IVHP:31b,IVSpAtt:31b,IVSpDef:31b,IVSpeed:8b,Level:69,Moveset:[{MoveID:"Metal Burst",MovePP:10b},{MoveID:"Ancient Power",MovePP:5b},{MoveID:"Flash Cannon",MovePP:10b},{MoveID:"Dragon Claw",MovePP:15b}],NBT_VERSION:2b,Nature:20b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Metal Claw","Scary Face","Ancient Power","Dragon Claw","Flash Cannon"],Size:299.9356801476566d,SpecFlags:[],StatsAttack:192s,StatsDefense:228s,StatsHP:238s,StatsSpecialAttack:257s,StatsSpecialDefense:148s,StatsSpeed:134s,Status:16s,StatusSleepTurns:1,UUID:[I;-1072973784,-869250830,-1991673073,-1916185314],Variant:"base",eggCycles:-1,ndex:483,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+Team #0 EntityParticipant Nicki minecraft:overworld (1907.675000011921, 116.0, 45113.98276735844) 
+	Jolteon {Ability:"VoltAbsorb",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:0b,GigantamaxFactor:0b,Health:138,IVAttack:12b,IVDefense:17b,IVHP:17b,IVSpAtt:19b,IVSpDef:4b,IVSpeed:17b,Level:70,Moveset:[{MoveID:"Double Kick",MovePP:30b},{MoveID:"Quick Attack",MovePP:30b},{MoveID:"Electro Ball",MovePP:9b},{MoveID:"Swift",MovePP:20b}],NBT_VERSION:2b,Nature:11b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},RelrnMoves:["Quick Attack","Double Kick","Electro Ball"],Size:105.60908601504035d,SpecFlags:[],StatsAttack:60s,StatsDefense:63s,StatsHP:106s,StatsSpecialAttack:88s,StatsSpecialDefense:80s,StatsSpeed:113s,UUID:[I;1636958666,-1307425425,-1232146529,-1179448542],Variant:"base",eggCycles:-1,ndex:135,palette:"none",ribbons2:[]}
+Team #1 RaidPixelmonParticipant Articuno N/A N/A 
+	Articuno {Ability:"Competitive",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:30,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:2b,GigantamaxFactor:0b,Health:118,IVAttack:31b,IVDefense:31b,IVHP:1b,IVSpAtt:31b,IVSpDef:31b,IVSpeed:31b,Level:60,Moveset:[{MoveID:"Agility",MovePP:30b},{MoveID:"Recover",MovePP:5b},{MoveID:"Freezing Glare",MovePP:10b},{MoveID:"Trick Room",MovePP:5b}],NBT_VERSION:2b,Nature:10b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Agility","Freezing Glare","Recover"],Size:164.16577956102108d,SpecFlags:[],StatsAttack:125s,StatsDefense:137s,StatsHP:178s,StatsSpecialAttack:173s,StatsSpecialDefense:143s,StatsSpeed:123s,UUID:[I;-860690566,-611563140,-1646684792,1880583715],Variant:"galarian",eggCycles:-1,ndex:144,palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Arceus stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Arceus stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Dialga stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Jolteon stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-2
+Articuno stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Arceus stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=289, DEFENSE=292, SPECIAL_ATTACK=281, SPECIAL_DEFENSE=250, SPEED=310] delta: ATTACK=-287, DEFENSE=-290, SPECIAL_ATTACK=-279, SPECIAL_DEFENSE=-248, SPEED=-308
+Arceus stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=339, DEFENSE=276, SPECIAL_ATTACK=276, SPECIAL_DEFENSE=276, SPEED=339] delta: ATTACK=-337, DEFENSE=-274, SPECIAL_ATTACK=-274, SPECIAL_DEFENSE=-274, SPEED=-337
+Dialga stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=192, DEFENSE=228, SPECIAL_ATTACK=257, SPECIAL_DEFENSE=148, SPEED=134] delta: ATTACK=-190, DEFENSE=-226, SPECIAL_ATTACK=-255, SPECIAL_DEFENSE=-145, SPEED=-131
+Jolteon stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=104, DEFENSE=110, SPECIAL_ATTACK=154, SPECIAL_DEFENSE=140, SPEED=198] delta: ATTACK=-101, DEFENSE=-107, SPECIAL_ATTACK=-152, SPECIAL_DEFENSE=-137, SPEED=-196
+Articuno stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=125, DEFENSE=137, SPECIAL_ATTACK=173, SPECIAL_DEFENSE=143, SPEED=123] delta: ATTACK=-122, DEFENSE=-134, SPECIAL_ATTACK=-171, SPECIAL_DEFENSE=-140, SPEED=-120
+Battle Message: Dialga is exerting its Pressure!
+Battle Message: Dynamax Energy gathered around ___________12345!
+Battle Message: Dynamax Energy gathered around !
+empty weighted their choices as follows:  Double Kick, Tier 2, Weight 4.494382;  Quick Attack, Tier 2, Weight 11.235955;  Electro Ball, Tier 2, Weight 69.10113;  Swift, Tier 2, Weight 23.033709;  
+empty decided their best choices were:  Electro Ball, Tier 2, Weight 69.10113;  
+Nicki selected attack Electro Ball for Jolteon targeting Articuno and opted to mega evolve
+empty weighted their choices as follows:  Gust, Tier 2, Weight 23.012333;  Max Airstream, Tier 2, Weight 13.315927;  Max Airstream, Tier 2, Weight 12.041884;  Max Airstream, Tier 2, Weight 17.647058;  Max Airstream, Tier 2, Weight 24.725275;  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Max Guard, Tier 2, Weight 50.0;  Recover, Tier 0, Weight 0.0;  Max Guard, Tier 2, Weight 50.0;  Double Team, Tier 0, Weight 0.0;  Max Guard, Tier 2, Weight 50.0;  
+empty decided their best choices were:  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Max Guard, Tier 2, Weight 50.0;  Max Guard, Tier 2, Weight 50.0;  Max Guard, Tier 2, Weight 50.0;  
+Articuno selected attack Hypnosis for Articuno targeting Arceus
+___________12345 selected attack Extreme Speed for Arceus targeting Articuno
+tydf62 selected attack Flash Cannon for Dialga targeting Articuno
+Dulmin selected attack Judgment for Arceus targeting Articuno
+empty weighted their choices as follows:  Gust, Tier 2, Weight 23.012333;  Max Airstream, Tier 2, Weight 13.315927;  Max Airstream, Tier 2, Weight 12.041884;  Max Airstream, Tier 2, Weight 17.647058;  Max Airstream, Tier 2, Weight 24.725275;  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Recover, Tier 0, Weight 0.0;  Double Team, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  Hypnosis, Tier 2, Weight 60.0;  
+Articuno selected attack Hypnosis for Articuno targeting Dialga
+Battle Message: Articuno used Hypnosis!
+Dialga was given status com.pixelmonmod.pixelmon.battles.status.Sleep@194fefce
+Articuno used Hypnosis against Dialga with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=proceed, weightMod=0.0}
+Articuno selected attack Hypnosis for Articuno targeting Jolteon
+Battle Message: Articuno used Hypnosis!
+Battle Message: Jolteon avoided the attack!
+Articuno used Hypnosis against Jolteon with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=missed, weightMod=0.0}
+Articuno selected attack Max Airstream for Articuno targeting Jolteon
+Battle Message: Articuno used Max Airstream!
+Battle Message: It wasn't very effective...
+Jolteon was damaged by Articuno type ATTACK for 44 before: 182 after: 138
+Battle Message: Articuno's Speed was increased!
+Articuno used Max Airstream against Jolteon with results MoveResults{damage=44, fullDamage=44, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+Articuno selected attack Hypnosis for Articuno targeting Arceus
+Battle Message: Articuno used Hypnosis!
+Arceus was given status com.pixelmonmod.pixelmon.battles.status.Sleep@d263347
+Articuno used Hypnosis against Arceus with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=proceed, weightMod=0.0}
+Articuno selected attack Double Team for Articuno targeting Articuno
+Battle Message: Articuno used Double Team!
+Battle Message: Articuno's evasion was increased!
+Articuno used Double Team against Articuno with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+Articuno selected attack Hypnosis for Articuno targeting Arceus
+Battle Message: Articuno used Hypnosis!
+Arceus was given status com.pixelmonmod.pixelmon.battles.status.Sleep@61d3aa15
+Articuno used Hypnosis against Arceus with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=proceed, weightMod=0.0}
+Battle Message: Arceus is still sleeping!
+Battle Message: Arceus is still sleeping!
+Battle Message: Jolteon used Electro Ball!
+Battle Message: It's super effective!
+Battle Message: A mysterious barrier appeared in front of Articuno and is protecting it from all attacks!
+Articuno was damaged by Jolteon type ATTACK for 0 before: 118 after: 118
+Nicki told Jolteon to use Electro Ball against Articuno with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Dialga is still sleeping!
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Arceus[health=383, , max health=383]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=289, DEFENSE=292, SPECIAL_ATTACK=281, SPECIAL_DEFENSE=250, SPEED=310, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Arceus[health=382, , max health=382]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=339, DEFENSE=276, SPECIAL_ATTACK=276, SPECIAL_DEFENSE=276, SPEED=339, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Dialga[health=238, , max health=238]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=192, DEFENSE=228, SPECIAL_ATTACK=257, SPECIAL_DEFENSE=148, SPEED=134, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Jolteon[health=182, , max health=182]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=104, DEFENSE=110, SPECIAL_ATTACK=154, SPECIAL_DEFENSE=140, SPEED=198, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Articuno[health=178, , max health=178]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=125, DEFENSE=137, SPECIAL_ATTACK=173, SPECIAL_DEFENSE=143, SPEED=123, stages=[, ACCURACY=0, , , EVASION=1, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=1, , , ]
+
+
+Battle Message: Dynamax Energy gathered around Dulmin!
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Arceus[health=383, , max health=383]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=289, DEFENSE=292, SPECIAL_ATTACK=281, SPECIAL_DEFENSE=250, SPEED=310, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Arceus[health=382, , max health=382]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=339, DEFENSE=276, SPECIAL_ATTACK=276, SPECIAL_DEFENSE=276, SPEED=339, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Dialga[health=238, , max health=238]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=192, DEFENSE=228, SPECIAL_ATTACK=257, SPECIAL_DEFENSE=148, SPEED=134, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Jolteon[health=237, , max health=182]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=104, DEFENSE=110, SPECIAL_ATTACK=154, SPECIAL_DEFENSE=140, SPEED=198, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Articuno[health=118, , max health=178]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=125, DEFENSE=137, SPECIAL_ATTACK=173, SPECIAL_DEFENSE=143, SPEED=123, stages=[, ACCURACY=0, , , EVASION=1, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=1, , , ]
+
+
+empty weighted their choices as follows:  Double Kick, Tier 2, Weight 6.741573;  Quick Attack, Tier 2, Weight 11.235955;  Electro Ball, Tier 3, Weight 100.0;  Swift, Tier 2, Weight 23.033709;  
+empty decided their best choices were:  Electro Ball, Tier 3, Weight 100.0;  
+Nicki selected attack Electro Ball for Jolteon targeting Articuno and opted to mega evolve
+empty weighted their choices as follows:  Gust, Tier 2, Weight 23.012333;  Max Airstream, Tier 2, Weight 13.315927;  Max Airstream, Tier 2, Weight 12.041884;  Max Airstream, Tier 2, Weight 17.647058;  Max Airstream, Tier 2, Weight 24.725275;  Hypnosis, Tier 0, Weight 0.0;  Hypnosis, Tier 0, Weight 0.0;  Hypnosis, Tier 0, Weight 0.0;  Hypnosis, Tier 2, Weight 60.0;  Max Guard, Tier 0, Weight 0.0;  Recover, Tier 0, Weight 0.0;  Max Guard, Tier 0, Weight 0.0;  Double Team, Tier 0, Weight 0.0;  Max Guard, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Hypnosis, Tier 2, Weight 60.0;  
+Articuno selected attack Hypnosis for Articuno targeting Jolteon
+___________12345 selected attack Judgment for Arceus targeting Articuno
+Dulmin selected attack Judgment for Arceus targeting Articuno
+Battle Message: tydf62 used the Full Restore.
+
+BATTLE ENDED
+Articuno has un-dynamaxed
+Caught error in battle. Continuing...
+Cannot invoke "com.pixelmonmod.pixelmon.api.pokemon.Pokemon.getHealth()" because "target" is null
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.items.medicine.MedicinePotion.useMedicine(MedicinePotion.java:27)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.items.IMedicine.useMedicine(IMedicine.java:19)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.items.medicine.MedicineItem.useMedicine(MedicineItem.java:75)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.items.medicine.MedicineItem.useFromBag(MedicineItem.java:62)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useItem(PixelmonWrapper.java:1488)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.takeTurn(PixelmonWrapper.java:1974)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.takeTurn(BattleController.java:1478)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.doTurnLogic(BattleController.java:626)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:525)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

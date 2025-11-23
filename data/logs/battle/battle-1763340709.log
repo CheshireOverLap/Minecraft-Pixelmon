@@ -1,0 +1,222 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-17T00:51:49.258039133Z
+
+Team #0 PlayerParticipant tydf62 minecraft:overworld (25980.67973741216, 102.75727760238482, 3014.0702892279915) 
+	Marshadow {Ability:"Technician",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:136s,EVDefense:83s,EVHP:55s,EVSpecialAttack:108s,EVSpecialDefense:58s,EVSpeed:70s,EXP:20728,Friendship:74s,Gender:2b,GigantamaxFactor:0b,Health:67,IVAttack:23b,IVDefense:31b,IVHP:31b,IVSpAtt:25b,IVSpDef:31b,IVSpeed:29b,Level:87,Moveset:[{MoveID:"Smack Down",MovePP:15b},{MoveID:"Spectral Thief",MovePP:10b},{MoveID:"False Swipe",MovePP:36b},{MoveID:"Force Palm",MovePP:10b}],NBT_VERSION:2b,Nature:20b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["False Swipe","Smack Down","Force Palm","Feint","Thunder Punch","Role Play"],Size:81.23850445718556d,SpecFlags:[],StatsAttack:272s,StatsDefense:189s,StatsHP:292s,StatsSpecialAttack:226s,StatsSpecialDefense:180s,StatsSpeed:262s,UUID:[I;705127340,438783776,-1544746743,-375421359],Variant:"base",eggCycles:-1,ndex:802,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+	Garchomp {Ability:"SandVeil",CaughtBall:"dive_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:116s,EVDefense:122s,EVHP:52s,EVSpecialAttack:96s,EVSpecialDefense:42s,EVSpeed:82s,EXP:8455,Friendship:213s,Gender:1b,GigantamaxFactor:0b,Health:298,IVAttack:1b,IVDefense:8b,IVHP:23b,IVSpAtt:1b,IVSpDef:8b,IVSpeed:30b,Level:82,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763086198892L,MoveSkillCooldownId:"mount_boost",MoveSkillCooldownTarget:1763086238892L}],Moveset:[{MoveID:"Earthquake",MovePP:10b},{MoveID:"Outrage",MovePP:10b},{MoveID:"Crunch",MovePP:15b},{MoveID:"Liquidation",MovePP:10b}],NBT_VERSION:2b,Nature:24b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Outrage","False Swipe","Earthquake","Sand Attack","Bite","Slash","Bulldoze","Crunch"],Size:162.94785486866002d,SpecFlags:[],StatsAttack:242s,StatsDefense:192s,StatsHP:298s,StatsSpecialAttack:140s,StatsSpecialDefense:174s,StatsSpeed:213s,UUID:[I;1397578134,36192353,-1886986328,752187175],Variant:"base",eggCycles:-1,ndex:445,originalTrainer:"godksrk",originalTrainerUUID:[I;-1534560904,-1643165059,-1785036217,-2046744326],palette:"none",ribbons2:[]}
+	Regieleki {Ability:"Transistor",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:4s,EVDefense:0s,EVHP:1s,EVSpecialAttack:3s,EVSpecialDefense:0s,EVSpeed:26s,EXP:2667,Friendship:34s,Gender:2b,GigantamaxFactor:0b,Health:125,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:31b,IVDefense:31b,IVHP:22b,IVSpAtt:31b,IVSpDef:17b,IVSpeed:31b,Level:62,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763088613266L,MoveSkillCooldownId:"mount_boost",MoveSkillCooldownTarget:1763088653266L}],Moveset:[{MoveID:"Electric Terrain",MovePP:10b},{MoveID:"Thunder Wave",MovePP:20b},{MoveID:"Acrobatics",MovePP:15b},{MoveID:"Thunderbolt",MovePP:15b}],NBT_VERSION:2b,Nature:21b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Extreme Speed","Electric Terrain","Rapid Spin","Thunder Shock","Thunderbolt","Shock Wave","Thunder Wave"],Size:485.73173005648545d,SpecFlags:[],StatsAttack:133s,StatsDefense:86s,StatsHP:184s,StatsSpecialAttack:148s,StatsSpecialDefense:84s,StatsSpeed:276s,UUID:[I;497940632,-1149416563,-1118145601,-1337651549],Variant:"base",eggCycles:-1,ndex:894,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+	Ting-Lu {Ability:"VesselOfRuin",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:121s,EVDefense:150s,EVHP:53s,EVSpecialAttack:103s,EVSpecialDefense:21s,EVSpeed:62s,EXP:47,Friendship:14s,Gender:2b,GigantamaxFactor:0b,Health:436,HeldItemStack:{count:1,id:"pixelmon:shell_bell"},IVAttack:31b,IVDefense:31b,IVHP:3b,IVSpAtt:19b,IVSpDef:31b,IVSpeed:6b,Level:100,Moveset:[{MoveID:"Earthquake",MovePP:10b},{MoveID:"Stone Edge",MovePP:5b},{MoveID:"Thrash",MovePP:10b},{MoveID:"Fissure",MovePP:5b}],NBT_VERSION:2b,Nature:21b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Spikes","Earthquake","Rock Slide","Stone Edge","Thrash","Mean Look"],Size:288.37844907125947d,SpecFlags:[],StatsAttack:257s,StatsDefense:323s,StatsHP:436s,StatsSpecialAttack:159s,StatsSpecialDefense:221s,StatsSpeed:116s,UUID:[I;-338442360,1892172165,-1074631831,92592753],Variant:"base",eggCycles:-1,ndex:1003,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+	FlutterMane {Ability:"Protosynthesis",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:51s,EVDefense:101s,EVHP:17s,EVSpecialAttack:252s,EVSpecialDefense:24s,EVSpeed:65s,EXP:5884,Friendship:10s,Gender:2b,GigantamaxFactor:0b,Health:197,HeldItemStack:{count:1,id:"pixelmon:booster_energy"},IVAttack:24b,IVDefense:28b,IVHP:17b,IVSpAtt:25b,IVSpDef:15b,IVSpeed:28b,Level:81,Moveset:[{MoveID:"Dark Pulse",MovePP:15b},{MoveID:"Psyshock",MovePP:10b},{MoveID:"Dazzling Gleam",MovePP:10b},{MoveID:"Shadow Ball",MovePP:15b}],NBT_VERSION:2b,Nature:20b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Dazzling Gleam","Psyshock","Shadow Ball","Confuse Ray","Mean Look"],Size:137.31456235633988d,SpecFlags:[],StatsAttack:123s,StatsDefense:137s,StatsHP:197s,StatsSpecialAttack:323s,StatsSpecialDefense:216s,StatsSpeed:259s,UUID:[I;334994799,1093095300,-1882136511,-677352838],Variant:"base",eggCycles:-1,ndex:987,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+	Zamazenta {Ability:"DauntlessShield",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:32s,EVDefense:92s,EVHP:12s,EVSpecialAttack:246s,EVSpecialDefense:14s,EVSpeed:61s,EXP:6345,Friendship:0s,Gender:2b,GigantamaxFactor:0b,Health:258,HeldItemStack:{count:1,id:"pixelmon:rusted_shield"},IVAttack:10b,IVDefense:20b,IVHP:27b,IVSpAtt:31b,IVSpDef:31b,IVSpeed:31b,Level:79,Moveset:[{MoveID:"Close Combat",MovePP:5b},{MoveID:"Iron Head",MovePP:15b},{MoveID:"Metal Burst",MovePP:10b},{MoveID:"Moonblast",MovePP:15b}],NBT_VERSION:2b,Nature:17b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Wide Guard","Metal Burst","Iron Head","Moonblast"],Size:219.33711561285048d,SpecFlags:[],StatsAttack:187s,StatsDefense:260s,StatsHP:258s,StatsSpecialAttack:224s,StatsSpecialDefense:253s,StatsSpeed:243s,UUID:[I;-1562327668,1935953526,-2096692257,-1597834935],Variant:"hero",eggCycles:-1,ndex:889,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+Team #1 WildPixelmonParticipant Landorus minecraft:overworld (26437.490124563854, 122.41970466936081, 3539.5064777880066) 
+	Landorus {Ability:"SandForce",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:0b,GigantamaxFactor:0b,Health:1,IVAttack:13b,IVDefense:31b,IVHP:31b,IVSpAtt:31b,IVSpDef:18b,IVSpeed:9b,Level:70,Moveset:[{MoveID:"Sand Tomb",MovePP:13b},{MoveID:"Smack Down",MovePP:13b},{MoveID:"Imprison",MovePP:9b},{MoveID:"Stone Edge",MovePP:5b}],NBT_VERSION:2b,Nature:11b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Sand Tomb","Smack Down","Imprison"],Size:215.52808676219524d,SpecFlags:[],StatsAttack:189s,StatsDefense:167s,StatsHP:226s,StatsSpecialAttack:168s,StatsSpecialDefense:129s,StatsSpeed:152s,UUID:[I;-499608441,-1291565524,-1199649523,2057368759],Variant:"incarnate",eggCycles:-1,ndex:645,palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Marshadow stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-2
+Garchomp stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-2
+Regieleki stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=1] delta: ATTACK=-3, DEFENSE=-4, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-4, SPEED=-1
+Ting-Lu stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-4
+FlutterMane stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Zamazenta stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-2, SPEED=-2
+Landorus stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-2
+Marshadow stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=272, DEFENSE=189, SPECIAL_ATTACK=226, SPECIAL_DEFENSE=180, SPEED=262] delta: ATTACK=-270, DEFENSE=-186, SPECIAL_ATTACK=-223, SPECIAL_DEFENSE=-177, SPEED=-260
+Landorus stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152] delta: ATTACK=-187, DEFENSE=-164, SPECIAL_ATTACK=-166, SPECIAL_DEFENSE=-126, SPEED=-150
+Zamazenta stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=2, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=187, DEFENSE=260, SPECIAL_ATTACK=224, SPECIAL_DEFENSE=253, SPEED=243] delta: ATTACK=-185, DEFENSE=-258, SPECIAL_ATTACK=-221, SPECIAL_DEFENSE=-251, SPEED=-241
+Landorus selected attack Sand Tomb for Landorus targeting Marshadow and opted to mega evolve
+tydf62 selected attack False Swipe for Marshadow targeting Landorus
+Battle Message: Marshadow used False Swipe!
+Landorus was damaged by Marshadow type ATTACK for 65 before: 226 after: 161
+tydf62 told Marshadow to use False Swipe against Landorus with results MoveResults{damage=65, fullDamage=65, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Landorus used Sand Tomb!
+Marshadow was damaged by Landorus type ATTACK for 32 before: 292 after: 260
+Marshadow was given status com.pixelmonmod.pixelmon.battles.status.PartialTrap@3083f565
+Battle Message: Marshadow became trapped by Sand Tomb!
+Landorus used Sand Tomb against Marshadow with results MoveResults{damage=32, fullDamage=32, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Marshadow was damaged by Marshadow type STATUS for 36 before: 260 after: 224
+Battle Message: Marshadow was hurt by Sand Tomb!
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Marshadow[health=292, , max health=292]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=272, DEFENSE=189, SPECIAL_ATTACK=226, SPECIAL_DEFENSE=180, SPEED=262, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=226, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Marshadow[health=224, , max health=292]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=272, DEFENSE=189, SPECIAL_ATTACK=226, SPECIAL_DEFENSE=180, SPEED=262, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=161, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Imprison for Landorus targeting Marshadow and opted to mega evolve
+tydf62 selected attack False Swipe for Marshadow targeting Landorus
+Battle Message: Marshadow used False Swipe!
+Landorus was damaged by Marshadow type ATTACK for 74 before: 161 after: 87
+tydf62 told Marshadow to use False Swipe against Landorus with results MoveResults{damage=74, fullDamage=74, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Landorus used Imprison!
+Battle Message: Landorus sealed the opponent's moves!
+Marshadow was given status com.pixelmonmod.pixelmon.battles.status.Imprison@34e6781c
+Landorus used Imprison against Marshadow with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=proceed, weightMod=0.0}
+Marshadow was damaged by Marshadow type STATUS for 36 before: 224 after: 188
+Battle Message: Marshadow was hurt by Sand Tomb!
+
+Turn #1 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Marshadow[health=224, , max health=292]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=272, DEFENSE=189, SPECIAL_ATTACK=226, SPECIAL_DEFENSE=180, SPEED=262, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=161, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #2 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Marshadow[health=188, , max health=292]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=272, DEFENSE=189, SPECIAL_ATTACK=226, SPECIAL_DEFENSE=180, SPEED=262, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=87, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Sand Tomb for Landorus targeting Marshadow and opted to mega evolve
+tydf62 selected attack False Swipe for Marshadow targeting Landorus
+Battle Message: Marshadow used False Swipe!
+Landorus was damaged by Marshadow type ATTACK for 71 before: 87 after: 16
+tydf62 told Marshadow to use False Swipe against Landorus with results MoveResults{damage=71, fullDamage=71, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Landorus used Sand Tomb!
+Marshadow was damaged by Landorus type ATTACK for 34 before: 188 after: 154
+Landorus used Sand Tomb against Marshadow with results MoveResults{damage=34, fullDamage=34, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Marshadow was damaged by Marshadow type STATUS for 36 before: 154 after: 118
+Battle Message: Marshadow was hurt by Sand Tomb!
+
+Turn #2 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Marshadow[health=188, , max health=292]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=272, DEFENSE=189, SPECIAL_ATTACK=226, SPECIAL_DEFENSE=180, SPEED=262, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=87, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #3 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Marshadow[health=118, , max health=292]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=272, DEFENSE=189, SPECIAL_ATTACK=226, SPECIAL_DEFENSE=180, SPEED=262, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=16, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Smack Down for Landorus targeting Marshadow and opted to mega evolve
+tydf62 selected attack False Swipe for Marshadow targeting Landorus
+Battle Message: Marshadow used False Swipe!
+Landorus was damaged by Marshadow type ATTACK for 15 before: 16 after: 1
+tydf62 told Marshadow to use False Swipe against Landorus with results MoveResults{damage=15, fullDamage=15, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Landorus used Smack Down!
+Battle Message: It wasn't very effective...
+Marshadow was damaged by Landorus type ATTACK for 15 before: 118 after: 103
+Landorus used Smack Down against Marshadow with results MoveResults{damage=15, fullDamage=15, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Marshadow was damaged by Marshadow type STATUS for 36 before: 103 after: 67
+Battle Message: Marshadow was hurt by Sand Tomb!
+
+Turn #3 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Marshadow[health=118, , max health=292]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=272, DEFENSE=189, SPECIAL_ATTACK=226, SPECIAL_DEFENSE=180, SPEED=262, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=16, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #4 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Marshadow[health=67, , max health=292]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=272, DEFENSE=189, SPECIAL_ATTACK=226, SPECIAL_DEFENSE=180, SPEED=262, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=1, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Smack Down for Landorus targeting Marshadow and opted to mega evolve
+tydf62 switching from Marshadow to Regieleki
+Marshadow lost status com.pixelmonmod.pixelmon.battles.status.PartialTrap@3083f565
+Marshadow lost status com.pixelmonmod.pixelmon.battles.status.Imprison@34e6781c
+Regieleki was given status com.pixelmonmod.pixelmon.battles.status.Imprison@34e6781c
+Regieleki stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=1] to [ACCURACY=100, EVASION=100, ATTACK=133, DEFENSE=86, SPECIAL_ATTACK=148, SPECIAL_DEFENSE=84, SPEED=276] delta: ATTACK=-130, DEFENSE=-82, SPECIAL_ATTACK=-145, SPECIAL_DEFENSE=-80, SPEED=-275
+Battle Message: Landorus used Smack Down!
+Regieleki was damaged by Landorus type ATTACK for 59 before: 184 after: 125
+Landorus used Smack Down against Regieleki with results MoveResults{damage=59, fullDamage=59, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #4 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Regieleki[health=184, , max health=184]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=133, DEFENSE=86, SPECIAL_ATTACK=148, SPECIAL_DEFENSE=84, SPEED=276, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=1, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #5 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Regieleki[health=125, , max health=184]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=133, DEFENSE=86, SPECIAL_ATTACK=148, SPECIAL_DEFENSE=84, SPEED=276, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=1, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=189, DEFENSE=167, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=129, SPEED=152, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Sand Tomb for Landorus targeting Regieleki and opted to mega evolve
+tydf62 used pixelmon:poke_ball on Landorus
+Battle Message: tydf62 threw the Ultra Ball!
+
+BATTLE ENDED
+Zamazenta stats changed from [ACCURACY=100, EVASION=100, ATTACK=187, DEFENSE=260, SPECIAL_ATTACK=224, SPECIAL_DEFENSE=253, SPEED=243] to [ACCURACY=100, EVASION=100, ATTACK=187, DEFENSE=220, SPECIAL_ATTACK=224, SPECIAL_DEFENSE=213, SPEED=259] delta: DEFENSE=40, SPECIAL_DEFENSE=40, SPEED=-16
+Caught error in battle. Continuing...
+Cannot invoke "net.minecraft.world.entity.Entity.getId()" because "entity" is null
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.entities.pokeballs.PokeBallEntity.setPairedEntity(PokeBallEntity.java:736)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.entities.pokeballs.EmptyPokeBallEntity.<init>(EmptyPokeBallEntity.java:138)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.items.PokeBallItem.useFromBag(PokeBallItem.java:124)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.items.PixelmonItem.useFromBag(PixelmonItem.java:94)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useItem(PixelmonWrapper.java:1488)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.takeTurn(PixelmonWrapper.java:1974)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.takeTurn(BattleController.java:1478)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.doTurnLogic(BattleController.java:626)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:525)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

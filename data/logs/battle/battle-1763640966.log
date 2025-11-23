@@ -1,0 +1,150 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-20T12:16:06.218458311Z
+
+Team #0 PlayerParticipant ___________12345 minecraft:overworld (2956.447033914598, 76.0, -2040.458647866337) 
+	Primarina {Ability:"LiquidVoice",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:1,EVAttack:166s,EVDefense:143s,EVHP:26s,EVSpecialAttack:65s,EVSpecialDefense:18s,EVSpeed:92s,EXP:504,Friendship:73s,Gender:0b,GigantamaxFactor:0b,Health:241,HeldItemStack:{count:1,id:"pixelmon:waterium_z"},IVAttack:8b,IVDefense:18b,IVHP:0b,IVSpAtt:6b,IVSpDef:1b,IVSpeed:21b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762268678098L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762268703098L}],Moveset:[{MoveID:"Moonblast",MovePP:13b},{MoveID:"Ice Beam",MovePP:10b},{MoveID:"Sparkling Aria",MovePP:10b},{MoveID:"Hydro Pump",MovePP:5b}],NBT_VERSION:2b,Nature:24b,PAbilitySlot:0,PHiddenAbility:1b,PersistentData:{},Pokerus:{Announced:1b,Type:0s},RelrnMoves:["Water Gun","Disarming Voice","Growl","Bubble Beam","Icy Wind","Moonblast","Aqua Jet","Pound","Sparkling Aria","Hydro Pump","Misty Terrain","Hyper Voice"],Size:120.20768368133427d,SpecFlags:[],StatsAttack:202s,StatsDefense:206s,StatsHP:276s,StatsSpecialAttack:251s,StatsSpecialDefense:266s,StatsSpeed:169s,UUID:[I;-1172205738,2048607509,-1879822083,-1553849705],Variant:"base",eggCycles:-1,ndex:730,originalTrainer:"___________12345",originalTrainerUUID:[I;-1755248099,-1258862460,-2021475255,1498965264],palette:"none",ribbon_display2:{received:1761568021723L,receiver:'""',type:"destiny"},ribbons2:[{received:1761568021723L,receiver:'""',type:"destiny"}]}
+	Quilava {Ability:"Blaze",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:9s,EVDefense:1s,EVHP:0s,EVSpecialAttack:2s,EVSpecialDefense:0s,EVSpeed:1s,EXP:771,Friendship:70s,Gender:0b,GigantamaxFactor:0b,Health:55,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:7b,IVDefense:6b,IVHP:9b,IVSpAtt:16b,IVSpDef:2b,IVSpeed:30b,Level:22,Moveset:[{MoveID:"Leer",MovePP:30b},{MoveID:"Tackle",MovePP:35b},{MoveID:"Smokescreen",MovePP:20b},{MoveID:"Flame Wheel",MovePP:25b}],NBT_VERSION:2b,Nature:16b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Leer","Tackle","Smokescreen"],Size:92.84774137046834d,SpecFlags:[],StatsAttack:35s,StatsDefense:31s,StatsHP:59s,StatsSpecialAttack:43s,StatsSpecialDefense:30s,StatsSpeed:50s,UUID:[I;925161413,840254802,-1461038155,2126686225],Variant:"base",eggCycles:-1,ndex:156,originalTrainer:"___________12345",originalTrainerUUID:[I;-1755248099,-1258862460,-2021475255,1498965264],palette:"none",ribbons2:[]}
+	Toedscool {Ability:"MyceliumMight",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:3s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:1221,Friendship:50s,Gender:1b,GigantamaxFactor:0b,Health:70,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:13b,IVDefense:22b,IVHP:23b,IVSpAtt:4b,IVSpDef:29b,IVSpeed:28b,Level:30,Moveset:[{MoveID:"Absorb",MovePP:25b},{MoveID:"Poison Powder",MovePP:35b},{MoveID:"Stun Spore",MovePP:30b},{MoveID:"Mega Drain",MovePP:15b}],NBT_VERSION:2b,Nature:0b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Poison Powder","Stun Spore","Absorb"],Size:90.97120890536301d,SpecFlags:[],StatsAttack:33s,StatsDefense:32s,StatsHP:70s,StatsSpecialAttack:36s,StatsSpecialDefense:73s,StatsSpeed:55s,UUID:[I;-1565335477,1142442173,-1913841959,6459474],Variant:"base",eggCycles:-1,ndex:948,originalTrainer:"___________12345",originalTrainerUUID:[I;-1755248099,-1258862460,-2021475255,1498965264],palette:"none",ribbons2:[]}
+	Archen {Ability:"Defeatist",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:25s,EVDefense:54s,EVHP:3s,EVSpecialAttack:14s,EVSpecialDefense:4s,EVSpeed:11s,EXP:3023,Friendship:70s,Gender:0b,GigantamaxFactor:0b,Health:87,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:21b,IVDefense:12b,IVHP:10b,IVSpAtt:14b,IVSpDef:30b,IVSpeed:13b,Level:35,Moveset:[{MoveID:"Dragon Breath",MovePP:20b},{MoveID:"Quick Guard",MovePP:15b},{MoveID:"Crunch",MovePP:15b},{MoveID:"Agility",MovePP:30b}],NBT_VERSION:2b,Nature:7b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Quick Attack","Leer","Dragon Breath","Rock Throw","Rock Slide","Wing Attack","Ancient Power","U-turn","Quick Guard","Pluck","Crunch"],Size:73.18423130617944d,SpecFlags:[],StatsAttack:101s,StatsDefense:45s,StatsHP:87s,StatsSpecialAttack:55s,StatsSpecialDefense:47s,StatsSpeed:59s,UUID:[I;557314623,245907848,-1180241454,-1439628819],Variant:"base",eggCycles:-1,ndex:566,originalTrainer:"___________12345",originalTrainerUUID:[I;-1755248099,-1258862460,-2021475255,1498965264],palette:"none",ribbons2:[]}
+	TypeNull {Ability:"BattleArmour",CaughtBall:"master_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:73s,EVDefense:77s,EVHP:15s,EVSpecialAttack:27s,EVSpecialDefense:17s,EVSpeed:25s,EXP:3191,Friendship:70s,Gender:2b,GigantamaxFactor:0b,Health:156,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:9b,IVDefense:12b,IVHP:31b,IVSpAtt:31b,IVSpDef:31b,IVSpeed:6b,Level:45,Moveset:[{MoveID:"Tri Attack",MovePP:10b},{MoveID:"Air Slash",MovePP:15b},{MoveID:"Crush Claw",MovePP:10b},{MoveID:"Iron Head",MovePP:15b}],NBT_VERSION:2b,Nature:18b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Double Hit","Tackle","Tri Attack","Air Slash","Crush Claw","Scary Face","X-Scissor","Imprison","Metal Sound"],Size:162.72000475566028d,SpecFlags:[],StatsAttack:102s,StatsDefense:93s,StatsHP:156s,StatsSpecialAttack:117s,StatsSpecialDefense:106s,StatsSpeed:63s,UUID:[I;517849820,-1370012301,-1370374902,412988919],Variant:"base",eggCycles:-1,ndex:772,originalTrainer:"___________12345",originalTrainerUUID:[I;-1755248099,-1258862460,-2021475255,1498965264],palette:"none",ribbons2:[]}
+	Arceus {Ability:"Multitype",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:46s,EVDefense:64s,EVHP:4s,EVSpecialAttack:21s,EVSpecialDefense:8s,EVSpeed:18s,EXP:30498,Friendship:100s,Gender:2b,GigantamaxFactor:0b,Health:382,HeldItemStack:{count:1,id:"pixelmon:legend_plate"},IVAttack:4b,IVDefense:31b,IVHP:22b,IVSpAtt:31b,IVSpDef:4b,IVSpeed:31b,IV_HTATTACK:1b,IV_HTHP:1b,IV_HTSPECIAL_DEFENSE:1b,Level:100,Moveset:[{MoveID:"Judgment",MovePP:8b,MovePPLevel:3b},{MoveID:"Hyper Voice",MovePP:10b},{MoveID:"Extreme Speed",MovePP:8b,MovePPLevel:3b},{MoveID:"Perish Song",MovePP:5b}],NBT_VERSION:2b,Nature:16b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Extreme Speed","Perish Song","Seismic Toss","Recover","Hyper Voice"],Size:341.23017593177786d,SpecFlags:[],StatsAttack:287s,StatsDefense:292s,StatsHP:382s,StatsSpecialAttack:281s,StatsSpecialDefense:250s,StatsSpeed:308s,UUID:[I;-89592044,757156893,-1891161653,1352600663],Variant:"base",eggCycles:-1,ndex:493,originalTrainer:"___________12345",originalTrainerUUID:[I;-1755248099,-1258862460,-2021475255,1498965264],palette:"none",ribbons2:[]}
+Team #1 WildPixelmonParticipant Dodrio minecraft:overworld (2982.297719867158, 74.0, -2055.5791441231067) 
+	Dodrio {Ability:"EarlyBird",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:1b,GigantamaxFactor:0b,Health:79,IVAttack:18b,IVDefense:13b,IVHP:5b,IVSpAtt:1b,IVSpDef:26b,IVSpeed:2b,Level:31,Moveset:[{MoveID:"Tri Attack",MovePP:10b},{MoveID:"Pluck",MovePP:20b},{MoveID:"Uproar",MovePP:9b},{MoveID:"Drill Peck",MovePP:19b}],NBT_VERSION:2b,Nature:4b,PAbilitySlot:1,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Uproar","Tri Attack","Pluck"],Size:170.3501775286509d,SpecFlags:[],StatsAttack:78s,StatsDefense:52s,StatsHP:79s,StatsSpecialAttack:42s,StatsSpecialDefense:50s,StatsSpeed:73s,UUID:[I;-614368716,-270187624,-1956022682,-1972090581],Variant:"base",eggCycles:-1,ndex:85,palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Primarina stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-3
+Quilava stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-3
+Toedscool stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-4, DEFENSE=-4, SPECIAL_ATTACK=-4, SPECIAL_DEFENSE=-3, SPEED=-3
+Archen stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=3] delta: ATTACK=-2, DEFENSE=-4, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-4, SPEED=-3
+TypeNull stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-3
+Arceus stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Dodrio stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-2
+Primarina stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=202, DEFENSE=206, SPECIAL_ATTACK=251, SPECIAL_DEFENSE=266, SPEED=169] delta: ATTACK=-199, DEFENSE=-203, SPECIAL_ATTACK=-249, SPECIAL_DEFENSE=-264, SPEED=-166
+Dodrio stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=78, DEFENSE=52, SPECIAL_ATTACK=42, SPECIAL_DEFENSE=50, SPEED=73] delta: ATTACK=-76, DEFENSE=-49, SPECIAL_ATTACK=-39, SPECIAL_DEFENSE=-47, SPEED=-71
+Dodrio selected attack Drill Peck for Dodrio targeting Primarina and opted to mega evolve
+___________12345 used pixelmon:poke_ball on Dodrio
+Battle Message: ___________12345 threw the Luxury Ball!
+Battle Message: Dodrio used Drill Peck!
+Primarina was damaged by Dodrio type ATTACK for 13 before: 270 after: 257
+Dodrio used Drill Peck against Primarina with results MoveResults{damage=13, fullDamage=13, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Primarina[health=270, , max health=276]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=202, DEFENSE=206, SPECIAL_ATTACK=251, SPECIAL_DEFENSE=266, SPEED=169, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Dodrio[health=79, , max health=79]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=78, DEFENSE=52, SPECIAL_ATTACK=42, SPECIAL_DEFENSE=50, SPEED=73, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Primarina[health=257, , max health=276]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=202, DEFENSE=206, SPECIAL_ATTACK=251, SPECIAL_DEFENSE=266, SPEED=169, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Dodrio[health=79, , max health=79]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=78, DEFENSE=52, SPECIAL_ATTACK=42, SPECIAL_DEFENSE=50, SPEED=73, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Dodrio selected attack Uproar for Dodrio targeting Primarina and opted to mega evolve
+___________12345 used pixelmon:poke_ball on Dodrio
+Battle Message: ___________12345 threw the Luxury Ball!
+Battle Message: Dodrio used Uproar!
+Dodrio was given status com.pixelmonmod.pixelmon.battles.status.MultiTurn@1ef9497a
+Dodrio was given status com.pixelmonmod.pixelmon.battles.status.UproarStatus@69f0ddb6
+Battle Message: Dodrio is making an uproar!
+Primarina was damaged by Dodrio type ATTACK for 8 before: 257 after: 249
+Dodrio used Uproar against Primarina with results MoveResults{damage=8, fullDamage=8, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #1 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Primarina[health=257, , max health=276]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=202, DEFENSE=206, SPECIAL_ATTACK=251, SPECIAL_DEFENSE=266, SPEED=169, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Dodrio[health=79, , max health=79]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=78, DEFENSE=52, SPECIAL_ATTACK=42, SPECIAL_DEFENSE=50, SPEED=73, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #2 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Primarina[health=249, , max health=276]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=202, DEFENSE=206, SPECIAL_ATTACK=251, SPECIAL_DEFENSE=266, SPEED=169, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Dodrio[health=79, , max health=79]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=78, DEFENSE=52, SPECIAL_ATTACK=42, SPECIAL_DEFENSE=50, SPEED=73, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+___________12345 used pixelmon:poke_ball on Dodrio
+Battle Message: ___________12345 threw the Luxury Ball!
+Battle Message: Dodrio used Uproar!
+Primarina was damaged by Dodrio type ATTACK for 8 before: 249 after: 241
+Dodrio used Uproar against Primarina with results MoveResults{damage=8, fullDamage=8, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #2 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Primarina[health=249, , max health=276]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=202, DEFENSE=206, SPECIAL_ATTACK=251, SPECIAL_DEFENSE=266, SPEED=169, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Dodrio[health=79, , max health=79]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=78, DEFENSE=52, SPECIAL_ATTACK=42, SPECIAL_DEFENSE=50, SPEED=73, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #3 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Primarina[health=241, , max health=276]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=202, DEFENSE=206, SPECIAL_ATTACK=251, SPECIAL_DEFENSE=266, SPEED=169, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Dodrio[health=79, , max health=79]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=78, DEFENSE=52, SPECIAL_ATTACK=42, SPECIAL_DEFENSE=50, SPEED=73, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+___________12345 executed command wiki Torchic
+___________12345 executed command wiki Torchic spawning
+___________12345 used pixelmon:poke_ball on Dodrio
+Battle Message: ___________12345 threw the Luxury Ball!
+
+BATTLE ENDED
+
+BATTLE ENDED
+Caught error in battle. Continuing...
+Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.common.asm.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:60)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:94)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:57)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:190)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$20(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:311)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:214)
+java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.forfeitBattleForBeingTooFarAway(PlayerParticipant.java:666)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.handlePlayerDistanceFromBattle(PlayerParticipant.java:647)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.tick(PlayerParticipant.java:451)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.onUpdate(BattleController.java:1135)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:511)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

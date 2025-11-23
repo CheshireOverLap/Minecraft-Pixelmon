@@ -1,0 +1,59 @@
+services:
+  duckdns:
+    image: lscr.io/linuxserver/duckdns:latest
+    container_name: duckdns-pixelmon
+    network_mode: host
+    environment:
+      - PUID=911
+      - PGID=911
+      - TZ=Asia/Seoul
+      - SUBDOMAINS=omc-pixelmon
+      - TOKEN=aa91004f-426a-4d0a-a707-edb4d41ffb5a
+      - UPDATE_IP=ipv4
+      - LOG_FILE=false
+    volumes:
+      - ./duckdns:/config
+    restart: unless-stopped
+
+  pixelmon:
+    image: itzg/minecraft-server
+    container_name: minecraft-pixelmon-server
+    depends_on:
+      - duckdns
+    ports:
+      - "38473:25565"
+      - "24454:24454/udp"
+    environment:
+      EULA: "TRUE"
+      TYPE: "NEOFORGE"
+      VERSION: "1.21.1"
+      NEOFORGE_VERSION: "21.1.209"
+      # Packwiz 로컬 서버에서 모드 다운로드
+      # PACKWIZ_URL: "http://host.docker.internal:8080/pack.toml"
+      MEMORY: "8G"
+      MAX_MEMORY: "10G"
+      ENABLE_ROLLING_LOGS: "true"
+      TZ: "Asia/Seoul"
+      MOTD: "§c§lO§6§lM§e§lC§a§l-§b§lP§9§li§d§lx§5§le§c§ll§6§lm§e§lo§a§ln"
+      DIFFICULTY: "normal"
+      MAX_PLAYERS: "20"
+      VIEW_DISTANCE: "10"
+      SIMULATION_DISTANCE: "10"
+      SPAWN_PROTECTION: "0"
+      ENABLE_COMMAND_BLOCK: "true"
+      ANNOUNCE_PLAYER_ACHIEVEMENTS: "true"
+      SNOOPER_ENABLED: "false"
+      ALLOW_FLIGHT: "TRUE"
+      ENABLE_WHITELIST: "TRUE"
+      ENFORCE_WHITELIST: "TRUE"
+      WHITELIST: "lodi21,___________12345,lame1202,croomin1057,Bluegum_,godksrk,tydf62,Dulmin,ootodl"
+      # 작물 성장 속도 10배 (서버 시작시 자동 설정)
+      INIT_COMMANDS: "gamerule randomTickSpeed 30"
+    volumes:
+      - ./data:/data
+      - ./backups:/backups
+    restart: unless-stopped
+    tty: true
+    stdin_open: true
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

@@ -1,0 +1,510 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-10T02:58:22.348187543Z
+
+Team #0 PlayerParticipant tydf62 minecraft:overworld (4110.849069320076, 77.04349855133312, -1982.1903790071938) 
+	Marshadow {Ability:"Technician",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:9s,EVDefense:11s,EVHP:0s,EVSpecialAttack:6s,EVSpecialDefense:0s,EVSpeed:14s,EXP:18188,Friendship:74s,Gender:2b,GigantamaxFactor:0b,Health:112,IVAttack:23b,IVDefense:31b,IVHP:31b,IVSpAtt:25b,IVSpDef:31b,IVSpeed:29b,Level:70,Moveset:[{MoveID:"Smack Down",MovePP:14b},{MoveID:"Thunder Punch",MovePP:14b},{MoveID:"False Swipe",MovePP:40b},{MoveID:"Force Palm",MovePP:10b}],NBT_VERSION:2b,Nature:20b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Smack Down","Force Palm","Feint","Thunder Punch","Role Play"],Size:81.23850445718556d,SpecFlags:[],StatsAttack:197s,StatsDefense:140s,StatsHP:227s,StatsSpecialAttack:163s,StatsSpecialDefense:136s,StatsSpeed:202s,UUID:[I;705127340,438783776,-1544746743,-375421359],Variant:"base",eggCycles:-1,ndex:802,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+	Ting-Lu {Ability:"VesselOfRuin",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:81s,EVDefense:108s,EVHP:15s,EVSpecialAttack:94s,EVSpecialDefense:7s,EVSpeed:38s,EXP:535,Friendship:12s,Gender:2b,GigantamaxFactor:0b,Health:310,IVAttack:31b,IVDefense:31b,IVHP:3b,IVSpAtt:19b,IVSpDef:31b,IVSpeed:6b,Level:72,Moveset:[{MoveID:"Earthquake",MovePP:10b},{MoveID:"Stone Edge",MovePP:5b},{MoveID:"Thrash",MovePP:10b},{MoveID:"Rock Slide",MovePP:10b}],NBT_VERSION:2b,Nature:21b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Spikes","Earthquake","Rock Slide","Stone Edge","Thrash","Mean Look"],Size:288.37844907125947d,SpecFlags:[],StatsAttack:180s,StatsDefense:226s,StatsHP:310s,StatsSpecialAttack:114s,StatsSpecialDefense:157s,StatsSpeed:80s,UUID:[I;-338442360,1892172165,-1074631831,92592753],Variant:"base",eggCycles:-1,ndex:1003,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+	IronThorns {Ability:"QuarkDrive",CaughtBall:"great_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:13s,EVDefense:10s,EVHP:3s,EVSpecialAttack:12s,EVSpecialDefense:0s,EVSpeed:13s,EXP:310,Friendship:1s,Gender:2b,GigantamaxFactor:0b,Health:0,IVAttack:15b,IVDefense:16b,IVHP:30b,IVSpAtt:21b,IVSpDef:24b,IVSpeed:16b,Level:57,Moveset:[{MoveID:"Ice Fang",MovePP:15b},{MoveID:"Iron Defense",MovePP:15b},{MoveID:"Earthquake",MovePP:10b},{MoveID:"Thunderbolt",MovePP:15b}],NBT_VERSION:2b,Nature:14b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Ice Fang","Charge","Sandstorm","Iron Defense","Thunderbolt"],Size:118.88380247918326d,SpecFlags:[],StatsAttack:168s,StatsDefense:126s,StatsHP:198s,StatsSpecialAttack:98s,StatsSpecialDefense:114s,StatsSpeed:107s,UUID:[I;-803880848,1666991570,-1656242781,-1983398643],Variant:"base",eggCycles:-1,ndex:995,originalTrainer:"godksrk",originalTrainerUUID:[I;-1534560904,-1643165059,-1785036217,-2046744326],palette:"none",ribbons2:[]}
+	Garchomp {Ability:"SandVeil",CaughtBall:"dive_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:24s,EVDefense:47s,EVHP:0s,EVSpecialAttack:19s,EVSpecialDefense:2s,EVSpeed:24s,EXP:6062,Friendship:72s,Gender:1b,GigantamaxFactor:0b,Health:0,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:1b,IVDefense:8b,IVHP:23b,IVSpAtt:1b,IVSpDef:8b,IVSpeed:30b,Level:50,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762741343278L,MoveSkillCooldownId:"mount_boost",MoveSkillCooldownTarget:1762741391278L}],Moveset:[{MoveID:"Earthquake",MovePP:10b},{MoveID:"Outrage",MovePP:10b},{MoveID:"Crunch",MovePP:15b},{MoveID:"Liquidation",MovePP:9b}],NBT_VERSION:2b,Nature:24b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Outrage","False Swipe","Earthquake","Sand Attack","Bite","Slash","Bulldoze","Crunch"],Size:162.94785486866002d,SpecFlags:[],StatsAttack:138s,StatsDefense:109s,StatsHP:179s,StatsSpecialAttack:78s,StatsSpecialDefense:103s,StatsSpeed:125s,UUID:[I;1397578134,36192353,-1886986328,752187175],Variant:"base",eggCycles:-1,ndex:445,originalTrainer:"godksrk",originalTrainerUUID:[I;-1534560904,-1643165059,-1785036217,-2046744326],palette:"none",ribbons2:[]}
+	SlitherWing {Ability:"Protosynthesis",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:15s,EVDefense:9s,EVHP:0s,EVSpecialAttack:6s,EVSpecialDefense:3s,EVSpeed:13s,EXP:10190,Friendship:1s,Gender:2b,GigantamaxFactor:0b,Health:0,IVAttack:4b,IVDefense:28b,IVHP:20b,IVSpAtt:17b,IVSpDef:17b,IVSpeed:2b,Level:56,Moveset:[{MoveID:"Leech Life",MovePP:10b},{MoveID:"Heat Wave",MovePP:10b},{MoveID:"Giga Drain",MovePP:7b},{MoveID:"Close Combat",MovePP:5b}],NBT_VERSION:2b,Nature:6b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Poison Powder","Stun Spore","Leech Life","Bug Bite","Stomp","U-turn","Heat Wave","Close Combat"],Size:181.05683180598908d,SpecFlags:[],StatsAttack:176s,StatsDefense:110s,StatsHP:172s,StatsSpecialAttack:110s,StatsSpecialDefense:132s,StatsSpeed:88s,UUID:[I;-169701527,695026025,-1559405922,1591175485],Variant:"base",eggCycles:-1,ndex:988,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbon_display2:{received:1761717711218L,receiver:'""',type:"rare"},ribbons2:[{received:1761717711218L,receiver:'""',type:"rare"}]}
+	Tyranitar {Ability:"SandStream",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:15s,EVDefense:8s,EVHP:0s,EVSpecialAttack:10s,EVSpecialDefense:0s,EVSpeed:12s,EXP:2145,Friendship:37s,Gender:0b,GigantamaxFactor:0b,Health:0,IVAttack:9b,IVDefense:1b,IVHP:3b,IVSpAtt:6b,IVSpDef:28b,IVSpeed:23b,Level:56,Moveset:[{MoveID:"Earthquake",MovePP:10b},{MoveID:"Payback",MovePP:10b},{MoveID:"Ice Beam",MovePP:10b},{MoveID:"Stone Edge",MovePP:5b}],NBT_VERSION:2b,Nature:2b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Payback","Earthquake","Scary Face","Iron Defense","Ice Beam","Crunch"],Size:189.4625778841164d,SpecFlags:[],StatsAttack:162s,StatsDefense:129s,StatsHP:179s,StatsSpecialAttack:116s,StatsSpecialDefense:132s,StatsSpeed:87s,UUID:[I;-630119707,1862877545,-1385290553,1508642609],Variant:"base",eggCycles:-1,ndex:248,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+Team #1 WildPixelmonParticipant Landorus minecraft:overworld (3774.133229611478, 112.05881057431945, -2610.9986338043304) 
+	Landorus {Ability:"SandForce",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:0b,GigantamaxFactor:0b,Health:3,IVAttack:31b,IVDefense:21b,IVHP:31b,IVSpAtt:4b,IVSpDef:31b,IVSpeed:13b,Level:70,Moveset:[{MoveID:"Bulldoze",MovePP:15b},{MoveID:"Imprison",MovePP:10b},{MoveID:"Earth Power",MovePP:6b},{MoveID:"Sandstorm",MovePP:6b}],NBT_VERSION:2b,Nature:22b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Earth Power","Bulldoze","Imprison"],Size:199.99300917025468d,SpecFlags:[],StatsAttack:201s,StatsDefense:130s,StatsHP:226s,StatsSpecialAttack:168s,StatsSpecialDefense:151s,StatsSpeed:155s,UUID:[I;1877013698,-1059568669,-1184364718,447332763],Variant:"incarnate",eggCycles:-1,ndex:645,palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Marshadow stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-2
+Ting-Lu stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-4
+IronThorns stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-3
+Garchomp stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-2
+SlitherWing stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=2, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-2, SPEED=-3
+Tyranitar stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-3
+Landorus stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-2
+Marshadow stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=197, DEFENSE=140, SPECIAL_ATTACK=163, SPECIAL_DEFENSE=136, SPEED=202] delta: ATTACK=-195, DEFENSE=-137, SPECIAL_ATTACK=-160, SPECIAL_DEFENSE=-133, SPEED=-200
+Landorus stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155] delta: ATTACK=-199, DEFENSE=-127, SPECIAL_ATTACK=-166, SPECIAL_DEFENSE=-148, SPEED=-153
+Landorus selected attack Sandstorm for Landorus targeting Landorus and opted to mega evolve
+tydf62 selected attack Thunder Punch for Marshadow targeting Landorus
+Battle Message: Marshadow used Thunder Punch!
+Battle Message: It doesn't affect Landorus...
+tydf62 told Marshadow to use Thunder Punch against Landorus with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Battle Message: Landorus used Sandstorm!
+Battle Message: A sandstorm kicked up!
+Global status added Sandstorm[0 turns remaining] by Landorus
+Weather is now set to Sandstorm[0 turns remaining] by Landorus
+Landorus used Sandstorm against Landorus with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: The sandstorm rages harshly!
+Battle Message: Marshadow was buffeted by the sandstorm!
+Marshadow was damaged by Marshadow type WEATHER for 14 before: 227 after: 213
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[4 turns remaining]
+ Pokemon: 
+ Marshadow[health=227, , max health=227]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=197, DEFENSE=140, SPECIAL_ATTACK=163, SPECIAL_DEFENSE=136, SPEED=202, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=226, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[4 turns remaining]
+ Pokemon: 
+ Marshadow[health=213, , max health=227]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=197, DEFENSE=140, SPECIAL_ATTACK=163, SPECIAL_DEFENSE=136, SPEED=202, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=226, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Bulldoze for Landorus targeting Marshadow and opted to mega evolve
+tydf62 selected attack Smack Down for Marshadow targeting Landorus
+Battle Message: Marshadow used Smack Down!
+Battle Message: Landorus got knocked out of the sky!
+Landorus was given status com.pixelmonmod.pixelmon.battles.status.SmackedDown@789ab7aa
+Landorus was damaged by Marshadow type ATTACK for 68 before: 226 after: 158
+tydf62 told Marshadow to use Smack Down against Landorus with results MoveResults{damage=68, fullDamage=68, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Landorus used Bulldoze!
+Marshadow was damaged by Landorus type ATTACK for 87 before: 213 after: 126
+Battle Message: Marshadow's Speed was decreased!
+Landorus used Bulldoze against Marshadow with results MoveResults{damage=87, fullDamage=87, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: The sandstorm rages harshly!
+Battle Message: Marshadow was buffeted by the sandstorm!
+Marshadow was damaged by Marshadow type WEATHER for 14 before: 126 after: 112
+
+Turn #1 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[3 turns remaining]
+ Pokemon: 
+ Marshadow[health=213, , max health=227]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=197, DEFENSE=140, SPECIAL_ATTACK=163, SPECIAL_DEFENSE=136, SPEED=202, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=-1, , , ]
+
+ Landorus[health=226, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #2 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[3 turns remaining]
+ Pokemon: 
+ Marshadow[health=112, , max health=227]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=197, DEFENSE=140, SPECIAL_ATTACK=163, SPECIAL_DEFENSE=136, SPEED=202, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=-1, , , ]
+
+ Landorus[health=158, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Earth Power for Landorus targeting Marshadow and opted to mega evolve
+tydf62 switching from Marshadow to Tyranitar
+Tyranitar stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=162, DEFENSE=129, SPECIAL_ATTACK=116, SPECIAL_DEFENSE=198, SPEED=87] delta: ATTACK=-160, DEFENSE=-127, SPECIAL_ATTACK=-113, SPECIAL_DEFENSE=-195, SPEED=-84
+Battle Message: Landorus used Earth Power!
+Battle Message: It's super effective!
+Tyranitar was damaged by Landorus type ATTACK for 167 before: 179 after: 12
+Landorus used Earth Power against Tyranitar with results MoveResults{damage=167, fullDamage=167, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: The sandstorm rages harshly!
+
+Turn #2 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[2 turns remaining]
+ Pokemon: 
+ Tyranitar[health=179, , max health=179]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=162, DEFENSE=129, SPECIAL_ATTACK=116, SPECIAL_DEFENSE=198, SPEED=87, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=158, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #3 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[2 turns remaining]
+ Pokemon: 
+ Tyranitar[health=12, , max health=179]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=162, DEFENSE=129, SPECIAL_ATTACK=116, SPECIAL_DEFENSE=198, SPEED=87, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=158, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Bulldoze for Landorus targeting Tyranitar and opted to mega evolve
+tydf62 selected attack Payback for Tyranitar targeting Landorus
+Battle Message: Landorus used Bulldoze!
+Battle Message: It's super effective!
+Tyranitar was damaged by Landorus type ATTACK for 12 before: 12 after: 0
+Battle Message: Tyranitar fainted!
+Landorus used Bulldoze against Tyranitar with results MoveResults{damage=12, fullDamage=198, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: The sandstorm rages harshly!
+
+Turn #3 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[1 turns remaining]
+ Pokemon: 
+ IronThorns[health=198, , max health=198]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=158, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #4 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[1 turns remaining]
+ Pokemon: 
+ IronThorns[health=198, , max health=198]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=158, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Earth Power for Landorus targeting IronThorns and opted to mega evolve
+tydf62 selected attack Earthquake for IronThorns targeting Landorus
+IronThorns stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=168, DEFENSE=126, SPECIAL_ATTACK=98, SPECIAL_DEFENSE=171, SPEED=107] delta: ATTACK=-166, DEFENSE=-124, SPECIAL_ATTACK=-95, SPECIAL_DEFENSE=-168, SPEED=-104
+Battle Message: Landorus used Earth Power!
+Battle Message: It's super effective!
+IronThorns was damaged by Landorus type ATTACK for 198 before: 198 after: 0
+Battle Message: Iron Thorns fainted!
+Landorus used Earth Power against IronThorns with results MoveResults{damage=198, fullDamage=374, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Global status removed Sandstorm[0 turns remaining]
+Weather has changed from Sandstorm[0 turns remaining] to nothing
+Battle Message: The sandstorm subsided.
+
+Turn #4 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=179, , max health=179]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=158, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #5 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=179, , max health=179]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=158, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Earth Power for Landorus targeting Garchomp and opted to mega evolve
+tydf62 selected attack Liquidation for Garchomp targeting Landorus
+Garchomp stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=138, DEFENSE=109, SPECIAL_ATTACK=78, SPECIAL_DEFENSE=103, SPEED=125] delta: ATTACK=-136, DEFENSE=-106, SPECIAL_ATTACK=-75, SPECIAL_DEFENSE=-100, SPEED=-123
+Battle Message: Landorus used Earth Power!
+Garchomp was damaged by Landorus type ATTACK for 121 before: 179 after: 58
+Landorus used Earth Power against Garchomp with results MoveResults{damage=121, fullDamage=121, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Garchomp used Liquidation!
+Battle Message: It's super effective!
+Landorus was damaged by Garchomp type ATTACK for 74 before: 158 after: 84
+tydf62 told Garchomp to use Liquidation against Landorus with results MoveResults{damage=74, fullDamage=74, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+
+Turn #5 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=179, , max health=179]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=138, DEFENSE=109, SPECIAL_ATTACK=78, SPECIAL_DEFENSE=103, SPEED=125, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=158, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #6 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=58, , max health=179]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=138, DEFENSE=109, SPECIAL_ATTACK=78, SPECIAL_DEFENSE=103, SPEED=125, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=84, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Bulldoze for Landorus targeting Garchomp and opted to mega evolve
+tydf62 selected attack Liquidation for Garchomp targeting Landorus
+Battle Message: Landorus used Bulldoze!
+Garchomp was damaged by Landorus type ATTACK for 58 before: 58 after: 0
+Battle Message: Garchomp fainted!
+Landorus used Bulldoze against Garchomp with results MoveResults{damage=58, fullDamage=102, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+
+Turn #6 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ SlitherWing[health=172, , max health=172]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=2, SPEED=3, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=84, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #7 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ SlitherWing[health=172, , max health=172]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=2, SPEED=3, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=84, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Bulldoze for Landorus targeting SlitherWing and opted to mega evolve
+tydf62 selected attack Giga Drain for SlitherWing targeting Landorus
+SlitherWing stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=2, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=176, DEFENSE=110, SPECIAL_ATTACK=110, SPECIAL_DEFENSE=132, SPEED=88] delta: ATTACK=-174, DEFENSE=-107, SPECIAL_ATTACK=-107, SPECIAL_DEFENSE=-130, SPEED=-85
+Battle Message: Landorus used Bulldoze!
+Battle Message: It wasn't very effective...
+SlitherWing was damaged by Landorus type ATTACK for 48 before: 172 after: 124
+Battle Message: Slither Wing's Speed was decreased!
+Landorus used Bulldoze against SlitherWing with results MoveResults{damage=48, fullDamage=48, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Slither Wing used Giga Drain!
+Landorus was damaged by SlitherWing type ATTACK for 27 before: 84 after: 57
+Battle Message: Slither Wing regained energy!
+tydf62 was healed by 13 before: 124 after: 137
+tydf62 told SlitherWing to use Giga Drain against Landorus with results MoveResults{damage=27, fullDamage=27, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #7 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ SlitherWing[health=172, , max health=172]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=176, DEFENSE=110, SPECIAL_ATTACK=110, SPECIAL_DEFENSE=132, SPEED=88, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=-1, , , ]
+
+ Landorus[health=84, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #8 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ SlitherWing[health=137, , max health=172]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=176, DEFENSE=110, SPECIAL_ATTACK=110, SPECIAL_DEFENSE=132, SPEED=88, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=-1, , , ]
+
+ Landorus[health=57, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Sandstorm for Landorus targeting Landorus and opted to mega evolve
+tydf62 selected attack Giga Drain for SlitherWing targeting Landorus
+Battle Message: Landorus used Sandstorm!
+Battle Message: A sandstorm kicked up!
+Global status added Sandstorm[0 turns remaining] by Landorus
+Weather is now set to Sandstorm[0 turns remaining] by Landorus
+Landorus used Sandstorm against Landorus with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Slither Wing used Giga Drain!
+Landorus was damaged by SlitherWing type ATTACK for 28 before: 57 after: 29
+Battle Message: Slither Wing regained energy!
+tydf62 was healed by 14 before: 137 after: 151
+tydf62 told SlitherWing to use Giga Drain against Landorus with results MoveResults{damage=28, fullDamage=28, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: The sandstorm rages harshly!
+Battle Message: Slither Wing was buffeted by the sandstorm!
+SlitherWing was damaged by SlitherWing type WEATHER for 10 before: 151 after: 141
+
+Turn #8 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[4 turns remaining]
+ Pokemon: 
+ SlitherWing[health=137, , max health=172]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=176, DEFENSE=110, SPECIAL_ATTACK=110, SPECIAL_DEFENSE=132, SPEED=88, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=-1, , , ]
+
+ Landorus[health=57, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #9 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[4 turns remaining]
+ Pokemon: 
+ SlitherWing[health=141, , max health=172]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=176, DEFENSE=110, SPECIAL_ATTACK=110, SPECIAL_DEFENSE=132, SPEED=88, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=-1, , , ]
+
+ Landorus[health=29, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Bulldoze for Landorus targeting SlitherWing and opted to mega evolve
+tydf62 selected attack Giga Drain for SlitherWing targeting Landorus
+Battle Message: Landorus used Bulldoze!
+Battle Message: It wasn't very effective...
+SlitherWing was damaged by Landorus type ATTACK for 61 before: 141 after: 80
+Battle Message: Slither Wing's Speed was decreased!
+Landorus used Bulldoze against SlitherWing with results MoveResults{damage=61, fullDamage=61, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Slither Wing used Giga Drain!
+Landorus was damaged by SlitherWing type ATTACK for 26 before: 29 after: 3
+Battle Message: Slither Wing regained energy!
+tydf62 was healed by 13 before: 80 after: 93
+tydf62 told SlitherWing to use Giga Drain against Landorus with results MoveResults{damage=26, fullDamage=26, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: The sandstorm rages harshly!
+Battle Message: Slither Wing was buffeted by the sandstorm!
+SlitherWing was damaged by SlitherWing type WEATHER for 10 before: 93 after: 83
+
+Turn #9 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[3 turns remaining]
+ Pokemon: 
+ SlitherWing[health=141, , max health=172]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=176, DEFENSE=110, SPECIAL_ATTACK=110, SPECIAL_DEFENSE=132, SPEED=88, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=-2, , , ]
+
+ Landorus[health=29, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #10 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[3 turns remaining]
+ Pokemon: 
+ SlitherWing[health=83, , max health=172]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=176, DEFENSE=110, SPECIAL_ATTACK=110, SPECIAL_DEFENSE=132, SPEED=88, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=-2, , , ]
+
+ Landorus[health=3, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Sandstorm for Landorus targeting Landorus and opted to mega evolve
+tydf62 used pixelmon:poke_ball on Landorus
+Battle Message: tydf62 threw the Ultra Ball!
+Battle Message: Landorus used Sandstorm!
+Battle Message: But it failed!
+Landorus used Sandstorm against Landorus with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Battle Message: The sandstorm rages harshly!
+Battle Message: Slither Wing was buffeted by the sandstorm!
+SlitherWing was damaged by SlitherWing type WEATHER for 10 before: 83 after: 73
+
+Turn #10 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[2 turns remaining]
+ Pokemon: 
+ SlitherWing[health=83, , max health=172]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=176, DEFENSE=110, SPECIAL_ATTACK=110, SPECIAL_DEFENSE=132, SPEED=88, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=-2, , , ]
+
+ Landorus[health=3, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #11 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[2 turns remaining]
+ Pokemon: 
+ SlitherWing[health=73, , max health=172]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=176, DEFENSE=110, SPECIAL_ATTACK=110, SPECIAL_DEFENSE=132, SPEED=88, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=-2, , , ]
+
+ Landorus[health=3, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Earth Power for Landorus targeting SlitherWing and opted to mega evolve
+tydf62 used pixelmon:poke_ball on Landorus
+Battle Message: tydf62 threw the Ultra Ball!
+Battle Message: Landorus used Earth Power!
+Battle Message: It wasn't very effective...
+SlitherWing was damaged by Landorus type ATTACK for 65 before: 73 after: 8
+Battle Message: Slither Wing's Special Defense was decreased!
+Landorus used Earth Power against SlitherWing with results MoveResults{damage=65, fullDamage=65, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: The sandstorm rages harshly!
+Battle Message: Slither Wing was buffeted by the sandstorm!
+SlitherWing was damaged by SlitherWing type WEATHER for 8 before: 8 after: 0
+Battle Message: Slither Wing fainted!
+Battle Message: Ting-Lu's Vessel of Ruin weakened the Special Attack of all surrounding Pokémon!
+Global status added com.pixelmonmod.pixelmon.battles.status.OfRuinStatus@7d0b27b4 by Ting-Lu
+
+Turn #11 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[1 turns remaining]
+ Pokemon: 
+ Ting-Lu[health=310, , max health=310]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=3, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #12 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: Sandstorm[1 turns remaining]
+ Pokemon: 
+ Ting-Lu[health=310, , max health=310]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=3, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Sandstorm for Landorus targeting Landorus and opted to mega evolve
+Ting-Lu stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=180, DEFENSE=226, SPECIAL_ATTACK=114, SPECIAL_DEFENSE=157, SPEED=80] delta: ATTACK=-178, DEFENSE=-224, SPECIAL_ATTACK=-111, SPECIAL_DEFENSE=-154, SPEED=-76
+Landorus stats changed from [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155] to [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=126, SPECIAL_DEFENSE=151, SPEED=155] delta: SPECIAL_ATTACK=42
+tydf62 used pixelmon:poke_ball on Landorus
+Battle Message: tydf62 threw the Ultra Ball!
+Landorus stats changed from [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=126, SPECIAL_DEFENSE=151, SPEED=155] to [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155] delta: SPECIAL_ATTACK=-42
+Landorus stats changed from [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155] to [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=126, SPECIAL_DEFENSE=151, SPEED=155] delta: SPECIAL_ATTACK=42
+Battle Message: Landorus used Sandstorm!
+Battle Message: But it failed!
+Landorus used Sandstorm against Landorus with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+Landorus stats changed from [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=126, SPECIAL_DEFENSE=151, SPEED=155] to [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155] delta: SPECIAL_ATTACK=-42
+Global status removed Sandstorm[0 turns remaining]
+Weather has changed from Sandstorm[0 turns remaining] to nothing
+Battle Message: The sandstorm subsided.
+
+Turn #12 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Ting-Lu[health=310, , max health=310]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=180, DEFENSE=226, SPECIAL_ATTACK=114, SPECIAL_DEFENSE=157, SPEED=80, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=3, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #13 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Ting-Lu[health=310, , max health=310]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=180, DEFENSE=226, SPECIAL_ATTACK=114, SPECIAL_DEFENSE=157, SPEED=80, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Landorus[health=3, , max health=226]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Landorus selected attack Bulldoze for Landorus targeting Ting-Lu and opted to mega evolve
+Landorus stats changed from [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=168, SPECIAL_DEFENSE=151, SPEED=155] to [ACCURACY=100, EVASION=100, ATTACK=201, DEFENSE=130, SPECIAL_ATTACK=126, SPECIAL_DEFENSE=151, SPEED=155] delta: SPECIAL_ATTACK=42
+tydf62 used pixelmon:poke_ball on Landorus
+Battle Message: tydf62 threw the Ultra Ball!
+
+BATTLE ENDED
+
+BATTLE ENDED
+Caught error in battle. Continuing...
+Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.common.asm.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:60)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:94)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:57)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:190)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$20(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:311)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:214)
+java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.forfeitBattleForBeingTooFarAway(PlayerParticipant.java:666)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.handlePlayerDistanceFromBattle(PlayerParticipant.java:647)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.tick(PlayerParticipant.java:451)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.onUpdate(BattleController.java:1135)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:511)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

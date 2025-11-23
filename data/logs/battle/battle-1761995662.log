@@ -1,0 +1,357 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-01T11:14:22.426008537Z
+
+Team #0 WildPixelmonParticipant Rockruff pixelmon:ultra_space (5634.208839568663, 73.0, -2403.0849611304616) 
+	Rockruff {Ability:"KeenEye",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:0b,GigantamaxFactor:0b,Health:55,IVAttack:3b,IVDefense:10b,IVHP:0b,IVSpAtt:26b,IVSpDef:21b,IVSpeed:26b,Level:24,Moveset:[{MoveID:"Leer",MovePP:30b},{MoveID:"Tackle",MovePP:35b},{MoveID:"Sand Attack",MovePP:14b},{MoveID:"Double Team",MovePP:13b}],NBT_VERSION:2b,Nature:2b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Leer","Tackle","Sand Attack"],Size:68.10057474224503d,SpecFlags:[],StatsAttack:36s,StatsDefense:26s,StatsHP:55s,StatsSpecialAttack:25s,StatsSpecialDefense:29s,StatsSpeed:40s,UUID:[I;102173716,-1451341857,-1850511906,-965956707],Variant:"base",eggCycles:-1,ndex:744,palette:"none",ribbons2:[]}
+Team #0 WildPixelmonParticipant Golett pixelmon:ultra_space (5632.5999999940395, 69.0, -2408.014442156576) 
+	Golett {Ability:"IronFist",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:2b,GigantamaxFactor:0b,Health:0,IVAttack:7b,IVDefense:9b,IVHP:25b,IVSpAtt:7b,IVSpDef:9b,IVSpeed:28b,Level:43,Moveset:[{MoveID:"Curse",MovePP:10b},{MoveID:"Stomping Tantrum",MovePP:8b},{MoveID:"Iron Defense",MovePP:15b},{MoveID:"Mega Punch",MovePP:20b}],NBT_VERSION:2b,Nature:23b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Curse","Stomping Tantrum","Iron Defense"],Size:103.85493493478018d,SpecFlags:[],StatsAttack:71s,StatsDefense:51s,StatsHP:114s,StatsSpecialAttack:38s,StatsSpecialDefense:56s,StatsSpeed:42s,UUID:[I;553565272,-749386477,-2097664327,2091779823],Variant:"base",eggCycles:-1,ndex:622,palette:"none",ribbons2:[]}
+Team #0 WildPixelmonParticipant Skarmory pixelmon:ultra_space (5633.5, 72.35161606519817, -2404.7281403950633) 
+	Skarmory {Ability:"Sturdy",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:1b,GigantamaxFactor:0b,Health:0,IVAttack:15b,IVDefense:24b,IVHP:15b,IVSpAtt:17b,IVSpDef:0b,IVSpeed:4b,Level:33,Moveset:[{MoveID:"Peck",MovePP:34b},{MoveID:"Sand Attack",MovePP:15b},{MoveID:"Fury Attack",MovePP:20b},{MoveID:"Metal Claw",MovePP:34b}],NBT_VERSION:2b,Nature:8b,PAbilitySlot:1,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Sand Attack","Peck","Fury Attack"],Size:164.2666079890498d,SpecFlags:[],StatsAttack:68s,StatsDefense:105s,StatsHP:90s,StatsSpecialAttack:37s,StatsSpecialDefense:45s,StatsSpeed:52s,UUID:[I;1126518847,1744914835,-1512133285,-1856666284],Variant:"base",eggCycles:-1,ndex:227,palette:"none",ribbons2:[]}
+Team #0 WildPixelmonParticipant Elgyem pixelmon:ultra_space (5631.8598976564035, 69.0, -2406.7339151962424) 
+	Elgyem {Ability:"Telepathy",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:1b,GigantamaxFactor:0b,Health:96,IVAttack:22b,IVDefense:7b,IVHP:0b,IVSpAtt:25b,IVSpDef:12b,IVSpeed:18b,Level:41,Moveset:[{MoveID:"Growl",MovePP:40b},{MoveID:"Imprison",MovePP:10b},{MoveID:"Teleport",MovePP:20b},{MoveID:"Headbutt",MovePP:13b}],NBT_VERSION:2b,Nature:7b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Growl","Imprison","Teleport"],Size:52.83862496431414d,SpecFlags:[],StatsAttack:64s,StatsDefense:52s,StatsHP:96s,StatsSpecialAttack:75s,StatsSpecialDefense:55s,StatsSpeed:36s,UUID:[I;-1199252038,9388419,-1475479255,1711973784],Variant:"base",eggCycles:-1,ndex:605,palette:"none",ribbons2:[]}
+Team #0 WildPixelmonParticipant Scraggy pixelmon:ultra_space (5638.20000000298, 69.0, -2404.6238473310095) 
+	Scraggy {Ability:"Moxie",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:1b,GigantamaxFactor:0b,Health:0,IVAttack:17b,IVDefense:11b,IVHP:14b,IVSpAtt:14b,IVSpDef:8b,IVSpeed:8b,Level:33,Moveset:[{MoveID:"Leer",MovePP:30b},{MoveID:"Headbutt",MovePP:14b},{MoveID:"Sand Attack",MovePP:15b},{MoveID:"Torment",MovePP:14b}],NBT_VERSION:2b,Nature:4b,PAbilitySlot:1,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Leer","Sand Attack","Headbutt"],Size:70.3774609008864d,SpecFlags:[],StatsAttack:60s,StatsDefense:54s,StatsHP:80s,StatsSpecialAttack:32s,StatsSpecialDefense:53s,StatsSpeed:39s,UUID:[I;-1808647317,1755597911,-1517015461,622617257],Variant:"base",eggCycles:-1,ndex:559,palette:"none",ribbons2:[]}
+Team #1 PlayerParticipant Bluegum_ pixelmon:ultra_space (5635.960748039554, 73.0, -2405.015272855375) 
+	Blaziken {Ability:"Blaze",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:53s,EVDefense:91s,EVHP:16s,EVSpecialAttack:27s,EVSpecialDefense:14s,EVSpeed:32s,EXP:4958,Friendship:3s,Gender:0b,GigantamaxFactor:0b,Health:0,IVAttack:13b,IVDefense:9b,IVHP:9b,IVSpAtt:1b,IVSpDef:11b,IVSpeed:13b,Level:47,Moveset:[{MoveID:"Flare Blitz",MovePP:14b},{MoveID:"Fire Punch",MovePP:15b},{MoveID:"Double Kick",MovePP:30b},{MoveID:"Swords Dance",MovePP:20b}],NBT_VERSION:2b,Nature:14b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:1b,Type:0s},RelrnMoves:["Quick Attack","Sand Attack","Growl","Double Kick","Aerial Ace","Swords Dance","Bulk Up","Scratch","Ember","Slash","Bounce","Flame Charge","Fire Blast","Fire Punch"],Size:182.54302336065263d,SpecFlags:[],StatsAttack:130s,StatsDefense:76s,StatsHP:138s,StatsSpecialAttack:112s,StatsSpecialDefense:77s,StatsSpeed:99s,UUID:[I;-1243501749,1089686626,-1980701276,-1821150013],Variant:"base",eggCycles:-1,ndex:257,originalTrainer:"Bluegum_",originalTrainerUUID:[I;-18226562,-815576607,-1945710123,1042587051],palette:"none",ribbon_display2:{received:1761549069944L,receiver:'""',type:"destiny"},ribbons2:[{received:1761549069944L,receiver:'""',type:"destiny"}]}
+	Metang {Ability:"ClearBody",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:17s,EVDefense:24s,EVHP:3s,EVSpecialAttack:8s,EVSpecialDefense:9s,EVSpeed:1s,EXP:3751,Friendship:42s,Gender:2b,GigantamaxFactor:0b,Health:0,IVAttack:1b,IVDefense:9b,IVHP:8b,IVSpAtt:2b,IVSpDef:19b,IVSpeed:15b,Level:33,Moveset:[{MoveID:"Tackle",MovePP:35b},{MoveID:"Metal Claw",MovePP:34b},{MoveID:"Confusion",MovePP:25b},{MoveID:"Take Down",MovePP:20b}],NBT_VERSION:2b,Nature:15b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Tackle","Metal Claw","Confusion"],Size:93.82538306814747d,SpecFlags:[],StatsAttack:56s,StatsDefense:75s,StatsHP:85s,StatsSpecialAttack:37s,StatsSpecialDefense:64s,StatsSpeed:47s,UUID:[I;781686170,684476857,-1222539749,1755248273],Variant:"base",eggCycles:-1,ndex:375,originalTrainer:"godksrk",originalTrainerUUID:[I;-1534560904,-1643165059,-1785036217,-2046744326],palette:"none",ribbons2:[]}
+	Turtonator {Ability:"ShellArmour",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:1s,EVSpecialDefense:0s,EVSpeed:0s,EXP:519,Friendship:70s,Gender:0b,GigantamaxFactor:0b,Health:71,IVAttack:0b,IVDefense:21b,IVHP:27b,IVSpAtt:30b,IVSpDef:2b,IVSpeed:18b,Level:25,Moveset:[{MoveID:"Tackle",MovePP:35b},{MoveID:"Ember",MovePP:25b},{MoveID:"Protect",MovePP:10b},{MoveID:"Overheat",MovePP:5b}],NBT_VERSION:2b,Nature:23b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Tackle","Protect","Ember"],Size:192.23723289665202d,SpecFlags:[],StatsAttack:44s,StatsDefense:77s,StatsHP:71s,StatsSpecialAttack:58s,StatsSpecialDefense:52s,StatsSpeed:24s,UUID:[I;-303507999,320684703,-1824913776,-907857269],Variant:"base",eggCycles:-1,ndex:776,originalTrainer:"godksrk",originalTrainerUUID:[I;-1534560904,-1643165059,-1785036217,-2046744326],palette:"none",ribbons2:[]}
+	Glimmora {Ability:"ToxicDebris",CaughtBall:"heal_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:3s,EVDefense:5s,EVHP:0s,EVSpecialAttack:5s,EVSpecialDefense:1s,EVSpeed:1s,EXP:10241,Friendship:50s,Gender:0b,GigantamaxFactor:0b,Health:190,IVAttack:1b,IVDefense:5b,IVHP:12b,IVSpAtt:28b,IVSpDef:1b,IVSpeed:6b,Level:65,Moveset:[{MoveID:"Rock Polish",MovePP:20b},{MoveID:"Toxic Spikes",MovePP:20b},{MoveID:"Rock Slide",MovePP:10b},{MoveID:"Venoshock",MovePP:15b}],NBT_VERSION:2b,Nature:12b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Venoshock","Rock Slide","Rock Polish","Toxic Spikes"],Size:120.54676634163116d,SpecFlags:[],StatsAttack:77s,StatsDefense:138s,StatsHP:190s,StatsSpecialAttack:193s,StatsSpecialDefense:99s,StatsSpeed:120s,UUID:[I;772598296,-498577872,-1277329970,1051373041],Variant:"base",eggCycles:-1,ndex:970,originalTrainer:"Bluegum_",originalTrainerUUID:[I;-18226562,-815576607,-1945710123,1042587051],palette:"none",ribbons2:[]}
+	Chandelure {Ability:"FlashFire",CaughtBall:"great_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:6s,EVDefense:4s,EVHP:0s,EVSpecialAttack:6s,EVSpecialDefense:0s,EVSpeed:1s,EXP:1538,Friendship:85s,Gender:0b,GigantamaxFactor:0b,Health:124,IVAttack:17b,IVDefense:24b,IVHP:4b,IVSpAtt:17b,IVSpDef:27b,IVSpeed:31b,Level:51,Moveset:[{MoveID:"Flare Blitz",MovePP:15b},{MoveID:"Overheat",MovePP:4b},{MoveID:"Shadow Ball",MovePP:13b},{MoveID:"Fire Blast",MovePP:5b}],NBT_VERSION:2b,Nature:13b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Smog","Inferno","Poltergeist","Will-O-Wisp","Overheat","Shadow Ball","Fire Blast"],Size:152.31493249610517d,SpecFlags:[],StatsAttack:63s,StatsDefense:109s,StatsHP:124s,StatsSpecialAttack:162s,StatsSpecialDefense:110s,StatsSpeed:112s,UUID:[I;-916774223,-1931064497,-1617671008,-952619417],Variant:"base",eggCycles:-1,ndex:609,originalTrainer:"Bluegum_",originalTrainerUUID:[I;-18226562,-815576607,-1945710123,1042587051],palette:"none",ribbon_display2:{received:1761750479281L,receiver:'""',type:"dawn"},ribbons2:[{received:1761750479281L,receiver:'""',type:"dawn"}]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Rockruff stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=4, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=4, SPEED=3] delta: ATTACK=-3, DEFENSE=-4, SPECIAL_ATTACK=-4, SPECIAL_DEFENSE=-4, SPEED=-3
+Golett stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=4, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=4, SPEED=4] delta: ATTACK=-3, DEFENSE=-4, SPECIAL_ATTACK=-4, SPECIAL_DEFENSE=-4, SPEED=-4
+Skarmory stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=2, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-2, SPECIAL_ATTACK=-4, SPECIAL_DEFENSE=-3, SPEED=-3
+Elgyem stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-4
+Scraggy stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-4, SPECIAL_DEFENSE=-3, SPEED=-4
+Blaziken stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Metang stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-4
+Turtonator stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-3, DEFENSE=-2, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-4
+Glimmora stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Chandelure stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Battle Message: literal{Rockruff} summoned some nearby allies to assist them
+Rockruff stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=4, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=4, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=36, DEFENSE=26, SPECIAL_ATTACK=25, SPECIAL_DEFENSE=29, SPEED=40] delta: ATTACK=-33, DEFENSE=-22, SPECIAL_ATTACK=-21, SPECIAL_DEFENSE=-25, SPEED=-37
+Golett stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=4, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=4, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=71, DEFENSE=51, SPECIAL_ATTACK=38, SPECIAL_DEFENSE=56, SPEED=42] delta: ATTACK=-68, DEFENSE=-47, SPECIAL_ATTACK=-34, SPECIAL_DEFENSE=-52, SPEED=-38
+Skarmory stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=2, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=68, DEFENSE=105, SPECIAL_ATTACK=37, SPECIAL_DEFENSE=45, SPEED=52] delta: ATTACK=-65, DEFENSE=-103, SPECIAL_ATTACK=-33, SPECIAL_DEFENSE=-42, SPEED=-49
+Elgyem stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=64, DEFENSE=52, SPECIAL_ATTACK=75, SPECIAL_DEFENSE=55, SPEED=36] delta: ATTACK=-61, DEFENSE=-49, SPECIAL_ATTACK=-72, SPECIAL_DEFENSE=-52, SPEED=-32
+Scraggy stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=3, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=60, DEFENSE=54, SPECIAL_ATTACK=32, SPECIAL_DEFENSE=53, SPEED=39] delta: ATTACK=-57, DEFENSE=-51, SPECIAL_ATTACK=-28, SPECIAL_DEFENSE=-50, SPEED=-35
+Blaziken stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=130, DEFENSE=76, SPECIAL_ATTACK=112, SPECIAL_DEFENSE=77, SPEED=99] delta: ATTACK=-128, DEFENSE=-73, SPECIAL_ATTACK=-110, SPECIAL_DEFENSE=-74, SPEED=-96
+Rockruff selected attack Double Team for Rockruff targeting Rockruff and opted to mega evolve
+translation{key='pixelmon.golett', args=[]} weighted their choices as follows:  Curse, Tier 0, Weight 0.0;  Stomping Tantrum, Tier 2, Weight 63.04348;  Iron Defense, Tier 0, Weight 0.0;  Mega Punch, Tier 2, Weight 26.086956;  
+translation{key='pixelmon.golett', args=[]} decided their best choices were:  Stomping Tantrum, Tier 2, Weight 63.04348;  
+Golett selected attack Stomping Tantrum for Golett targeting Blaziken and opted to mega evolve
+translation{key='pixelmon.skarmory', args=[]} weighted their choices as follows:  Peck, Tier 2, Weight 23.913044;  Sand Attack, Tier 0, Weight 0.0;  Fury Attack, Tier 2, Weight 13.768116;  Metal Claw, Tier 2, Weight 7.971015;  
+translation{key='pixelmon.skarmory', args=[]} decided their best choices were:  Peck, Tier 2, Weight 23.913044;  
+Skarmory selected attack Peck for Skarmory targeting Blaziken and opted to mega evolve
+translation{key='pixelmon.elgyem', args=[]} weighted their choices as follows:  Growl, Tier 0, Weight 0.0;  Imprison, Tier 0, Weight 0.0;  Teleport, Tier 0, Weight 0.0;  Headbutt, Tier 2, Weight 16.666668;  
+translation{key='pixelmon.elgyem', args=[]} decided their best choices were:  Headbutt, Tier 2, Weight 16.666668;  
+Elgyem selected attack Headbutt for Elgyem targeting Blaziken and opted to mega evolve
+translation{key='pixelmon.scraggy', args=[]} weighted their choices as follows:  Leer, Tier 0, Weight 0.0;  Headbutt, Tier 2, Weight 13.768116;  Sand Attack, Tier 0, Weight 0.0;  Torment, Tier 0, Weight 0.0;  
+translation{key='pixelmon.scraggy', args=[]} decided their best choices were:  Headbutt, Tier 2, Weight 13.768116;  
+Scraggy selected attack Headbutt for Scraggy targeting Blaziken and opted to mega evolve
+Bluegum_ selected attack Flare Blitz for Blaziken targeting Skarmory
+Battle Message: Blaziken used Flare Blitz!
+Battle Message: It's super effective!
+Battle Message: Skarmory just hung on with Sturdy!
+Skarmory was damaged by Blaziken type ATTACK for 89 before: 90 after: 1
+Battle Message: Blaziken took recoil damage!
+Blaziken was damaged by Blaziken type RECOIL for 29 before: 138 after: 109
+Bluegum_ told Blaziken to use Flare Blitz against Skarmory with results MoveResults{damage=89, fullDamage=89, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Skarmory used Peck!
+Battle Message: It's super effective!
+Blaziken was damaged by Skarmory type ATTACK for 30 before: 109 after: 79
+Skarmory used Peck against Blaziken with results MoveResults{damage=30, fullDamage=30, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Golett used Stomping Tantrum!
+Battle Message: It's super effective!
+Blaziken was damaged by Golett type ATTACK for 74 before: 79 after: 5
+Golett used Stomping Tantrum against Blaziken with results MoveResults{damage=74, fullDamage=74, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Rockruff used Double Team!
+Battle Message: Rockruff's evasion was increased!
+Rockruff used Double Team against Rockruff with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Scraggy used Headbutt!
+Blaziken was damaged by Scraggy type ATTACK for 5 before: 5 after: 0
+Battle Message: Scraggy's Moxie activated!
+Battle Message: Scraggy's Attack was increased!
+Battle Message: Blaziken fainted!
+Scraggy used Headbutt against Blaziken with results MoveResults{damage=5, fullDamage=17, power=[], accuracy=0, priority=0.0, result=killed, weightMod=0.0}
+Battle Message: Elgyem used Headbutt!
+Battle Message: But it failed!
+Elgyem used Headbutt against 
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Rockruff[health=54, , max health=55]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=36, DEFENSE=26, SPECIAL_ATTACK=25, SPECIAL_DEFENSE=29, SPEED=40, stages=[, ACCURACY=0, , , EVASION=1, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Golett[health=114, , max health=114]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=71, DEFENSE=51, SPECIAL_ATTACK=38, SPECIAL_DEFENSE=56, SPEED=42, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Skarmory[health=90, , max health=90]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=68, DEFENSE=105, SPECIAL_ATTACK=37, SPECIAL_DEFENSE=45, SPEED=52, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Elgyem[health=96, , max health=96]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=64, DEFENSE=52, SPECIAL_ATTACK=75, SPECIAL_DEFENSE=55, SPEED=36, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Scraggy[health=80, , max health=80]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=60, DEFENSE=54, SPECIAL_ATTACK=32, SPECIAL_DEFENSE=53, SPEED=39, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=1, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Metang[health=85, , max health=85]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Rockruff[health=55, , max health=55]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=36, DEFENSE=26, SPECIAL_ATTACK=25, SPECIAL_DEFENSE=29, SPEED=40, stages=[, ACCURACY=0, , , EVASION=1, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Golett[health=114, , max health=114]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=71, DEFENSE=51, SPECIAL_ATTACK=38, SPECIAL_DEFENSE=56, SPEED=42, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Skarmory[health=1, , max health=90]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=68, DEFENSE=105, SPECIAL_ATTACK=37, SPECIAL_DEFENSE=45, SPEED=52, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Elgyem[health=96, , max health=96]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=64, DEFENSE=52, SPECIAL_ATTACK=75, SPECIAL_DEFENSE=55, SPEED=36, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Scraggy[health=80, , max health=80]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=60, DEFENSE=54, SPECIAL_ATTACK=32, SPECIAL_DEFENSE=53, SPEED=39, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=1, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Metang[health=85, , max health=85]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Rockruff selected attack Tackle for Rockruff targeting Metang and opted to mega evolve
+Metang stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=56, DEFENSE=75, SPECIAL_ATTACK=37, SPECIAL_DEFENSE=64, SPEED=47] delta: ATTACK=-53, DEFENSE=-72, SPECIAL_ATTACK=-34, SPECIAL_DEFENSE=-61, SPEED=-43
+translation{key='pixelmon.golett', args=[]} weighted their choices as follows:  Curse, Tier 0, Weight 0.0;  Stomping Tantrum, Tier 3, Weight 100.0;  Iron Defense, Tier 0, Weight 0.0;  Mega Punch, Tier 2, Weight 21.176472;  
+translation{key='pixelmon.golett', args=[]} decided their best choices were:  Stomping Tantrum, Tier 3, Weight 100.0;  
+Golett selected attack Stomping Tantrum for Golett targeting Metang and opted to mega evolve
+translation{key='pixelmon.skarmory', args=[]} weighted their choices as follows:  Peck, Tier 2, Weight 10.588236;  Sand Attack, Tier 0, Weight 0.0;  Fury Attack, Tier 2, Weight 10.588236;  Metal Claw, Tier 2, Weight 14.117648;  
+translation{key='pixelmon.skarmory', args=[]} decided their best choices were:  Metal Claw, Tier 2, Weight 14.117648;  
+Skarmory selected attack Metal Claw for Skarmory targeting Metang and opted to mega evolve
+translation{key='pixelmon.elgyem', args=[]} weighted their choices as follows:  Growl, Tier 0, Weight 0.0;  Imprison, Tier 0, Weight 0.0;  Teleport, Tier 0, Weight 0.0;  Headbutt, Tier 2, Weight 14.117648;  
+translation{key='pixelmon.elgyem', args=[]} decided their best choices were:  Headbutt, Tier 2, Weight 14.117648;  
+Elgyem selected attack Headbutt for Elgyem targeting Metang and opted to mega evolve
+translation{key='pixelmon.scraggy', args=[]} weighted their choices as follows:  Leer, Tier 0, Weight 0.0;  Headbutt, Tier 2, Weight 15.294118;  Sand Attack, Tier 0, Weight 0.0;  Torment, Tier 0, Weight 0.0;  
+translation{key='pixelmon.scraggy', args=[]} decided their best choices were:  Headbutt, Tier 2, Weight 15.294118;  
+Scraggy selected attack Headbutt for Scraggy targeting Metang and opted to mega evolve
+Bluegum_ selected attack Metal Claw for Metang targeting Skarmory
+Battle Message: Skarmory used Metal Claw!
+Battle Message: It wasn't very effective...
+Metang was damaged by Skarmory type ATTACK for 11 before: 85 after: 74
+Skarmory used Metal Claw against Metang with results MoveResults{damage=11, fullDamage=11, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Metang used Metal Claw!
+Battle Message: A critical hit!
+Battle Message: It wasn't very effective...
+Skarmory was damaged by Metang type ATTACK for 1 before: 1 after: 0
+Battle Message: Skarmory fainted!
+Bluegum_ told Metang to use Metal Claw against Skarmory with results MoveResults{damage=1, fullDamage=11, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Golett used Stomping Tantrum!
+Battle Message: It's super effective!
+Metang was damaged by Golett type ATTACK for 74 before: 74 after: 0
+Battle Message: Metang fainted!
+Golett used Stomping Tantrum against Metang with results MoveResults{damage=74, fullDamage=78, power=[], accuracy=0, priority=0.0, result=killed, weightMod=0.0}
+Battle Message: Rockruff used Tackle!
+Battle Message: But it failed!
+Rockruff used Tackle against 
+Battle Message: Scraggy used Headbutt!
+Battle Message: But it failed!
+Scraggy used Headbutt against 
+Battle Message: Elgyem used Headbutt!
+Battle Message: But it failed!
+Elgyem used Headbutt against 
+
+Turn #1 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Rockruff[health=55, , max health=55]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=36, DEFENSE=26, SPECIAL_ATTACK=25, SPECIAL_DEFENSE=29, SPEED=40, stages=[, ACCURACY=0, , , EVASION=1, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Golett[health=114, , max health=114]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=71, DEFENSE=51, SPECIAL_ATTACK=38, SPECIAL_DEFENSE=56, SPEED=42, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Elgyem[health=96, , max health=96]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=64, DEFENSE=52, SPECIAL_ATTACK=75, SPECIAL_DEFENSE=55, SPEED=36, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Scraggy[health=80, , max health=80]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=60, DEFENSE=54, SPECIAL_ATTACK=32, SPECIAL_DEFENSE=53, SPEED=39, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=1, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Chandelure[health=124, , max health=124]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #2 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Rockruff[health=55, , max health=55]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=36, DEFENSE=26, SPECIAL_ATTACK=25, SPECIAL_DEFENSE=29, SPEED=40, stages=[, ACCURACY=0, , , EVASION=1, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Golett[health=114, , max health=114]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=71, DEFENSE=51, SPECIAL_ATTACK=38, SPECIAL_DEFENSE=56, SPEED=42, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Elgyem[health=96, , max health=96]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=64, DEFENSE=52, SPECIAL_ATTACK=75, SPECIAL_DEFENSE=55, SPEED=36, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Scraggy[health=80, , max health=80]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=60, DEFENSE=54, SPECIAL_ATTACK=32, SPECIAL_DEFENSE=53, SPEED=39, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=1, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Chandelure[health=124, , max health=124]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Rockruff selected attack Sand Attack for Rockruff targeting Chandelure and opted to mega evolve
+Chandelure stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=63, DEFENSE=109, SPECIAL_ATTACK=162, SPECIAL_DEFENSE=110, SPEED=112] delta: ATTACK=-60, DEFENSE=-106, SPECIAL_ATTACK=-160, SPECIAL_DEFENSE=-107, SPEED=-109
+translation{key='pixelmon.golett', args=[]} weighted their choices as follows:  Curse, Tier 0, Weight 0.0;  Stomping Tantrum, Tier 2, Weight 50.80645;  Iron Defense, Tier 0, Weight 0.0;  Mega Punch, Tier 0, Weight 0.0;  
+translation{key='pixelmon.golett', args=[]} decided their best choices were:  Stomping Tantrum, Tier 2, Weight 50.80645;  
+Golett selected attack Stomping Tantrum for Golett targeting Chandelure and opted to mega evolve
+translation{key='pixelmon.elgyem', args=[]} weighted their choices as follows:  Growl, Tier 0, Weight 0.0;  Imprison, Tier 0, Weight 0.0;  Teleport, Tier 0, Weight 0.0;  Headbutt, Tier 0, Weight 0.0;  
+translation{key='pixelmon.elgyem', args=[]} couldn't decide if there was a best choice on which course of action to take.
+Elgyem selected attack Headbutt for Elgyem targeting Chandelure and opted to mega evolve
+translation{key='pixelmon.scraggy', args=[]} weighted their choices as follows:  Leer, Tier 0, Weight 0.0;  Headbutt, Tier 0, Weight 0.0;  Sand Attack, Tier 0, Weight 0.0;  Torment, Tier 0, Weight 0.0;  
+translation{key='pixelmon.scraggy', args=[]} couldn't decide if there was a best choice on which course of action to take.
+Scraggy selected attack Torment for Scraggy targeting Chandelure and opted to mega evolve
+Bluegum_ selected attack Shadow Ball for Chandelure targeting Golett
+Battle Message: Chandelure used Shadow Ball!
+Battle Message: It's super effective!
+Golett was damaged by Chandelure type ATTACK for 114 before: 114 after: 0
+Battle Message: Golett fainted!
+Bluegum_ told Chandelure to use Shadow Ball against Golett with results MoveResults{damage=114, fullDamage=308, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Rockruff used Sand Attack!
+Battle Message: Chandelure's accuracy was decreased!
+Rockruff used Sand Attack against Chandelure with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Scraggy used Torment!
+Chandelure was given status com.pixelmonmod.pixelmon.battles.status.Torment@76b94f5c
+Scraggy used Torment against Chandelure with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=proceed, weightMod=0.0}
+Battle Message: Elgyem used Headbutt!
+Battle Message: It doesn't affect Chandelure...
+Elgyem used Headbutt against Chandelure with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+
+Turn #2 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Rockruff[health=55, , max health=55]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=36, DEFENSE=26, SPECIAL_ATTACK=25, SPECIAL_DEFENSE=29, SPEED=40, stages=[, ACCURACY=0, , , EVASION=1, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Elgyem[health=96, , max health=96]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=64, DEFENSE=52, SPECIAL_ATTACK=75, SPECIAL_DEFENSE=55, SPEED=36, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Scraggy[health=80, , max health=80]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=60, DEFENSE=54, SPECIAL_ATTACK=32, SPECIAL_DEFENSE=53, SPEED=39, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=1, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Chandelure[health=124, , max health=124]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=63, DEFENSE=109, SPECIAL_ATTACK=162, SPECIAL_DEFENSE=110, SPEED=112, stages=[, ACCURACY=-1, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #3 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Rockruff[health=55, , max health=55]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=36, DEFENSE=26, SPECIAL_ATTACK=25, SPECIAL_DEFENSE=29, SPEED=40, stages=[, ACCURACY=0, , , EVASION=1, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Elgyem[health=96, , max health=96]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=64, DEFENSE=52, SPECIAL_ATTACK=75, SPECIAL_DEFENSE=55, SPEED=36, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Scraggy[health=80, , max health=80]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=60, DEFENSE=54, SPECIAL_ATTACK=32, SPECIAL_DEFENSE=53, SPEED=39, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=1, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Chandelure[health=124, , max health=124]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=63, DEFENSE=109, SPECIAL_ATTACK=162, SPECIAL_DEFENSE=110, SPEED=112, stages=[, ACCURACY=-1, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Rockruff selected attack Double Team for Rockruff targeting Rockruff and opted to mega evolve
+translation{key='pixelmon.elgyem', args=[]} weighted their choices as follows:  Growl, Tier 0, Weight 0.0;  Imprison, Tier 0, Weight 0.0;  Teleport, Tier 0, Weight 0.0;  Headbutt, Tier 0, Weight 0.0;  
+translation{key='pixelmon.elgyem', args=[]} couldn't decide if there was a best choice on which course of action to take.
+Elgyem selected attack Headbutt for Elgyem targeting Chandelure and opted to mega evolve
+translation{key='pixelmon.scraggy', args=[]} weighted their choices as follows:  Leer, Tier 0, Weight 0.0;  Headbutt, Tier 0, Weight 0.0;  Sand Attack, Tier 0, Weight 0.0;  Torment, Tier 0, Weight 0.0;  
+translation{key='pixelmon.scraggy', args=[]} couldn't decide if there was a best choice on which course of action to take.
+Scraggy selected attack Headbutt for Scraggy targeting Chandelure and opted to mega evolve
+Bluegum_ selected attack Overheat for Chandelure targeting Scraggy
+Battle Message: Chandelure used Overheat!
+Scraggy was damaged by Chandelure type ATTACK for 80 before: 80 after: 0
+Battle Message: Scraggy fainted!
+Battle Message: Chandelure's Special Attack was decreased harshly!
+Bluegum_ told Chandelure to use Overheat against Scraggy with results MoveResults{damage=80, fullDamage=262, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Rockruff used Double Team!
+Battle Message: Rockruff's evasion was increased!
+Rockruff used Double Team against Rockruff with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Elgyem used Headbutt!
+Battle Message: It doesn't affect Chandelure...
+Elgyem used Headbutt against Chandelure with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+
+Turn #3 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Rockruff[health=55, , max health=55]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=36, DEFENSE=26, SPECIAL_ATTACK=25, SPECIAL_DEFENSE=29, SPEED=40, stages=[, ACCURACY=0, , , EVASION=2, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Elgyem[health=96, , max health=96]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=64, DEFENSE=52, SPECIAL_ATTACK=75, SPECIAL_DEFENSE=55, SPEED=36, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Chandelure[health=124, , max health=124]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=63, DEFENSE=109, SPECIAL_ATTACK=162, SPECIAL_DEFENSE=110, SPEED=112, stages=[, ACCURACY=-1, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=-2, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #4 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Rockruff[health=55, , max health=55]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=36, DEFENSE=26, SPECIAL_ATTACK=25, SPECIAL_DEFENSE=29, SPEED=40, stages=[, ACCURACY=0, , , EVASION=2, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Elgyem[health=96, , max health=96]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=64, DEFENSE=52, SPECIAL_ATTACK=75, SPECIAL_DEFENSE=55, SPEED=36, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Chandelure[health=124, , max health=124]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=63, DEFENSE=109, SPECIAL_ATTACK=162, SPECIAL_DEFENSE=110, SPEED=112, stages=[, ACCURACY=-1, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=-2, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Rockruff selected attack Double Team for Rockruff targeting Rockruff and opted to mega evolve
+translation{key='pixelmon.elgyem', args=[]} weighted their choices as follows:  Growl, Tier 0, Weight 0.0;  Imprison, Tier 0, Weight 0.0;  Teleport, Tier 0, Weight 0.0;  Headbutt, Tier 0, Weight 0.0;  
+translation{key='pixelmon.elgyem', args=[]} couldn't decide if there was a best choice on which course of action to take.
+Elgyem selected attack Teleport for Elgyem targeting Elgyem and opted to mega evolve
+Bluegum_ selected attack Shadow Ball for Chandelure targeting Elgyem
+Battle Message: Chandelure used Shadow Ball!
+Battle Message: Elgyem avoided the attack!
+Bluegum_ told Chandelure to use Shadow Ball against Elgyem with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=missed, weightMod=0.0}
+Battle Message: Rockruff used Double Team!
+Battle Message: Rockruff's evasion was increased!
+Rockruff used Double Team against Rockruff with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Elgyem used Teleport!
+Battle Message: Elgyem teleported away!
+
+BATTLE ENDED
+Elgyem used Teleport against Elgyem with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=-6.0, result=succeeded, weightMod=0.0}
+Error in applyEffect for class com.pixelmonmod.pixelmon.battles.attacks.specialAttacks.basic.Teleport for attack Teleport
+Cannot invoke "com.pixelmonmod.pixelmon.entities.pixelmon.PixelmonEntity.setHealth(float)" because the return value of "com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.getEntity()" is null
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.attacks.specialAttacks.basic.Teleport.wildPokemonAttemptsEscape(Teleport.java:56)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.attacks.specialAttacks.basic.Teleport.applyEffectDuring(Teleport.java:26)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.attacks.Attack.applySelfStatusMove(Attack.java:1193)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.attacks.Attack.useSelfTargetingStatusMoves(Attack.java:619)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.attacks.Attack.use(Attack.java:393)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:1146)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:1075)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.takeTurn(PixelmonWrapper.java:2035)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.takeTurn(BattleController.java:1478)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.doTurnLogic(BattleController.java:626)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:525)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

@@ -1,0 +1,624 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-05T18:50:12.626135888Z
+
+Team #0 PlayerParticipant lame1202 minecraft:the_end (-77.85137364204837, 58.0, 1152.197320914229) 
+	Gholdengo {Ability:"GoodAsGold",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:228s,EVDefense:9s,EVHP:8s,EVSpecialAttack:237s,EVSpecialDefense:12s,EVSpeed:16s,EXP:5488,Friendship:56s,Gender:2b,GigantamaxFactor:0b,Health:143,HeldItemStack:{count:1,id:"pixelmon:amulet_coin"},IVAttack:12b,IVDefense:30b,IVHP:23b,IVSpAtt:6b,IVSpDef:15b,IVSpeed:10b,Level:76,Moveset:[{MoveID:"Make It Rain",MovePP:5b},{MoveID:"Shadow Ball",MovePP:13b},{MoveID:"Nasty Plot",MovePP:20b},{MoveID:"Recover",MovePP:5b}],NBT_VERSION:2b,Nature:11b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Night Shade","Nasty Plot","Shadow Ball","Confuse Ray","Recover","Substitute","Flash Cannon","Metal Sound"],Size:51.93591104927317d,SpecFlags:[],StatsAttack:148s,StatsDefense:190s,StatsHP:237s,StatsSpecialAttack:230s,StatsSpecialDefense:157s,StatsSpeed:143s,UUID:[I;-1646217366,-392935378,-1324744369,1913311800],Variant:"base",eggCycles:-1,ndex:1000,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Lunala {Ability:"ShadowShield",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:179s,EVDefense:252s,EVHP:19s,EVSpecialAttack:34s,EVSpecialDefense:8s,EVSpeed:18s,EXP:7716,Friendship:208s,Gender:2b,GigantamaxFactor:0b,Health:357,HeldItemStack:{count:1,id:"pixelmon:choice_scarf"},IVAttack:31b,IVDefense:9b,IVHP:22b,IVSpAtt:15b,IVSpDef:31b,IVSpeed:31b,IV_HTDEFENSE:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762338028279L,MoveSkillCooldownId:"open_wormhole",MoveSkillCooldownTarget:1762338928279L},{MoveSkillCooldownCurrent:1762341298540L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762341323540L}],Moveset:[{MoveID:"Moongeist Beam",MovePP:5b},{MoveID:"Moonblast",MovePP:15b},{MoveID:"Psyshock",MovePP:10b},{MoveID:"Focus Blast",MovePP:5b}],NBT_VERSION:2b,Nature:2b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Future Sight","Cosmic Power","Psyshock","Splash","Teleport","Moongeist Beam","Focus Blast"],Size:392.969829837004d,SpecFlags:[],StatsAttack:306s,StatsDefense:277s,StatsHP:419s,StatsSpecialAttack:318s,StatsSpecialDefense:252s,StatsSpeed:234s,UUID:[I;-1179243225,-108770495,-1853800206,-1381633602],Variant:"base",eggCycles:-1,ndex:792,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Garchomp {Ability:"RoughSkin",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:110s,EVDefense:68s,EVHP:132s,EVSpecialAttack:22s,EVSpecialDefense:51s,EVSpeed:127s,EXP:3721,FormattedNickname:'{"text":"","extra":["『ワニ』"]}',Friendship:255s,Gender:1b,GigantamaxFactor:0b,Health:390,HeldItemStack:{count:1,id:"pixelmon:lum_berry"},IVAttack:27b,IVDefense:24b,IVHP:10b,IVSpAtt:12b,IVSpDef:28b,IVSpeed:27b,IV_HTATTACK:1b,IV_HTDEFENSE:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,IV_HTSPECIAL_DEFENSE:1b,IV_HTSPEED:1b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762361293860L,MoveSkillCooldownId:"mount_boost",MoveSkillCooldownTarget:1762361333860L},{MoveSkillCooldownCurrent:1762341231695L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762341256695L}],Moveset:[{MoveID:"Outrage",MovePP:10b},{MoveID:"Earthquake",MovePP:10b},{MoveID:"Stone Edge",MovePP:5b},{MoveID:"Fire Blast",MovePP:5b}],NBT_VERSION:2b,Nature:12b,PAbilitySlot:0,PHiddenAbility:1b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["False Swipe","Dig","Sand Attack","Bite","Swords Dance","Outrage","Sand Tomb","Tackle","Tera Blast","Earthquake","Slash","Bulldoze","Crunch","Fire Blast"],Size:179.34559614068806d,SpecFlags:[],StatsAttack:323s,StatsDefense:267s,StatsHP:390s,StatsSpecialAttack:201s,StatsSpecialDefense:196s,StatsSpeed:271s,UUID:[I;6640726,-1809694469,-1176671605,-1159100764],Variant:"base",eggCycles:-1,ndex:445,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Salamence {Ability:"Intimidate",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:180s,EVDefense:236s,EVHP:20s,EVSpecialAttack:42s,EVSpecialDefense:11s,EVSpeed:21s,EXP:2578,Friendship:94s,Gender:1b,GigantamaxFactor:0b,Health:336,HeldItemStack:{components:{"pixelmon:mega_evolution":{duration:5400000L,form_name:"mega",valid_pokemon:["salamence"]},"pixelmon:next_usable":"2025-10-30T15:25:39.189603459Z"},count:1,id:"pixelmon:salamencite"},IVAttack:8b,IVDefense:31b,IVHP:31b,IVSpAtt:8b,IVSpDef:31b,IVSpeed:31b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762335950385L,MoveSkillCooldownId:"scare",MoveSkillCooldownTarget:1762336250385L},{MoveSkillCooldownCurrent:1762341250992L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762341275992L}],Moveset:[{MoveID:"Hyper Voice",MovePP:10b},{MoveID:"Draco Meteor",MovePP:5b},{MoveID:"Fire Blast",MovePP:5b},{MoveID:"Hydro Pump",MovePP:5b}],NBT_VERSION:2b,Nature:14b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Leer","Protect","Dragon Tail","Roost","Dragon Breath","Draco Meteor","Headbutt","Double-Edge","Hyper Voice","Fire Blast"],Size:182.33057871524372d,SpecFlags:[],StatsAttack:328s,StatsDefense:229s,StatsHP:336s,StatsSpecialAttack:243s,StatsSpecialDefense:198s,StatsSpeed:265s,UUID:[I;661517207,90587481,-1545399139,-133641425],Variant:"base",eggCycles:-1,ndex:373,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Urshifu {Ability:"UnseenFist",CaughtBall:"level_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:192s,EVDefense:2s,EVHP:3s,EVSpecialAttack:209s,EVSpecialDefense:13s,EVSpeed:5s,EXP:6631,Friendship:52s,Gender:0b,GigantamaxFactor:0b,Health:185,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:0b,IVDefense:31b,IVHP:31b,IVSpAtt:31b,IVSpDef:6b,IVSpeed:3b,Level:53,Moveset:[{MoveID:"Surging Strikes",MovePP:5b},{MoveID:"Close Combat",MovePP:5b},{MoveID:"Thunder Punch",MovePP:15b},{MoveID:"Ice Punch",MovePP:15b}],NBT_VERSION:2b,Nature:5b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Rock Smash","Surging Strikes","Leer","Endure","Aerial Ace","Thunder Punch","Ice Punch"],Size:151.05878067529977d,SpecFlags:[],StatsAttack:184s,StatsDefense:114s,StatsHP:185s,StatsSpecialAttack:115s,StatsSpecialDefense:73s,StatsSpeed:110s,UUID:[I;-326515662,630081550,-1680083011,1637730844],Variant:"rapidstrike",eggCycles:-1,ndex:892,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Aron {Ability:"Sturdy",CaughtBall:"poke_ball",DoesLevel:0b,DynamaxLevel:0,EVAttack:184s,EVDefense:247s,EVHP:17s,EVSpecialAttack:29s,EVSpecialDefense:12s,EVSpeed:21s,EXP:0,Friendship:35s,Gender:0b,GigantamaxFactor:0b,Health:6,HeldItemStack:{count:1,id:"pixelmon:shell_bell"},IVAttack:7b,IVDefense:6b,IVHP:22b,IVSpAtt:14b,IVSpDef:19b,IVSpeed:3b,Level:1,Moveset:[{MoveID:"Endeavor",MovePP:3b},{MoveID:"Ancient Power",MovePP:5b},{MoveID:"Harden",MovePP:30b},{MoveID:"Tackle",MovePP:35b}],NBT_VERSION:2b,Nature:5b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Endeavor","Tackle","Ancient Power","Harden"],Size:70.39756754484455d,SpecFlags:[],StatsAttack:6s,StatsDefense:6s,StatsHP:12s,StatsSpecialAttack:6s,StatsSpecialDefense:6s,StatsSpeed:5s,UUID:[I;1771948924,-1989261577,-2020454325,-391739958],Variant:"base",eggCycles:-1,ndex:304,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+Team #1 WildPixelmonParticipant Absol minecraft:the_end (-50.37701350635574, 58.0, 1131.5891604164194) 
+	Absol {Ability:"Pressure",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:1b,GigantamaxFactor:0b,Health:1,IVAttack:0b,IVDefense:28b,IVHP:14b,IVSpAtt:10b,IVSpDef:25b,IVSpeed:7b,Level:50,Moveset:[{MoveID:"Quick Attack",MovePP:24b},{MoveID:"Knock Off",MovePP:18b},{MoveID:"Detect",MovePP:1b},{MoveID:"Taunt",MovePP:13b}],NBT_VERSION:2b,Nature:24b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Quick Attack","Knock Off","Detect"],Size:90.75356408685231d,SpecFlags:[],StatsAttack:135s,StatsDefense:79s,StatsHP:132s,StatsSpecialAttack:76s,StatsSpecialDefense:84s,StatsSpeed:83s,UUID:[I;-1137897938,-1290319795,-1881488308,-1383102696],Variant:"base",eggCycles:-1,ndex:359,palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Gholdengo stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Lunala stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-3
+Garchomp stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-2
+Salamence stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Urshifu stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-3
+Aron stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=4, SPEED=4] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-4, SPECIAL_DEFENSE=-4, SPEED=-4
+Absol stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-3
+Gholdengo stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143] delta: ATTACK=-145, DEFENSE=-187, SPECIAL_ATTACK=-228, SPECIAL_DEFENSE=-154, SPEED=-140
+Absol stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83] delta: ATTACK=-133, DEFENSE=-76, SPECIAL_ATTACK=-73, SPECIAL_DEFENSE=-81, SPEED=-80
+Battle Message: Absol is exerting its Pressure!
+Absol selected attack Taunt for Absol targeting Gholdengo and opted to mega evolve
+lame1202 selected attack Shadow Ball for Gholdengo targeting Absol
+Battle Message: Gholdengo used Shadow Ball!
+Battle Message: It wasn't very effective...
+Absol was damaged by Gholdengo type ATTACK for 91 before: 132 after: 41
+lame1202 told Gholdengo to use Shadow Ball against Absol with results MoveResults{damage=91, fullDamage=91, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Absol used Taunt!
+Battle Message: Gholdengo's Good As Gold activated!
+Absol used Taunt against Gholdengo with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=237, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=132, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=237, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Taunt for Absol targeting Gholdengo and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Great Ball!
+Battle Message: Absol used Taunt!
+Battle Message: Gholdengo's Good As Gold activated!
+Absol used Taunt against Gholdengo with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+
+Turn #1 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=237, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #2 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=237, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Knock Off for Absol targeting Gholdengo and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Moon Ball!
+Battle Message: Absol used Knock Off!
+Battle Message: It's super effective!
+Gholdengo was damaged by Absol type ATTACK for 94 before: 237 after: 143
+Absol used Knock Off against Gholdengo with results MoveResults{damage=94, fullDamage=94, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #2 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=237, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #3 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=143, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Detect for Absol targeting Absol and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Moon Ball!
+Battle Message: Absol used Detect!
+Battle Message: But it failed!
+Absol used Detect against Absol with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+
+Turn #3 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=143, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #4 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=143, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Detect for Absol targeting Absol and opted to mega evolve
+Battle Message: Absol used Detect!
+Absol was given status com.pixelmonmod.pixelmon.battles.status.Protect@62b40aad
+Battle Message: Absol protected itself!
+Absol used Detect against Absol with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+Absol lost status com.pixelmonmod.pixelmon.battles.status.Protect@62b40aad
+
+Turn #4 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=143, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #5 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=143, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Quick Attack for Absol targeting Gholdengo and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Great Ball!
+Battle Message: Absol used Quick Attack!
+Battle Message: It doesn't affect Gholdengo...
+Absol used Quick Attack against Gholdengo with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=1.0, result=failed, weightMod=0.0}
+
+Turn #5 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=143, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #6 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Gholdengo[health=143, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=148, DEFENSE=190, SPECIAL_ATTACK=230, SPECIAL_DEFENSE=157, SPEED=143, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Taunt for Absol targeting Gholdengo and opted to mega evolve
+lame1202 switching from Gholdengo to Garchomp
+Garchomp stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=323, DEFENSE=267, SPECIAL_ATTACK=201, SPECIAL_DEFENSE=196, SPEED=271] delta: ATTACK=-321, DEFENSE=-264, SPECIAL_ATTACK=-198, SPECIAL_DEFENSE=-193, SPEED=-269
+Battle Message: Absol used Taunt!
+Garchomp was given status com.pixelmonmod.pixelmon.battles.status.Taunt@36952347
+Absol used Taunt against Garchomp with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=proceed, weightMod=0.0}
+
+Turn #6 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=390, , max health=390]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=323, DEFENSE=267, SPECIAL_ATTACK=201, SPECIAL_DEFENSE=196, SPEED=271, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #7 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=390, , max health=390]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=323, DEFENSE=267, SPECIAL_ATTACK=201, SPECIAL_DEFENSE=196, SPEED=271, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Taunt for Absol targeting Garchomp and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Poké Ball!
+Battle Message: Absol used Taunt!
+Battle Message: But it failed!
+Absol used Taunt against Garchomp with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+
+Turn #7 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=390, , max health=390]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=323, DEFENSE=267, SPECIAL_ATTACK=201, SPECIAL_DEFENSE=196, SPEED=271, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #8 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=390, , max health=390]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=323, DEFENSE=267, SPECIAL_ATTACK=201, SPECIAL_DEFENSE=196, SPEED=271, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Detect for Absol targeting Absol and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Poké Ball!
+Battle Message: Absol used Detect!
+Battle Message: But it failed!
+Absol used Detect against Absol with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+
+Turn #8 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=390, , max health=390]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=323, DEFENSE=267, SPECIAL_ATTACK=201, SPECIAL_DEFENSE=196, SPEED=271, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #9 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=390, , max health=390]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=323, DEFENSE=267, SPECIAL_ATTACK=201, SPECIAL_DEFENSE=196, SPEED=271, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Taunt for Absol targeting Garchomp and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Poké Ball!
+Battle Message: Absol used Taunt!
+Battle Message: But it failed!
+Absol used Taunt against Garchomp with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+
+Turn #9 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=390, , max health=390]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=323, DEFENSE=267, SPECIAL_ATTACK=201, SPECIAL_DEFENSE=196, SPEED=271, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #10 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Garchomp[health=390, , max health=390]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=323, DEFENSE=267, SPECIAL_ATTACK=201, SPECIAL_DEFENSE=196, SPEED=271, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Detect for Absol targeting Absol and opted to mega evolve
+lame1202 switching from Garchomp to Aron
+Garchomp lost status com.pixelmonmod.pixelmon.battles.status.Taunt@36952347
+Aron stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=4, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=6, DEFENSE=6, SPECIAL_ATTACK=6, SPECIAL_DEFENSE=6, SPEED=5] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-1
+Battle Message: Absol used Detect!
+Battle Message: But it failed!
+Absol used Detect against Absol with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+
+Turn #10 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Aron[health=12, , max health=12]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=6, DEFENSE=6, SPECIAL_ATTACK=6, SPECIAL_DEFENSE=6, SPEED=5, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #11 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Aron[health=12, , max health=12]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=6, DEFENSE=6, SPECIAL_ATTACK=6, SPECIAL_DEFENSE=6, SPEED=5, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Quick Attack for Absol targeting Aron and opted to mega evolve
+lame1202 selected attack Endeavor for Aron targeting Absol
+Battle Message: Absol used Quick Attack!
+Battle Message: It wasn't very effective...
+Battle Message: Aron just hung on with Sturdy!
+Aron was damaged by Absol type ATTACK for 11 before: 12 after: 1
+Absol used Quick Attack against Aron with results MoveResults{damage=11, fullDamage=11, power=[], accuracy=0, priority=1.0, result=hit, weightMod=0.0}
+Battle Message: Aron used Endeavor!
+Absol was damaged by Aron type ATTACKFIXED for 40 before: 41 after: 1
+Battle Message: Aron restored a little HP using its Shell Bell!
+lame1202 was healed by 5 before: 1 after: 6
+lame1202 told Aron to use Endeavor against Absol with results MoveResults{damage=40, fullDamage=40, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #11 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Aron[health=12, , max health=12]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=6, DEFENSE=6, SPECIAL_ATTACK=6, SPECIAL_DEFENSE=6, SPEED=5, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=41, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #12 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Aron[health=6, , max health=12]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=6, DEFENSE=6, SPECIAL_ATTACK=6, SPECIAL_DEFENSE=6, SPEED=5, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Quick Attack for Absol targeting Aron and opted to mega evolve
+lame1202 switching from Aron to Lunala
+Lunala stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351] delta: ATTACK=-304, DEFENSE=-274, SPECIAL_ATTACK=-316, SPECIAL_DEFENSE=-250, SPEED=-348
+Battle Message: Absol used Quick Attack!
+Battle Message: It doesn't affect Lunala...
+Absol used Quick Attack against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=1.0, result=failed, weightMod=0.0}
+
+Turn #12 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=419, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #13 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=419, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Knock Off for Absol targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Great Ball!
+Battle Message: Absol used Knock Off!
+Battle Message: It's super effective!
+Lunala was damaged by Absol type ATTACK for 62 before: 419 after: 357
+Absol used Knock Off against Lunala with results MoveResults{damage=62, fullDamage=62, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #13 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=419, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #14 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Quick Attack for Absol targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Level Ball!
+Battle Message: Absol used Quick Attack!
+Battle Message: It doesn't affect Lunala...
+Absol used Quick Attack against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=1.0, result=failed, weightMod=0.0}
+
+Turn #14 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #15 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Quick Attack for Absol targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Level Ball!
+Battle Message: Absol used Quick Attack!
+Battle Message: It doesn't affect Lunala...
+Absol used Quick Attack against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=1.0, result=failed, weightMod=0.0}
+
+Turn #15 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #16 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Taunt for Absol targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Timer Ball!
+Battle Message: Absol used Taunt!
+Lunala was given status com.pixelmonmod.pixelmon.battles.status.Taunt@277bbf77
+Absol used Taunt against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=proceed, weightMod=0.0}
+
+Turn #16 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #17 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Taunt for Absol targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Great Ball!
+Battle Message: Absol used Taunt!
+Battle Message: But it failed!
+Absol used Taunt against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+
+Turn #17 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #18 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Quick Attack for Absol targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Great Ball!
+Battle Message: Absol used Quick Attack!
+Battle Message: It doesn't affect Lunala...
+Absol used Quick Attack against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=1.0, result=failed, weightMod=0.0}
+
+Turn #18 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #19 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=357, , max health=419]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=306, DEFENSE=277, SPECIAL_ATTACK=318, SPECIAL_DEFENSE=252, SPEED=351, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Absol[health=1, , max health=132]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=135, DEFENSE=79, SPECIAL_ATTACK=76, SPECIAL_DEFENSE=84, SPEED=83, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Absol selected attack Quick Attack for Absol targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:poke_ball on Absol
+Battle Message: lame1202 threw the Poké Ball!
+
+BATTLE ENDED
+
+BATTLE ENDED
+Caught error in battle. Continuing...
+Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.common.asm.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:60)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:94)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:57)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:190)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$20(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:311)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:214)
+java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.forfeitBattleForBeingTooFarAway(PlayerParticipant.java:666)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.handlePlayerDistanceFromBattle(PlayerParticipant.java:647)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.tick(PlayerParticipant.java:451)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.onUpdate(BattleController.java:1135)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:511)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

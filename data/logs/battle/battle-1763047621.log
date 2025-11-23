@@ -1,0 +1,87 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-13T15:27:01.203642620Z
+
+Team #0 PlayerParticipant Dulmin minecraft:the_end (-4116.036072789897, 55.5, 1130.4372271293257) 
+	Arceus {Ability:"Multitype",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:152s,EVDefense:173s,EVHP:31s,EVSpecialAttack:79s,EVSpecialDefense:19s,EVSpeed:56s,EXP:17006,Friendship:65s,Gender:2b,GigantamaxFactor:0b,Health:388,HeldItemStack:{count:1,id:"pixelmon:legend_plate"},IVAttack:31b,IVDefense:31b,IVHP:2b,IVSpAtt:31b,IVSpDef:0b,IVSpeed:31b,IV_HTATTACK:1b,IV_HTDEFENSE:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,IV_HTSPECIAL_DEFENSE:1b,IV_HTSPEED:1b,Level:100,Moveset:[{MoveID:"Judgment",MovePP:8b,MovePPLevel:3b},{MoveID:"Gravity",MovePP:5b},{MoveID:"Earthquake",MovePP:10b},{MoveID:"Extreme Speed",MovePP:5b}],NBT_VERSION:2b,Nature:0b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Extreme Speed","Earthquake","Cosmic Power","Earth Power","Gravity"],Size:329.9822809754581d,SpecFlags:[],StatsAttack:314s,StatsDefense:319s,StatsHP:388s,StatsSpecialAttack:295s,StatsSpecialDefense:280s,StatsSpeed:290s,UUID:[I;274323203,-1232321768,-1137249648,-857832600],Variant:"base",eggCycles:-1,ndex:493,originalTrainer:"Dulmin",originalTrainerUUID:[I;-2036690395,-938456484,-1479550921,1712610171],palette:"none",ribbons2:[]}
+Team #0 PlayerParticipant Bluegum_ minecraft:the_end (-4118.04432465661, 56.0, 1132.5843108946995) 
+	Arceus {Ability:"Multitype",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:5,EVAttack:71s,EVDefense:68s,EVHP:30s,EVSpecialAttack:226s,EVSpecialDefense:0s,EVSpeed:115s,EXP:4248,Friendship:180s,Gender:2b,GigantamaxFactor:0b,Health:388,HeldItemStack:{count:1,id:"pixelmon:legend_plate"},IVAttack:5b,IVDefense:31b,IVHP:12b,IVSpAtt:31b,IVSpDef:0b,IVSpeed:31b,IV_HTATTACK:1b,IV_HTHP:1b,IV_HTSPECIAL_DEFENSE:1b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763046472394L,MoveSkillCooldownId:"open_wormhole",MoveSkillCooldownTarget:1763047372394L}],Moveset:[{MoveID:"Thunder",MovePP:10b},{MoveID:"Earthquake",MovePP:10b},{MoveID:"Judgment",MovePP:8b,MovePPLevel:3b},{MoveID:"Future Sight",MovePP:10b}],NBT_VERSION:2b,Nature:21b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:1b,Type:0s},RelrnMoves:["Future Sight","Thunder","Earthquake","Earth Power","Natural Gift","Gravity"],Size:323.36980467820183d,SpecFlags:[],StatsAttack:263s,StatsDefense:293s,StatsHP:388s,StatsSpecialAttack:332s,StatsSpecialDefense:303s,StatsSpeed:304s,UUID:[I;1128965582,27870515,-1981550535,2129915363],Variant:"base",eggCycles:-1,ndex:493,originalTrainer:"Bluegum_",originalTrainerUUID:[I;-18226562,-815576607,-1945710123,1042587051],palette:"none",ribbons2:[]}
+Team #0 PlayerParticipant ___________12345 minecraft:the_end (-4118.298268776045, 55.5, 1131.0620376082015) 
+	Lunala {Ability:"ShadowShield",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:186s,EVDefense:153s,EVHP:37s,EVSpecialAttack:72s,EVSpecialDefense:15s,EVSpeed:47s,EXP:0,Friendship:255s,Gender:2b,GigantamaxFactor:0b,Health:424,HeldItemStack:{count:1,id:"pixelmon:quick_claw"},IVAttack:31b,IVDefense:31b,IVHP:31b,IVSpAtt:27b,IVSpDef:12b,IVSpeed:6b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762885582654L,MoveSkillCooldownId:"teleport",MoveSkillCooldownTarget:1762885585404L},{MoveSkillCooldownCurrent:1763044644985L,MoveSkillCooldownId:"open_wormhole",MoveSkillCooldownTarget:1763045544985L},{MoveSkillCooldownCurrent:1762327790070L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762327815070L}],Moveset:[{MoveID:"Shadow Ball",MovePP:15b},{MoveID:"Teleport",MovePP:20b},{MoveID:"Phantom Force",MovePP:10b},{MoveID:"Moongeist Beam",MovePP:5b}],NBT_VERSION:2b,Nature:24b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:1b,Type:0s},RelrnMoves:["Cosmic Power","Splash","Shadow Ball","Teleport","Moongeist Beam"],Size:405.9875038263135d,SpecFlags:[],StatsAttack:308s,StatsDefense:252s,StatsHP:424s,StatsSpecialAttack:291s,StatsSpecialDefense:257s,StatsSpeed:216s,UUID:[I;-708358819,-229422748,-1359255917,-1287760405],Variant:"base",eggCycles:-1,ndex:792,originalTrainer:"___________12345",originalTrainerUUID:[I;-1755248099,-1258862460,-2021475255,1498965264],palette:"none",ribbons2:[]}
+Team #0 PlayerParticipant lame1202 minecraft:the_end (-4113.909102494524, 56.0, 1133.699999988079) 
+	Garchomp {Ability:"RoughSkin",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:252s,EVDefense:0s,EVHP:6s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:252s,EXP:3721,FormattedNickname:'{"text":"","extra":["『ワニ』"]}',Friendship:255s,Gender:1b,GigantamaxFactor:0b,Health:304,HeldItemStack:{count:1,id:"pixelmon:lum_berry"},IVAttack:27b,IVDefense:24b,IVHP:10b,IVSpAtt:12b,IVSpDef:28b,IVSpeed:27b,IV_HTATTACK:1b,IV_HTDEFENSE:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,IV_HTSPECIAL_DEFENSE:1b,IV_HTSPEED:1b,Level:100,MintNature:16b,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762881070851L,MoveSkillCooldownId:"mount_boost",MoveSkillCooldownTarget:1762881110851L},{MoveSkillCooldownCurrent:1762706851325L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762706876325L}],Moveset:[{MoveID:"Earthquake",MovePP:10b},{MoveID:"Outrage",MovePP:10b},{MoveID:"Dual Chop",MovePP:15b},{MoveID:"Fire Blast",MovePP:5b}],NBT_VERSION:2b,Nature:12b,PAbilitySlot:0,PHiddenAbility:1b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["False Swipe","Dig","Sand Attack","Bite","Stone Edge","Swords Dance","Outrage","Sand Tomb","Tackle","Tera Blast","Earthquake","Slash","Bulldoze","Crunch","Fire Blast"],Size:179.34559614068806d,SpecFlags:[],StatsAttack:359s,StatsDefense:226s,StatsHP:358s,StatsSpecialAttack:196s,StatsSpecialDefense:185s,StatsSpeed:333s,UUID:[I;6640726,-1809694469,-1176671605,-1159100764],Variant:"base",eggCycles:-1,ndex:445,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+Team #1 RaidPixelmonParticipant Deoxys N/A N/A 
+	Deoxys {Ability:"Pressure",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:30,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:2b,GigantamaxFactor:0b,Health:138,IVAttack:31b,IVDefense:31b,IVHP:14b,IVSpAtt:31b,IVSpDef:31b,IVSpeed:31b,Level:60,Moveset:[{MoveID:"Night Shade",MovePP:15b},{MoveID:"Teleport",MovePP:20b},{MoveID:"Zen Headbutt",MovePP:15b},{MoveID:"Iron Defense",MovePP:15b}],NBT_VERSION:2b,Nature:4b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Night Shade","Zen Headbutt","Teleport"],Size:179.50981452418867d,SpecFlags:[],StatsAttack:107s,StatsDefense:215s,StatsHP:138s,StatsSpecialAttack:107s,StatsSpecialDefense:215s,StatsSpeed:131s,UUID:[I;-2126880004,1744785180,-1352038201,-320848183],Variant:"defense",eggCycles:-1,ndex:386,palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Arceus stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Arceus stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Lunala stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-3
+Garchomp stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-2
+Deoxys stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=1, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=1, SPEED=3] delta: ATTACK=-3, DEFENSE=-1, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-1, SPEED=-3
+Arceus stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=314, DEFENSE=319, SPECIAL_ATTACK=295, SPECIAL_DEFENSE=280, SPEED=290] delta: ATTACK=-312, DEFENSE=-317, SPECIAL_ATTACK=-293, SPECIAL_DEFENSE=-278, SPEED=-288
+Arceus stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=263, DEFENSE=293, SPECIAL_ATTACK=332, SPECIAL_DEFENSE=303, SPEED=304] delta: ATTACK=-261, DEFENSE=-291, SPECIAL_ATTACK=-330, SPECIAL_DEFENSE=-301, SPEED=-302
+Lunala stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=308, DEFENSE=252, SPECIAL_ATTACK=291, SPECIAL_DEFENSE=257, SPEED=216] delta: ATTACK=-306, DEFENSE=-249, SPECIAL_ATTACK=-289, SPECIAL_DEFENSE=-255, SPEED=-213
+Garchomp stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=359, DEFENSE=226, SPECIAL_ATTACK=196, SPECIAL_DEFENSE=185, SPEED=333] delta: ATTACK=-357, DEFENSE=-223, SPECIAL_ATTACK=-193, SPECIAL_DEFENSE=-182, SPEED=-331
+Deoxys stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=1, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=1, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=107, DEFENSE=215, SPECIAL_ATTACK=107, SPECIAL_DEFENSE=215, SPEED=131] delta: ATTACK=-104, DEFENSE=-214, SPECIAL_ATTACK=-104, SPECIAL_DEFENSE=-214, SPEED=-128
+Battle Message: Deoxys is exerting its Pressure!
+Battle Message: Dynamax Energy gathered around Dulmin!
+Battle Message: Dynamax Energy gathered around !
+empty weighted their choices as follows:  Leer, Tier 0, Weight 0.0;  Max Guard, Tier 2, Weight 50.0;  Wrap, Tier 1, Weight 13.78866;  Wrap, Tier 1, Weight 13.78866;  Wrap, Tier 0, Weight 0.0;  Wrap, Tier 1, Weight 14.175978;  Max Strike, Tier 1, Weight 4.639175;  Max Strike, Tier 1, Weight 4.8969073;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 1, Weight 6.703911;  Psychic, Tier 1, Weight 7.8319583;  Psychic, Tier 1, Weight 7.3164945;  Psychic, Tier 1, Weight 1.7509434;  Psychic, Tier 1, Weight 12.111174;  Max Mindstorm, Tier 1, Weight 10.824742;  Max Mindstorm, Tier 1, Weight 10.051546;  Max Mindstorm, Tier 1, Weight 2.5943396;  Max Mindstorm, Tier 1, Weight 17.039106;  Protect, Tier 2, Weight 50.0;  Max Guard, Tier 2, Weight 50.0;  
+empty decided their best choices were:  Max Guard, Tier 2, Weight 50.0;  Protect, Tier 2, Weight 50.0;  Max Guard, Tier 2, Weight 50.0;  
+Deoxys selected attack Max Guard for Deoxys targeting Deoxys
+Dulmin selected attack Judgment for Arceus targeting Deoxys
+Bluegum_ selected attack Judgment for Arceus targeting Deoxys
+___________12345 selected attack Moongeist Beam for Lunala targeting Deoxys
+lame1202 selected attack Outrage for Garchomp targeting 
+empty weighted their choices as follows:  Leer, Tier 0, Weight 0.0;  Wrap, Tier 2, Weight 13.78866;  Wrap, Tier 2, Weight 13.78866;  Wrap, Tier 0, Weight 0.0;  Wrap, Tier 2, Weight 14.175978;  Max Strike, Tier 2, Weight 4.639175;  Max Strike, Tier 2, Weight 4.8969073;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 2, Weight 6.703911;  Psychic, Tier 2, Weight 7.8319583;  Psychic, Tier 2, Weight 7.3164945;  Psychic, Tier 2, Weight 1.7509434;  Psychic, Tier 2, Weight 12.111174;  Max Mindstorm, Tier 2, Weight 10.824742;  Max Mindstorm, Tier 2, Weight 10.051546;  Max Mindstorm, Tier 2, Weight 2.5943396;  Max Mindstorm, Tier 2, Weight 17.039106;  
+empty decided their best choices were:  Max Mindstorm, Tier 2, Weight 17.039106;  
+Deoxys selected attack Max Mindstorm for Deoxys targeting Garchomp
+Battle Message: Deoxys used Max Mindstorm!
+Garchomp was damaged by Deoxys type ATTACK for 54 before: 358 after: 304
+Global status removed NONE[5 turns remaining]
+Terrain has changed from NONE[5 turns remaining] to nothing
+Battle Message: A psychic aura enveloped the battlefield!
+Global status added PSYCHIC[5 turns remaining] by Deoxys
+Terrain has changed from NONE[5 turns remaining] to PSYCHIC[5 turns remaining] by Deoxys
+Deoxys used Max Mindstorm against Garchomp with results MoveResults{damage=54, fullDamage=54, power=[], accuracy=0, priority=4.0, result=hit, weightMod=0.0}
+Deoxys selected attack Max Strike for Deoxys targeting Garchomp
+Battle Message: Deoxys used Max Strike!
+Battle Message: 『ワニ』 surrounds itself with psychic terrain.
+Deoxys used Max Strike against Garchomp with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=failed, weightMod=0.0}
+Deoxys selected attack Wrap for Deoxys targeting Garchomp
+Battle Message: Deoxys used Wrap!
+Battle Message: 『ワニ』 surrounds itself with psychic terrain.
+Deoxys used Wrap against Garchomp with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=failed, weightMod=0.0}
+Deoxys selected attack Leer for Deoxys targeting Arceus, Arceus, Lunala, Garchomp
+Battle Message: Deoxys used Leer!
+Battle Message: 『ワニ』's Defense was decreased!
+Battle Message: Arceus's Defense was decreased!
+Battle Message: Arceus's Defense was decreased!
+Battle Message: Lunala's Defense was decreased!
+Deoxys used Leer against Garchomp with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0} and Arceus with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0} and Arceus with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0} and Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+Battle Message: 『ワニ』 used Outrage!
+
+BATTLE ENDED
+Deoxys has un-dynamaxed
+Caught error in battle. Continuing...
+Cannot invoke "com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.getOnBattleField()" because "pw" is null
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.manageTargetingSwitchedOutPokemon(PixelmonWrapper.java:1283)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:1135)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:1075)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.takeTurn(PixelmonWrapper.java:2035)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.takeTurn(BattleController.java:1478)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.doTurnLogic(BattleController.java:626)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:525)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

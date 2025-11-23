@@ -1,0 +1,426 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-16T14:03:06.462449287Z
+
+Team #0 PlayerParticipant ___________12345 minecraft:the_end (-4011.1458836754023, 60.0, 2742.01720150705) 
+	Lunala {Ability:"ShadowShield",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:186s,EVDefense:153s,EVHP:37s,EVSpecialAttack:72s,EVSpecialDefense:15s,EVSpeed:47s,EXP:0,Friendship:86s,Gender:2b,GigantamaxFactor:0b,Health:152,HeldItemStack:{count:1,id:"pixelmon:life_orb"},IVAttack:31b,IVDefense:31b,IVHP:31b,IVSpAtt:27b,IVSpDef:12b,IVSpeed:6b,IV_HTSPECIAL_ATTACK:1b,IV_HTSPECIAL_DEFENSE:1b,IV_HTSPEED:1b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762885582654L,MoveSkillCooldownId:"teleport",MoveSkillCooldownTarget:1762885585404L},{MoveSkillCooldownCurrent:1763090765552L,MoveSkillCooldownId:"open_wormhole",MoveSkillCooldownTarget:1763091665552L},{MoveSkillCooldownCurrent:1762327790070L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762327815070L}],Moveset:[{MoveID:"Shadow Ball",MovePP:15b},{MoveID:"Teleport",MovePP:20b},{MoveID:"Phantom Force",MovePP:10b},{MoveID:"Moongeist Beam",MovePP:3b}],NBT_VERSION:2b,Nature:24b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:1b,Type:0s},RelrnMoves:["Cosmic Power","Splash","Shadow Ball","Teleport","Moongeist Beam"],Size:405.9875038263135d,SpecFlags:[],StatsAttack:308s,StatsDefense:252s,StatsHP:424s,StatsSpecialAttack:295s,StatsSpecialDefense:278s,StatsSpeed:241s,Status:16s,StatusSleepTurns:0,UUID:[I;-708358819,-229422748,-1359255917,-1287760405],Variant:"base",eggCycles:-1,ndex:792,originalTrainer:"___________12345",originalTrainerUUID:[I;-1755248099,-1258862460,-2021475255,1498965264],palette:"none",ribbons2:[]}
+Team #0 PlayerParticipant lame1202 minecraft:the_end (-4011.849959106226, 60.5, 2740.5948798262816) 
+	Yveltal {Ability:"DarkAura",CaughtBall:"master_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:6s,EVDefense:0s,EVHP:0s,EVSpecialAttack:252s,EVSpecialDefense:0s,EVSpeed:252s,EXP:0,FormattedNickname:'{"text":"","extra":["『カラス』"]}',Friendship:255s,Gender:2b,GigantamaxFactor:0b,Health:315,HeldItemStack:{count:1,id:"pixelmon:life_orb"},IVAttack:22b,IVDefense:31b,IVHP:27b,IVSpAtt:12b,IVSpDef:31b,IVSpeed:31b,IV_HTATTACK:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763071366066L,MoveSkillCooldownId:"fly",MoveSkillCooldownTarget:1763071367116L}],Moveset:[{MoveID:"Sky Attack",MovePP:5b},{MoveID:"Foul Play",MovePP:15b},{MoveID:"Dark Pulse",MovePP:13b},{MoveID:"Fly",MovePP:15b}],NBT_VERSION:2b,Nature:2b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Foul Play","Fly","Roost","Snarl","Dark Pulse","Gust","Disable"],Size:354.61112173609985d,SpecFlags:[],StatsAttack:299s,StatsDefense:226s,StatsHP:393s,StatsSpecialAttack:361s,StatsSpecialDefense:232s,StatsSpeed:297s,Status:16s,StatusSleepTurns:1,UUID:[I;-1063911881,-209827597,-1503807379,789664429],Variant:"base",eggCycles:-1,ndex:717,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+Team #0 PlayerParticipant ootodl minecraft:the_end (-4013.976563322463, 60.0, 2741.1963505509907) 
+	Charizard {Ability:"Blaze",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:205s,EVDefense:164s,EVHP:16s,EVSpecialAttack:69s,EVSpecialDefense:16s,EVSpeed:40s,EXP:0,FormattedNickname:'{"text":"","extra":["리자몽"]}',Friendship:221s,Gender:0b,GigantamaxFactor:0b,Health:292,HeldItemStack:{count:1,id:"pixelmon:leftovers"},IVAttack:23b,IVDefense:3b,IVHP:26b,IVSpAtt:22b,IVSpDef:21b,IVSpeed:13b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762707969494L,MoveSkillCooldownId:"ignite",MoveSkillCooldownTarget:1762708009494L}],Moveset:[{MoveID:"Heat Wave",MovePP:10b},{MoveID:"Dragon Pulse",MovePP:10b},{MoveID:"Overheat",MovePP:5b},{MoveID:"False Swipe",MovePP:40b}],NBT_VERSION:2b,Nature:4b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:1b,Type:0s},RelrnMoves:["False Swipe","Dragon Pulse","Flamethrower","Dragon Breath","Air Slash","Inferno","Growl","Overheat","Smokescreen","Fire Fang","Scratch","Fire Spin","Ember","Heat Wave"],Size:216.6912739956298d,SpecFlags:[],StatsAttack:247s,StatsDefense:205s,StatsHP:296s,StatsSpecialAttack:262s,StatsSpecialDefense:200s,StatsSpeed:228s,Status:16s,StatusSleepTurns:0,UUID:[I;-443457251,642927920,-1949964527,109174676],Variant:"base",eggCycles:-1,ndex:6,originalTrainer:"ootodl",originalTrainerUUID:[I;1141033193,-808041599,-1379937266,-349334450],palette:"none",ribbon_display2:{received:1761663791716L,receiver:'""',type:"destiny"},ribbons2:[{received:1761663791716L,receiver:'""',type:"destiny"}]}
+Team #0 EntityParticipant Freya minecraft:the_end (-4016.5022328016667, 59.0, 2734.4475156235294) 
+	Eevee {Ability:"Adaptability",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:1b,GigantamaxFactor:0b,Health:97,IVAttack:2b,IVDefense:20b,IVHP:14b,IVSpAtt:31b,IVSpDef:25b,IVSpeed:27b,Level:70,Moveset:[{MoveID:"Helping Hand",MovePP:20b},{MoveID:"Round",MovePP:15b},{MoveID:"Quick Attack",MovePP:30b},{MoveID:"Bite",MovePP:25b}],NBT_VERSION:2b,Nature:6b,PAbilitySlot:1,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Helping Hand","Quick Attack","Round"],Size:99.2763251040211d,SpecFlags:[],StatsAttack:20s,StatsDefense:20s,StatsHP:39s,StatsSpecialAttack:20s,StatsSpecialDefense:25s,StatsSpeed:19s,Status:16s,StatusSleepTurns:2,UUID:[I;1773272543,969622619,-1373903440,-909615632],Variant:"base",eggCycles:-1,ndex:133,palette:"none",ribbons2:[]}
+Team #1 RaidPixelmonParticipant pixelmon.scream tail N/A N/A 
+	ScreamTail {Ability:"Protosynthesis",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:30,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:2b,GigantamaxFactor:0b,Health:76,IVAttack:14b,IVDefense:31b,IVHP:14b,IVSpAtt:31b,IVSpDef:31b,IVSpeed:31b,Level:66,Moveset:[{MoveID:"Pound",MovePP:35b},{MoveID:"Howl",MovePP:40b},{MoveID:"Hyper Voice",MovePP:10b},{MoveID:"Psychic Fangs",MovePP:10b}],NBT_VERSION:2b,Nature:21b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Pound","Howl","Hyper Voice"],Size:119.0694510254589d,SpecFlags:[],StatsAttack:90s,StatsDefense:156s,StatsHP:237s,StatsSpecialAttack:111s,StatsSpecialDefense:194s,StatsSpeed:171s,UUID:[I;-1705942708,494749568,-1525447707,1707695860],Variant:"base",eggCycles:-1,ndex:985,palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Lunala stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-3
+Yveltal stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Charizard stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Eevee stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=4, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-4, SPECIAL_ATTACK=-4, SPECIAL_DEFENSE=-3, SPEED=-3
+ScreamTail stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-2, SPEED=-2
+Lunala stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=308, DEFENSE=252, SPECIAL_ATTACK=295, SPECIAL_DEFENSE=278, SPEED=241] delta: ATTACK=-306, DEFENSE=-249, SPECIAL_ATTACK=-293, SPECIAL_DEFENSE=-276, SPEED=-238
+Yveltal stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=299, DEFENSE=226, SPECIAL_ATTACK=361, SPECIAL_DEFENSE=232, SPEED=297] delta: ATTACK=-297, DEFENSE=-223, SPECIAL_ATTACK=-359, SPECIAL_DEFENSE=-229, SPEED=-294
+Charizard stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=247, DEFENSE=205, SPECIAL_ATTACK=262, SPECIAL_DEFENSE=200, SPEED=228] delta: ATTACK=-244, DEFENSE=-202, SPECIAL_ATTACK=-260, SPECIAL_DEFENSE=-197, SPEED=-225
+Eevee stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=4, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=91, DEFENSE=89, SPECIAL_ATTACK=89, SPECIAL_DEFENSE=113, SPEED=90] delta: ATTACK=-88, DEFENSE=-85, SPECIAL_ATTACK=-85, SPECIAL_DEFENSE=-110, SPEED=-87
+ScreamTail stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=2, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=90, DEFENSE=156, SPECIAL_ATTACK=111, SPECIAL_DEFENSE=194, SPEED=171] delta: ATTACK=-87, DEFENSE=-153, SPECIAL_ATTACK=-108, SPECIAL_DEFENSE=-192, SPEED=-169
+Global status added com.pixelmonmod.pixelmon.battles.status.AuraStatus@421b888b by Yveltal
+Battle Message: 『カラス』 is radiating a dark aura!
+Battle Message: Dynamax Energy gathered around ___________12345!
+Battle Message: Dynamax Energy gathered around !
+empty weighted their choices as follows:  Round, Tier 2, Weight 16.033754;  Quick Attack, Tier 2, Weight 13.50211;  Bite, Tier 2, Weight 12.658228;  
+empty decided their best choices were:  Round, Tier 2, Weight 16.033754;  
+Freya selected attack Round for Eevee targeting ScreamTail and opted to mega evolve
+empty weighted their choices as follows:  Pound, Tier 0, Weight 0.0;  Pound, Tier 1, Weight 2.7989821;  Pound, Tier 1, Weight 4.054054;  Pound, Tier 1, Weight 15.060242;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 1, Weight 5.5979643;  Max Strike, Tier 1, Weight 83.10811;  Max Strike, Tier 1, Weight 31.927711;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Max Guard, Tier 2, Weight 50.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 2, Weight 33.333332;  Max Guard, Tier 2, Weight 50.0;  Crunch, Tier 1, Weight 11.049056;  Crunch, Tier 1, Weight 3.507888;  Crunch, Tier 1, Weight 9.659459;  Crunch, Tier 1, Weight 37.549397;  Max Darkness, Tier 1, Weight 17.45283;  Max Darkness, Tier 1, Weight 5.0890584;  Max Darkness, Tier 1, Weight 15.2027025;  Max Darkness, Tier 1, Weight 60.240967;  
+empty decided their best choices were:  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Max Guard, Tier 2, Weight 50.0;  Max Guard, Tier 2, Weight 50.0;  
+pixelmon.scream tail selected attack Max Guard for ScreamTail targeting ScreamTail
+___________12345 selected attack Moongeist Beam for Lunala targeting ScreamTail
+ootodl selected attack Heat Wave for Charizard targeting 
+lame1202 selected attack Dark Pulse for Yveltal targeting ScreamTail
+empty weighted their choices as follows:  Pound, Tier 0, Weight 0.0;  Pound, Tier 2, Weight 2.7989821;  Pound, Tier 2, Weight 4.054054;  Pound, Tier 2, Weight 15.060242;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 2, Weight 5.5979643;  Max Strike, Tier 2, Weight 8.108108;  Max Strike, Tier 2, Weight 31.927711;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 2, Weight 33.333332;  Crunch, Tier 2, Weight 11.049056;  Crunch, Tier 2, Weight 3.507888;  Crunch, Tier 2, Weight 9.659459;  Crunch, Tier 2, Weight 37.549397;  Max Darkness, Tier 2, Weight 17.45283;  Max Darkness, Tier 2, Weight 5.0890584;  Max Darkness, Tier 2, Weight 15.2027025;  Max Darkness, Tier 2, Weight 60.240967;  
+empty decided their best choices were:  Max Darkness, Tier 2, Weight 60.240967;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  
+pixelmon.scream tail selected attack Noble Roar for ScreamTail targeting Yveltal
+Battle Message: Scream Tail used Noble Roar!
+Battle Message: 『カラス』's Attack was decreased!
+Battle Message: 『カラス』's Special Attack was decreased!
+ScreamTail used Noble Roar against Yveltal with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+pixelmon.scream tail selected attack Max Darkness for ScreamTail targeting Eevee
+Battle Message: Scream Tail used Max Darkness!
+Eevee was damaged by ScreamTail type ATTACK for 88 before: 166 after: 78
+Battle Message: Lunala's Special Defense was decreased!
+Battle Message: 『カラス』's Special Defense was decreased!
+Battle Message: 리자몽's Special Defense was decreased!
+Battle Message: Eevee's Special Defense was decreased!
+ScreamTail used Max Darkness against Eevee with results MoveResults{damage=88, fullDamage=88, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Eevee
+Battle Message: Scream Tail used Sing!
+Eevee was given status com.pixelmonmod.pixelmon.battles.status.Sleep@4cdc7eb8
+ScreamTail used Sing against Eevee with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=proceed, weightMod=0.0}
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Lunala
+Battle Message: Scream Tail used Sing!
+Battle Message: Lunala avoided the attack!
+ScreamTail used Sing against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=missed, weightMod=0.0}
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Yveltal
+Battle Message: Scream Tail used Sing!
+Battle Message: 『カラス』 avoided the attack!
+ScreamTail used Sing against Yveltal with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=missed, weightMod=0.0}
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Charizard
+Battle Message: Scream Tail used Sing!
+Charizard was given status com.pixelmonmod.pixelmon.battles.status.Sleep@48e3e3fb
+ScreamTail used Sing against Charizard with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=proceed, weightMod=0.0}
+Battle Message: 『カラス』 used Dark Pulse!
+Battle Message: A mysterious barrier appeared in front of pixelmon.scream tail and is protecting it from all attacks!
+ScreamTail was damaged by Yveltal type ATTACK for 0 before: 158 after: 158
+Battle Message: 『カラス』 lost some HP!
+Yveltal was damaged by Yveltal type ITEM for 39 before: 393 after: 354
+lame1202 told Yveltal to use Dark Pulse against ScreamTail with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Lunala used Moongeist Beam!
+Battle Message: It's super effective!
+ScreamTail was damaged by Lunala type ATTACK for 38 before: 158 after: 120
+Battle Message: Lunala lost some HP!
+Lunala was damaged by Lunala type ITEM for 42 before: 424 after: 382
+___________12345 told Lunala to use Moongeist Beam against ScreamTail with results MoveResults{damage=38, fullDamage=38, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: 리자몽 is still sleeping!
+Battle Message: Eevee is still sleeping!
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=424, , max health=424]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=308, DEFENSE=252, SPECIAL_ATTACK=295, SPECIAL_DEFENSE=278, SPEED=241, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-1, , , SPEED=0, , , ]
+
+ Yveltal[health=393, , max health=393]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=299, DEFENSE=226, SPECIAL_ATTACK=361, SPECIAL_DEFENSE=232, SPEED=297, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-1, , , DEFENSE=0, , , SPECIAL_ATTACK=-1, , , SPECIAL_DEFENSE=-1, , , SPEED=0, , , ]
+
+ Charizard[health=296, , max health=296]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=247, DEFENSE=205, SPECIAL_ATTACK=262, SPECIAL_DEFENSE=200, SPEED=228, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-1, , , SPEED=0, , , ]
+
+ Eevee[health=166, , max health=166]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=91, DEFENSE=89, SPECIAL_ATTACK=89, SPECIAL_DEFENSE=113, SPEED=90, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-1, , , SPEED=0, , , ]
+
+ ScreamTail[health=237, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=90, DEFENSE=156, SPECIAL_ATTACK=111, SPECIAL_DEFENSE=194, SPEED=171, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Battle Message: Dynamax Energy gathered around lame1202!
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=382, , max health=424]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=308, DEFENSE=252, SPECIAL_ATTACK=295, SPECIAL_DEFENSE=278, SPEED=241, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-1, , , SPEED=0, , , ]
+
+ Yveltal[health=354, , max health=393]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=299, DEFENSE=226, SPECIAL_ATTACK=361, SPECIAL_DEFENSE=232, SPEED=297, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-1, , , DEFENSE=0, , , SPECIAL_ATTACK=-1, , , SPECIAL_DEFENSE=-1, , , SPEED=0, , , ]
+
+ Charizard[health=296, , max health=296]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=247, DEFENSE=205, SPECIAL_ATTACK=262, SPECIAL_DEFENSE=200, SPEED=228, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-1, , , SPEED=0, , , ]
+
+ Eevee[health=332, , max health=166]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=91, DEFENSE=89, SPECIAL_ATTACK=89, SPECIAL_DEFENSE=113, SPEED=90, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-1, , , SPEED=0, , , ]
+
+ ScreamTail[health=120, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=90, DEFENSE=156, SPECIAL_ATTACK=111, SPECIAL_DEFENSE=194, SPEED=171, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Round, Tier 1, Weight 16.033754;  Quick Attack, Tier 2, Weight 13.50211;  Bite, Tier 1, Weight 12.658228;  
+empty decided their best choices were:  Quick Attack, Tier 2, Weight 13.50211;  
+Freya selected attack Quick Attack for Eevee targeting ScreamTail and opted to mega evolve
+empty weighted their choices as follows:  Pound, Tier 0, Weight 0.0;  Pound, Tier 2, Weight 2.7989821;  Pound, Tier 2, Weight 4.054054;  Pound, Tier 2, Weight 15.060242;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 2, Weight 5.5979643;  Max Strike, Tier 2, Weight 8.108108;  Max Strike, Tier 2, Weight 31.927711;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 0, Weight 0.0;  Sing, Tier 0, Weight 0.0;  Max Guard, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 2, Weight 33.333332;  Max Guard, Tier 0, Weight 0.0;  Crunch, Tier 2, Weight 21.898113;  Crunch, Tier 2, Weight 3.507888;  Crunch, Tier 2, Weight 9.659459;  Crunch, Tier 2, Weight 37.549397;  Max Darkness, Tier 2, Weight 34.90566;  Max Darkness, Tier 2, Weight 5.0890584;  Max Darkness, Tier 2, Weight 15.2027025;  Max Darkness, Tier 3, Weight 100.0;  
+empty decided their best choices were:  Max Darkness, Tier 3, Weight 100.0;  
+pixelmon.scream tail selected attack Max Darkness for ScreamTail targeting Eevee
+___________12345 selected attack Moongeist Beam for Lunala targeting ScreamTail
+lame1202 selected attack Dark Pulse for Yveltal targeting ScreamTail
+ootodl selected attack Heat Wave for Charizard targeting 
+Battle Message: Eevee is still sleeping!
+Battle Message: 『カラス』 used Dark Pulse!
+ScreamTail was damaged by Yveltal type ATTACK for 8 before: 120 after: 112
+Battle Message: 『カラス』 lost some HP!
+Yveltal was damaged by Yveltal type ITEM for 39 before: 354 after: 315
+lame1202 told Yveltal to use Dark Pulse against ScreamTail with results MoveResults{damage=8, fullDamage=8, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Lunala used Moongeist Beam!
+Battle Message: It's super effective!
+ScreamTail was damaged by Lunala type ATTACK for 36 before: 112 after: 76
+Battle Message: Lunala lost some HP!
+Lunala was damaged by Lunala type ITEM for 42 before: 382 after: 340
+___________12345 told Lunala to use Moongeist Beam against ScreamTail with results MoveResults{damage=36, fullDamage=36, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Charizard lost status com.pixelmonmod.pixelmon.battles.status.Sleep@de17483
+Battle Message: 리자몽 woke up!
+Battle Message: 리자몽 used Heat Wave!
+Battle Message: But it failed!
+ootodl told Charizard to use Heat Wave against 
+empty weighted their choices as follows:  Pound, Tier 0, Weight 0.0;  Pound, Tier 1, Weight 2.7989821;  Pound, Tier 1, Weight 4.054054;  Pound, Tier 1, Weight 15.060242;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 1, Weight 5.5979643;  Max Strike, Tier 1, Weight 83.10811;  Max Strike, Tier 1, Weight 31.927711;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Crunch, Tier 1, Weight 21.898113;  Crunch, Tier 1, Weight 3.507888;  Crunch, Tier 1, Weight 9.659459;  Crunch, Tier 1, Weight 37.549397;  Max Darkness, Tier 1, Weight 34.90566;  Max Darkness, Tier 1, Weight 5.0890584;  Max Darkness, Tier 1, Weight 15.2027025;  Max Darkness, Tier 3, Weight 0.0;  
+empty decided their best choices were:  Max Darkness, Tier 3, Weight 0.0;  
+pixelmon.scream tail selected attack Max Darkness for ScreamTail targeting Charizard
+Battle Message: Scream Tail used Max Darkness!
+Charizard was damaged by ScreamTail type ATTACK for 38 before: 296 after: 258
+Battle Message: Lunala's Special Defense was decreased!
+Battle Message: 『カラス』's Special Defense was decreased!
+Battle Message: 리자몽's Special Defense was decreased!
+Battle Message: Eevee's Special Defense was decreased!
+ScreamTail used Max Darkness against Charizard with results MoveResults{damage=38, fullDamage=38, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+pixelmon.scream tail selected attack Max Darkness for ScreamTail targeting Eevee
+Battle Message: Scream Tail used Max Darkness!
+Eevee was damaged by ScreamTail type ATTACK for 78 before: 78 after: 0
+Eevee lost status com.pixelmonmod.pixelmon.battles.status.Sleep@1320ea64
+Battle Message: The storm raging above you is growing stronger!
+Battle Message: Eevee fainted!
+Battle Message: Lunala's Special Defense was decreased!
+Battle Message: 『カラス』's Special Defense was decreased!
+Battle Message: 리자몽's Special Defense was decreased!
+ScreamTail used Max Darkness against Eevee with results MoveResults{damage=78, fullDamage=88, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Eevee
+Battle Message: Scream Tail used Sing!
+Battle Message: Lunala avoided the attack!
+ScreamTail used Sing against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=missed, weightMod=0.0}
+pixelmon.scream tail selected attack Max Strike for ScreamTail targeting Lunala
+Battle Message: Scream Tail used Max Strike!
+Battle Message: It doesn't affect Lunala...
+ScreamTail used Max Strike against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=failed, weightMod=0.0}
+ootodl was healed by 18 before: 258 after: 276
+Battle Message: 리자몽's Leftovers restored some of its health!
+
+Turn #1 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=382, , max health=424]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=308, DEFENSE=252, SPECIAL_ATTACK=295, SPECIAL_DEFENSE=278, SPEED=241, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-3, , , SPEED=0, , , ]
+
+ Yveltal[health=354, , max health=393]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=299, DEFENSE=226, SPECIAL_ATTACK=361, SPECIAL_DEFENSE=232, SPEED=297, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-1, , , DEFENSE=0, , , SPECIAL_ATTACK=-1, , , SPECIAL_DEFENSE=-3, , , SPEED=0, , , ]
+
+ Charizard[health=296, , max health=296]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=247, DEFENSE=205, SPECIAL_ATTACK=262, SPECIAL_DEFENSE=200, SPEED=228, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-3, , , SPEED=0, , , ]
+
+ ScreamTail[health=120, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=90, DEFENSE=156, SPECIAL_ATTACK=111, SPECIAL_DEFENSE=194, SPEED=171, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Battle Message: pixelmon.scream tail is getting desperate! Its attacks are growing more aggressive!
+Battle Message: Dynamax Energy gathered around ootodl!
+Turn #2 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=340, , max health=424]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=308, DEFENSE=252, SPECIAL_ATTACK=295, SPECIAL_DEFENSE=278, SPEED=241, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-3, , , SPEED=0, , , ]
+
+ Yveltal[health=315, , max health=393]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=299, DEFENSE=226, SPECIAL_ATTACK=361, SPECIAL_DEFENSE=232, SPEED=297, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-1, , , DEFENSE=0, , , SPECIAL_ATTACK=-1, , , SPECIAL_DEFENSE=-3, , , SPEED=0, , , ]
+
+ Charizard[health=276, , max health=296]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=247, DEFENSE=205, SPECIAL_ATTACK=262, SPECIAL_DEFENSE=200, SPEED=228, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-3, , , SPEED=0, , , ]
+
+ ScreamTail[health=76, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=90, DEFENSE=156, SPECIAL_ATTACK=111, SPECIAL_DEFENSE=194, SPEED=171, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Pound, Tier 0, Weight 0.0;  Pound, Tier 1, Weight 2.7989821;  Pound, Tier 1, Weight 4.054054;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 1, Weight 5.5979643;  Max Strike, Tier 1, Weight 83.10811;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Max Guard, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Max Guard, Tier 0, Weight 0.0;  Crunch, Tier 1, Weight 21.898113;  Crunch, Tier 1, Weight 3.507888;  Crunch, Tier 1, Weight 9.659459;  Max Darkness, Tier 1, Weight 34.90566;  Max Darkness, Tier 1, Weight 5.0890584;  Max Darkness, Tier 1, Weight 15.2027025;  
+empty decided their best choices were:  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Charizard
+___________12345 selected attack Moongeist Beam for Lunala targeting ScreamTail
+lame1202 selected attack Dark Pulse for Yveltal targeting ScreamTail
+ootodl selected attack Heat Wave for Charizard targeting 
+Battle Message: Freya cheered for your side!
+Battle Message: The cheer echoed feebly around the area.
+Battle Message: Freya cheered for your side!
+Battle Message: The cheer echoed feebly around the area.
+Battle Message: pixelmon.scream tail nullified the stat changes and Abilities of other Pokémon!
+Lunala was given status com.pixelmonmod.pixelmon.battles.status.GastroAcid@5cd2feac
+Yveltal was given status com.pixelmonmod.pixelmon.battles.status.GastroAcid@308dcd96
+Charizard was given status com.pixelmonmod.pixelmon.battles.status.GastroAcid@5483193e
+empty weighted their choices as follows:  Pound, Tier 0, Weight 0.0;  Pound, Tier 2, Weight 2.7989821;  Pound, Tier 2, Weight 4.054054;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 2, Weight 5.5979643;  Max Strike, Tier 2, Weight 8.108108;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Crunch, Tier 2, Weight 21.898113;  Crunch, Tier 2, Weight 3.507888;  Crunch, Tier 2, Weight 9.659459;  Max Darkness, Tier 2, Weight 34.90566;  Max Darkness, Tier 2, Weight 5.0890584;  Max Darkness, Tier 2, Weight 15.2027025;  
+empty decided their best choices were:  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  Sing, Tier 2, Weight 55.0;  
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Charizard
+Battle Message: Scream Tail used Sing!
+Charizard was given status com.pixelmonmod.pixelmon.battles.status.Sleep@3c267f06
+ScreamTail used Sing against Charizard with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=proceed, weightMod=0.0}
+pixelmon.scream tail selected attack Crunch for ScreamTail targeting Lunala
+Battle Message: Scream Tail used Crunch!
+Battle Message: It's super effective!
+Lunala was damaged by ScreamTail type ATTACK for 81 before: 340 after: 259
+ScreamTail used Crunch against Lunala with results MoveResults{damage=81, fullDamage=81, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Yveltal
+Battle Message: Scream Tail used Sing!
+Yveltal was given status com.pixelmonmod.pixelmon.battles.status.Sleep@6b0dbf42
+ScreamTail used Sing against Yveltal with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=proceed, weightMod=0.0}
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Lunala
+Battle Message: Scream Tail used Sing!
+Lunala was given status com.pixelmonmod.pixelmon.battles.status.Sleep@6dce8bcc
+ScreamTail used Sing against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=proceed, weightMod=0.0}
+Battle Message: 『カラス』 is still sleeping!
+Battle Message: Lunala is still sleeping!
+Battle Message: 리자몽 is still sleeping!
+ootodl was healed by 18 before: 276 after: 294
+Battle Message: 리자몽's Leftovers restored some of its health!
+
+Turn #2 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=340, , max health=424]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=308, DEFENSE=252, SPECIAL_ATTACK=295, SPECIAL_DEFENSE=278, SPEED=241, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Yveltal[health=315, , max health=393]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=299, DEFENSE=226, SPECIAL_ATTACK=361, SPECIAL_DEFENSE=232, SPEED=297, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Charizard[health=276, , max health=296]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=247, DEFENSE=205, SPECIAL_ATTACK=262, SPECIAL_DEFENSE=200, SPEED=228, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ ScreamTail[health=76, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=90, DEFENSE=156, SPECIAL_ATTACK=111, SPECIAL_DEFENSE=194, SPEED=171, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Freya was healed by 166 before: 0 after: 166
+Battle Message: Freya's Pokémon recovered from fainting!
+Battle Message: Dynamax Energy gathered around !
+Turn #3 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=259, , max health=424]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=308, DEFENSE=252, SPECIAL_ATTACK=295, SPECIAL_DEFENSE=278, SPEED=241, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Yveltal[health=315, , max health=393]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=299, DEFENSE=226, SPECIAL_ATTACK=361, SPECIAL_DEFENSE=232, SPEED=297, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Charizard[health=294, , max health=296]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=247, DEFENSE=205, SPECIAL_ATTACK=262, SPECIAL_DEFENSE=200, SPEED=228, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Eevee[health=166, , max health=166]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=91, DEFENSE=89, SPECIAL_ATTACK=89, SPECIAL_DEFENSE=113, SPEED=90, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-2, , , SPEED=0, , , ]
+
+ ScreamTail[health=76, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=90, DEFENSE=156, SPECIAL_ATTACK=111, SPECIAL_DEFENSE=194, SPEED=171, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Round, Tier 2, Weight 16.033754;  Quick Attack, Tier 2, Weight 13.50211;  Bite, Tier 2, Weight 12.658228;  Switch to Eevee, Tier 2, Weight 40.0;  
+empty decided their best choices were:  Switch to Eevee, Tier 2, Weight 40.0;  
+empty weighted their choices as follows:  Pound, Tier 0, Weight 0.0;  Pound, Tier 2, Weight 2.7989821;  Pound, Tier 2, Weight 4.054054;  Pound, Tier 2, Weight 15.060242;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 2, Weight 5.5979643;  Max Strike, Tier 2, Weight 8.108108;  Max Strike, Tier 1, Weight 31.927711;  Sing, Tier 0, Weight 0.0;  Sing, Tier 0, Weight 0.0;  Sing, Tier 0, Weight 0.0;  Sing, Tier 2, Weight 55.0;  Max Guard, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Max Guard, Tier 0, Weight 0.0;  Crunch, Tier 1, Weight 21.898113;  Crunch, Tier 1, Weight 3.507888;  Crunch, Tier 1, Weight 9.659459;  Crunch, Tier 1, Weight 37.549397;  Max Darkness, Tier 1, Weight 34.90566;  Max Darkness, Tier 1, Weight 5.0890584;  Max Darkness, Tier 1, Weight 15.2027025;  Max Darkness, Tier 1, Weight 60.240967;  
+empty decided their best choices were:  Sing, Tier 2, Weight 55.0;  
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Eevee
+___________12345 selected attack Moongeist Beam for Lunala targeting ScreamTail
+ootodl selected attack Heat Wave for Charizard targeting ScreamTail and opted to mega evolve
+lame1202 selected attack Dark Pulse for Yveltal targeting ScreamTail
+Freya switching from Eevee to Eevee
+Battle Message: Eevee couldn't escape!
+Battle Message: pixelmon.scream tail nullified the stat changes and Abilities of other Pokémon!
+Eevee was given status com.pixelmonmod.pixelmon.battles.status.GastroAcid@779404
+empty weighted their choices as follows:  Pound, Tier 0, Weight 0.0;  Pound, Tier 2, Weight 2.7989821;  Pound, Tier 2, Weight 4.054054;  Pound, Tier 2, Weight 15.060242;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 2, Weight 5.5979643;  Max Strike, Tier 2, Weight 8.108108;  Max Strike, Tier 2, Weight 31.927711;  Sing, Tier 0, Weight 0.0;  Sing, Tier 0, Weight 0.0;  Sing, Tier 0, Weight 0.0;  Sing, Tier 2, Weight 55.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Crunch, Tier 2, Weight 21.898113;  Crunch, Tier 2, Weight 3.507888;  Crunch, Tier 2, Weight 9.659459;  Crunch, Tier 2, Weight 37.549397;  Max Darkness, Tier 2, Weight 34.90566;  Max Darkness, Tier 2, Weight 5.0890584;  Max Darkness, Tier 2, Weight 15.2027025;  Max Darkness, Tier 2, Weight 60.240967;  
+empty decided their best choices were:  Max Darkness, Tier 2, Weight 60.240967;  Sing, Tier 2, Weight 55.0;  
+pixelmon.scream tail selected attack Max Strike for ScreamTail targeting Charizard
+Battle Message: Scream Tail used Max Strike!
+Charizard was damaged by ScreamTail type ATTACK for 20 before: 294 after: 274
+Battle Message: Lunala's Speed was decreased!
+Battle Message: 『カラス』's Speed was decreased!
+Battle Message: 리자몽's Speed was decreased!
+Battle Message: Eevee's Speed was decreased!
+ScreamTail used Max Strike against Charizard with results MoveResults{damage=20, fullDamage=20, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+pixelmon.scream tail selected attack Max Darkness for ScreamTail targeting Eevee
+Battle Message: Scream Tail used Max Darkness!
+Battle Message: It's super effective on Lunala!
+Lunala was damaged by ScreamTail type ATTACK for 107 before: 259 after: 152
+Battle Message: Lunala's Special Defense was decreased!
+Battle Message: 『カラス』's Special Defense was decreased!
+Battle Message: 리자몽's Special Defense was decreased!
+Battle Message: Eevee's Special Defense was decreased!
+Eevee was damaged by ScreamTail type ATTACK for 69 before: 166 after: 97
+Battle Message: Lunala's Special Defense was decreased!
+Battle Message: 『カラス』's Special Defense was decreased!
+Battle Message: 리자몽's Special Defense was decreased!
+Battle Message: Eevee's Special Defense was decreased!
+ScreamTail used Max Darkness against Lunala with results MoveResults{damage=107, fullDamage=107, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0} and Eevee with results MoveResults{damage=69, fullDamage=69, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+pixelmon.scream tail selected attack Sing for ScreamTail targeting Eevee
+Battle Message: Scream Tail used Sing!
+Battle Message: Lunala avoided the attack!
+Eevee was given status com.pixelmonmod.pixelmon.battles.status.Sleep@79a93fdb
+ScreamTail used Sing against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=missed, weightMod=0.0} and Eevee with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=proceed, weightMod=0.0}
+pixelmon.scream tail selected attack Noble Roar for ScreamTail targeting Charizard
+Battle Message: Scream Tail used Noble Roar!
+Battle Message: 리자몽's Attack was decreased!
+Battle Message: 리자몽's Special Attack was decreased!
+ScreamTail used Noble Roar against Charizard with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=4.0, result=succeeded, weightMod=0.0}
+Battle Message: 『カラス』 is still sleeping!
+Battle Message: Lunala is still sleeping!
+Battle Message: 리자몽 is still sleeping!
+ootodl was healed by 18 before: 274 after: 292
+Battle Message: 리자몽's Leftovers restored some of its health!
+
+Turn #3 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=259, , max health=424]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=308, DEFENSE=252, SPECIAL_ATTACK=295, SPECIAL_DEFENSE=278, SPEED=241, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-2, , , SPEED=-1, , , ]
+
+ Yveltal[health=315, , max health=393]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=299, DEFENSE=226, SPECIAL_ATTACK=361, SPECIAL_DEFENSE=232, SPEED=297, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-2, , , SPEED=-1, , , ]
+
+ Charizard[health=294, , max health=296]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=247, DEFENSE=205, SPECIAL_ATTACK=262, SPECIAL_DEFENSE=200, SPEED=228, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-1, , , DEFENSE=0, , , SPECIAL_ATTACK=-1, , , SPECIAL_DEFENSE=-2, , , SPEED=-1, , , ]
+
+ Eevee[health=166, , max health=166]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=91, DEFENSE=89, SPECIAL_ATTACK=89, SPECIAL_DEFENSE=113, SPEED=90, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-2, , , SPEED=-1, , , ]
+
+ ScreamTail[health=76, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=90, DEFENSE=156, SPECIAL_ATTACK=111, SPECIAL_DEFENSE=194, SPEED=171, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Battle Message: Dynamax Energy gathered around ___________12345!
+Turn #4 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=152, , max health=424]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=308, DEFENSE=252, SPECIAL_ATTACK=295, SPECIAL_DEFENSE=278, SPEED=241, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-2, , , SPEED=-1, , , ]
+
+ Yveltal[health=315, , max health=393]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=299, DEFENSE=226, SPECIAL_ATTACK=361, SPECIAL_DEFENSE=232, SPEED=297, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-2, , , SPEED=-1, , , ]
+
+ Charizard[health=292, , max health=296]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=247, DEFENSE=205, SPECIAL_ATTACK=262, SPECIAL_DEFENSE=200, SPEED=228, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=-1, , , DEFENSE=0, , , SPECIAL_ATTACK=-1, , , SPECIAL_DEFENSE=-2, , , SPEED=-1, , , ]
+
+ Eevee[health=413, , max health=166]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=91, DEFENSE=89, SPECIAL_ATTACK=89, SPECIAL_DEFENSE=113, SPEED=90, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=-2, , , SPEED=-1, , , ]
+
+ ScreamTail[health=76, , max health=237]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=90, DEFENSE=156, SPECIAL_ATTACK=111, SPECIAL_DEFENSE=194, SPEED=171, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Round, Tier 2, Weight 11.814346;  Quick Attack, Tier 2, Weight 10.126582;  Bite, Tier 2, Weight 12.658228;  
+empty decided their best choices were:  Round, Tier 2, Weight 11.814346;  Bite, Tier 2, Weight 12.658228;  
+Freya selected attack Bite for Eevee targeting ScreamTail and opted to mega evolve
+empty weighted their choices as follows:  Pound, Tier 0, Weight 0.0;  Pound, Tier 2, Weight 2.7989821;  Pound, Tier 2, Weight 4.054054;  Pound, Tier 2, Weight 15.060242;  Max Strike, Tier 0, Weight 0.0;  Max Strike, Tier 2, Weight 5.5979643;  Max Strike, Tier 2, Weight 8.108108;  Max Strike, Tier 2, Weight 31.927711;  Sing, Tier 0, Weight 0.0;  Sing, Tier 0, Weight 0.0;  Sing, Tier 0, Weight 0.0;  Sing, Tier 0, Weight 0.0;  Max Guard, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Noble Roar, Tier 0, Weight 0.0;  Max Guard, Tier 0, Weight 0.0;  Crunch, Tier 2, Weight 21.898113;  Crunch, Tier 2, Weight 3.507888;  Crunch, Tier 2, Weight 9.659459;  Crunch, Tier 2, Weight 37.549397;  Max Darkness, Tier 2, Weight 34.90566;  Max Darkness, Tier 2, Weight 5.0890584;  Max Darkness, Tier 2, Weight 15.2027025;  Max Darkness, Tier 3, Weight 100.0;  
+empty decided their best choices were:  Max Darkness, Tier 3, Weight 100.0;  
+pixelmon.scream tail selected attack Max Darkness for ScreamTail targeting Eevee
+ootodl selected attack Heat Wave for Charizard targeting 
+___________12345 selected attack Moongeist Beam for Lunala targeting ScreamTail
+Battle Message: lame1202 used the Awakening.
+
+BATTLE ENDED
+ScreamTail has un-dynamaxed
+Caught error in battle. Continuing...
+Cannot invoke "com.pixelmonmod.pixelmon.api.pokemon.Pokemon.removeStatuses(com.pixelmonmod.pixelmon.battles.status.StatusType[])" because "target" is null
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.items.medicine.MedicineStatus.useMedicine(MedicineStatus.java:27)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.items.IMedicine.useMedicine(IMedicine.java:19)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.items.medicine.MedicineItem.useMedicine(MedicineItem.java:75)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.items.medicine.MedicineItem.useFromBag(MedicineItem.java:62)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useItem(PixelmonWrapper.java:1488)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.takeTurn(PixelmonWrapper.java:1974)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.takeTurn(BattleController.java:1478)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.doTurnLogic(BattleController.java:626)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:525)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

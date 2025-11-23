@@ -1,0 +1,172 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-14T02:15:55.162635128Z
+
+Team #0 WildPixelmonParticipant Cosmog pixelmon:ultra_space (2799.61409180578, 42.0, -4447.79999999702) 
+	Cosmog {Ability:"Unaware",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:2b,GigantamaxFactor:0b,Health:42,IVAttack:7b,IVDefense:31b,IVHP:31b,IVSpAtt:5b,IVSpDef:31b,IVSpeed:24b,Level:15,Moveset:[{MoveID:"Splash",MovePP:39b},{MoveID:"Teleport",MovePP:20b}],NBT_VERSION:2b,Nature:12b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Splash"],Size:59.815422128278335d,SpecFlags:[],StatsAttack:14s,StatsDefense:19s,StatsHP:42s,StatsSpecialAttack:14s,StatsSpecialDefense:16s,StatsSpeed:19s,UUID:[I;315006136,-1935981844,-1360311213,-110817091],Variant:"base",eggCycles:-1,ndex:789,palette:"none",ribbons2:[]}
+Team #0 WildPixelmonParticipant Naclstack pixelmon:ultra_space (2801.9447627701484, 45.08, -4450.1422405665635) 
+	Naclstack {Ability:"PurifyingSalt",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:0b,GigantamaxFactor:0b,Health:0,IVAttack:25b,IVDefense:5b,IVHP:20b,IVSpAtt:25b,IVSpDef:3b,IVSpeed:16b,Level:24,Moveset:[{MoveID:"Rock Throw",MovePP:15b},{MoveID:"Mud Shot",MovePP:15b},{MoveID:"Smack Down",MovePP:15b},{MoveID:"Recover",MovePP:5b}],NBT_VERSION:2b,Nature:15b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Smack Down","Rock Throw","Mud Shot"],Size:59.05121919347925d,SpecFlags:[],StatsAttack:39s,StatsDefense:54s,StatsHP:67s,StatsSpecialAttack:24s,StatsSpecialDefense:36s,StatsSpeed:27s,UUID:[I;-244735313,1692028357,-1568543665,1792526495],Variant:"base",eggCycles:-1,ndex:933,palette:"none",ribbons2:[]}
+Team #0 WildPixelmonParticipant Helioptile pixelmon:ultra_space (2803.5779549807185, 46.08, -4448.482027218656) 
+	Helioptile {Ability:"DrySkin",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:0b,GigantamaxFactor:0b,Health:58,IVAttack:31b,IVDefense:24b,IVHP:13b,IVSpAtt:27b,IVSpDef:8b,IVSpeed:6b,Level:24,Moveset:[{MoveID:"Mud-Slap",MovePP:10b},{MoveID:"Tail Whip",MovePP:30b},{MoveID:"Quick Attack",MovePP:29b},{MoveID:"Charge",MovePP:20b}],NBT_VERSION:2b,Nature:22b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Mud-Slap","Quick Attack","Tail Whip"],Size:49.323332308506146d,SpecFlags:[],StatsAttack:30s,StatsDefense:23s,StatsHP:58s,StatsSpecialAttack:40s,StatsSpecialDefense:29s,StatsSpeed:40s,UUID:[I;-291031928,-903068548,-1110114238,1162799725],Variant:"base",eggCycles:-1,ndex:694,palette:"none",ribbons2:[]}
+Team #0 WildPixelmonParticipant Helioptile pixelmon:ultra_space (2800.7093908668594, 45.0, -4449.61116177231) 
+	Helioptile {Ability:"SandVeil",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:0b,GigantamaxFactor:0b,Health:59,IVAttack:24b,IVDefense:2b,IVHP:19b,IVSpAtt:25b,IVSpDef:13b,IVSpeed:20b,Level:24,Moveset:[{MoveID:"Tail Whip",MovePP:30b},{MoveID:"Thunder Shock",MovePP:30b},{MoveID:"Quick Attack",MovePP:29b},{MoveID:"Bulldoze",MovePP:20b}],NBT_VERSION:2b,Nature:12b,PAbilitySlot:1,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Quick Attack","Tail Whip","Thunder Shock"],Size:54.487088639709896d,SpecFlags:[],StatsAttack:29s,StatsDefense:23s,StatsHP:59s,StatsSpecialAttack:40s,StatsSpecialDefense:25s,StatsSpeed:43s,UUID:[I;901148984,1872446615,-1230099746,1692882704],Variant:"base",eggCycles:-1,ndex:694,palette:"none",ribbons2:[]}
+Team #0 WildPixelmonParticipant Magmar pixelmon:ultra_space (2799.5, 44.0, -4448.5) 
+	Magmar {Ability:"FlameBody",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:0b,GigantamaxFactor:0b,Health:88,IVAttack:23b,IVDefense:29b,IVHP:0b,IVSpAtt:25b,IVSpDef:29b,IVSpeed:22b,Level:34,Moveset:[{MoveID:"Ember",MovePP:24b},{MoveID:"Leer",MovePP:30b},{MoveID:"Clear Smog",MovePP:15b},{MoveID:"Confuse Ray",MovePP:10b}],NBT_VERSION:2b,Nature:8b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Leer","Ember","Clear Smog"],Size:142.03130337721907d,SpecFlags:[],StatsAttack:84s,StatsDefense:53s,StatsHP:88s,StatsSpecialAttack:81s,StatsSpecialDefense:64s,StatsSpeed:75s,UUID:[I;395197384,-1012708011,-1728372918,2113479],Variant:"base",eggCycles:-1,ndex:126,palette:"none",ribbons2:[]}
+Team #1 PlayerParticipant tydf62 pixelmon:ultra_space (2802.2801038976513, 46.0, -4447.300000011921) 
+	Garchomp {Ability:"SandVeil",CaughtBall:"dive_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:116s,EVDefense:122s,EVHP:52s,EVSpecialAttack:96s,EVSpecialDefense:42s,EVSpeed:82s,EXP:5272,Friendship:213s,Gender:1b,GigantamaxFactor:0b,Health:254,IVAttack:1b,IVDefense:8b,IVHP:23b,IVSpAtt:1b,IVSpDef:8b,IVSpeed:30b,Level:78,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1763086198892L,MoveSkillCooldownId:"mount_boost",MoveSkillCooldownTarget:1763086238892L}],Moveset:[{MoveID:"Earthquake",MovePP:8b},{MoveID:"Outrage",MovePP:10b},{MoveID:"Crunch",MovePP:14b},{MoveID:"Liquidation",MovePP:8b}],NBT_VERSION:2b,Nature:24b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Outrage","False Swipe","Earthquake","Sand Attack","Bite","Slash","Bulldoze","Crunch"],Size:162.94785486866002d,SpecFlags:[],StatsAttack:231s,StatsDefense:183s,StatsHP:284s,StatsSpecialAttack:134s,StatsSpecialDefense:167s,StatsSpeed:203s,UUID:[I;1397578134,36192353,-1886986328,752187175],Variant:"base",eggCycles:-1,ndex:445,originalTrainer:"godksrk",originalTrainerUUID:[I;-1534560904,-1643165059,-1785036217,-2046744326],palette:"none",ribbons2:[]}
+	Zapdos {Ability:"Pressure",CaughtBall:"master_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:9s,EVDefense:69s,EVHP:7s,EVSpecialAttack:234s,EVSpecialDefense:2s,EVSpeed:9s,EXP:8324,Friendship:45s,Gender:2b,GigantamaxFactor:0b,Health:247,IVAttack:0b,IVDefense:31b,IVHP:31b,IVSpAtt:31b,IVSpDef:19b,IVSpeed:17b,Level:76,Moveset:[{MoveID:"Hurricane",MovePP:10b},{MoveID:"Roost",MovePP:5b},{MoveID:"Thunderbolt",MovePP:15b},{MoveID:"Heat Wave",MovePP:10b}],NBT_VERSION:2b,Nature:5b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Roost","Light Screen","Detect","Thunderbolt","Hurricane","Discharge"],Size:154.9803901761158d,SpecFlags:[],StatsAttack:157s,StatsDefense:153s,StatsHP:247s,StatsSpecialAttack:263s,StatsSpecialDefense:156s,StatsSpeed:171s,UUID:[I;1492755422,-1140241468,-1243077472,29559665],Variant:"base",eggCycles:-1,ndex:145,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+	Marshadow {Ability:"Technician",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:136s,EVDefense:83s,EVHP:55s,EVSpecialAttack:108s,EVSpecialDefense:58s,EVSpeed:70s,EXP:15024,Friendship:74s,Gender:2b,GigantamaxFactor:0b,Health:289,IVAttack:23b,IVDefense:31b,IVHP:31b,IVSpAtt:25b,IVSpDef:31b,IVSpeed:29b,Level:86,Moveset:[{MoveID:"Smack Down",MovePP:15b},{MoveID:"Spectral Thief",MovePP:10b},{MoveID:"False Swipe",MovePP:40b},{MoveID:"Force Palm",MovePP:10b}],NBT_VERSION:2b,Nature:20b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["False Swipe","Smack Down","Force Palm","Feint","Thunder Punch","Role Play"],Size:81.23850445718556d,SpecFlags:[],StatsAttack:269s,StatsDefense:187s,StatsHP:289s,StatsSpecialAttack:224s,StatsSpecialDefense:178s,StatsSpeed:259s,UUID:[I;705127340,438783776,-1544746743,-375421359],Variant:"base",eggCycles:-1,ndex:802,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+	Ting-Lu {Ability:"VesselOfRuin",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:121s,EVDefense:150s,EVHP:53s,EVSpecialAttack:103s,EVSpecialDefense:21s,EVSpeed:62s,EXP:47,Friendship:14s,Gender:2b,GigantamaxFactor:0b,Health:436,HeldItemStack:{count:1,id:"pixelmon:shell_bell"},IVAttack:31b,IVDefense:31b,IVHP:3b,IVSpAtt:19b,IVSpDef:31b,IVSpeed:6b,Level:100,Moveset:[{MoveID:"Earthquake",MovePP:10b},{MoveID:"Stone Edge",MovePP:5b},{MoveID:"Thrash",MovePP:10b},{MoveID:"Fissure",MovePP:5b}],NBT_VERSION:2b,Nature:21b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Spikes","Earthquake","Rock Slide","Stone Edge","Thrash","Mean Look"],Size:288.37844907125947d,SpecFlags:[],StatsAttack:257s,StatsDefense:323s,StatsHP:436s,StatsSpecialAttack:159s,StatsSpecialDefense:221s,StatsSpeed:116s,UUID:[I;-338442360,1892172165,-1074631831,92592753],Variant:"base",eggCycles:-1,ndex:1003,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+	FlutterMane {Ability:"Protosynthesis",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:42s,EVDefense:96s,EVHP:16s,EVSpecialAttack:252s,EVSpecialDefense:24s,EVSpeed:38s,EXP:4212,Friendship:8s,Gender:2b,GigantamaxFactor:0b,Health:192,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:24b,IVDefense:28b,IVHP:17b,IVSpAtt:25b,IVSpDef:15b,IVSpeed:28b,Level:79,Moveset:[{MoveID:"Dark Pulse",MovePP:15b},{MoveID:"Psyshock",MovePP:10b},{MoveID:"Dazzling Gleam",MovePP:10b},{MoveID:"Shadow Ball",MovePP:15b}],NBT_VERSION:2b,Nature:20b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Dazzling Gleam","Psyshock","Shadow Ball","Confuse Ray","Mean Look"],Size:137.31456235633988d,SpecFlags:[],StatsAttack:119s,StatsDefense:132s,StatsHP:192s,StatsSpecialAttack:315s,StatsSpecialDefense:210s,StatsSpeed:247s,UUID:[I;334994799,1093095300,-1882136511,-677352838],Variant:"base",eggCycles:-1,ndex:987,originalTrainer:"tydf62",originalTrainerUUID:[I;1311049962,106647496,-1737040315,-1251436753],palette:"none",ribbons2:[]}
+	Zamazenta {Ability:"DauntlessShield",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:23s,EVDefense:87s,EVHP:10s,EVSpecialAttack:241s,EVSpecialDefense:14s,EVSpeed:34s,EXP:16467,Friendship:0s,Gender:2b,GigantamaxFactor:0b,Health:251,HeldItemStack:{count:1,id:"pixelmon:rusted_shield"},IVAttack:10b,IVDefense:20b,IVHP:27b,IVSpAtt:31b,IVSpDef:31b,IVSpeed:31b,Level:77,Moveset:[{MoveID:"Close Combat",MovePP:5b},{MoveID:"Iron Head",MovePP:15b},{MoveID:"Metal Burst",MovePP:10b},{MoveID:"Moonblast",MovePP:15b}],NBT_VERSION:2b,Nature:17b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Wide Guard","Metal Burst","Iron Head","Moonblast"],Size:219.33711561285048d,SpecFlags:[],StatsAttack:180s,StatsDefense:252s,StatsHP:251s,StatsSpecialAttack:217s,StatsSpecialDefense:247s,StatsSpeed:232s,UUID:[I;-1562327668,1935953526,-2096692257,-1597834935],Variant:"hero",eggCycles:-1,ndex:889,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Cosmog stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=4, SPEED=4] delta: ATTACK=-4, DEFENSE=-4, SPECIAL_ATTACK=-4, SPECIAL_DEFENSE=-4, SPEED=-4
+Naclstack stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-4, SPECIAL_DEFENSE=-3, SPEED=-4
+Helioptile stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=3] delta: ATTACK=-4, DEFENSE=-4, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-4, SPEED=-3
+Helioptile stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=3] delta: ATTACK=-4, DEFENSE=-4, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-4, SPEED=-3
+Magmar stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-3
+Garchomp stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-2
+Zapdos stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Marshadow stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-2
+Ting-Lu stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-4
+FlutterMane stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-2
+Zamazenta stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=2, SPEED=2] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-2, SPEED=-2
+Battle Message: literal{Cosmog} summoned some nearby allies to assist them
+Cosmog stats changed from [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=4, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=14, DEFENSE=19, SPECIAL_ATTACK=14, SPECIAL_DEFENSE=16, SPEED=19] delta: ATTACK=-10, DEFENSE=-15, SPECIAL_ATTACK=-10, SPECIAL_DEFENSE=-12, SPEED=-15
+Naclstack stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=4, SPECIAL_DEFENSE=3, SPEED=4] to [ACCURACY=100, EVASION=100, ATTACK=39, DEFENSE=54, SPECIAL_ATTACK=24, SPECIAL_DEFENSE=36, SPEED=27] delta: ATTACK=-36, DEFENSE=-51, SPECIAL_ATTACK=-20, SPECIAL_DEFENSE=-33, SPEED=-23
+Helioptile stats changed from [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=30, DEFENSE=23, SPECIAL_ATTACK=40, SPECIAL_DEFENSE=29, SPEED=40] delta: ATTACK=-26, DEFENSE=-19, SPECIAL_ATTACK=-37, SPECIAL_DEFENSE=-25, SPEED=-37
+Helioptile stats changed from [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=29, DEFENSE=23, SPECIAL_ATTACK=40, SPECIAL_DEFENSE=25, SPEED=43] delta: ATTACK=-25, DEFENSE=-19, SPECIAL_ATTACK=-37, SPECIAL_DEFENSE=-21, SPEED=-40
+Magmar stats changed from [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=84, DEFENSE=53, SPECIAL_ATTACK=81, SPECIAL_DEFENSE=64, SPEED=75] delta: ATTACK=-81, DEFENSE=-50, SPECIAL_ATTACK=-78, SPECIAL_DEFENSE=-61, SPEED=-72
+Garchomp stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=231, DEFENSE=183, SPECIAL_ATTACK=134, SPECIAL_DEFENSE=167, SPEED=203] delta: ATTACK=-229, DEFENSE=-180, SPECIAL_ATTACK=-131, SPECIAL_DEFENSE=-164, SPEED=-201
+Zamazenta stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=2, SPEED=2] to [ACCURACY=100, EVASION=100, ATTACK=180, DEFENSE=252, SPECIAL_ATTACK=217, SPECIAL_DEFENSE=247, SPEED=232] delta: ATTACK=-178, DEFENSE=-250, SPECIAL_ATTACK=-214, SPECIAL_DEFENSE=-245, SPEED=-230
+Cosmog selected attack Splash for Cosmog targeting Cosmog and opted to mega evolve
+translation{key='pixelmon.naclstack', args=[]} weighted their choices as follows:  Rock Throw, Tier 2, Weight 1.056338;  Mud Shot, Tier 2, Weight 1.4084507;  Smack Down, Tier 2, Weight 1.056338;  Recover, Tier 0, Weight 0.0;  
+translation{key='pixelmon.naclstack', args=[]} decided their best choices were:  Rock Throw, Tier 2, Weight 1.056338;  Mud Shot, Tier 2, Weight 1.4084507;  Smack Down, Tier 2, Weight 1.056338;  
+Naclstack selected attack Rock Throw for Naclstack targeting Garchomp and opted to mega evolve
+translation{key='pixelmon.helioptile', args=[]} weighted their choices as follows:  Mud-Slap, Tier 2, Weight 1.056338;  Tail Whip, Tier 0, Weight 0.0;  Quick Attack, Tier 2, Weight 2.112676;  Charge, Tier 0, Weight 0.0;  
+translation{key='pixelmon.helioptile', args=[]} decided their best choices were:  Quick Attack, Tier 2, Weight 2.112676;  
+Helioptile selected attack Quick Attack for Helioptile targeting Garchomp and opted to mega evolve
+translation{key='pixelmon.helioptile', args=[]} weighted their choices as follows:  Tail Whip, Tier 0, Weight 0.0;  Thunder Shock, Tier 0, Weight 0.0;  Quick Attack, Tier 2, Weight 2.112676;  Bulldoze, Tier 2, Weight -132.95845;  
+translation{key='pixelmon.helioptile', args=[]} decided their best choices were:  Quick Attack, Tier 2, Weight 2.112676;  
+Helioptile selected attack Quick Attack for Helioptile targeting Garchomp and opted to mega evolve
+translation{key='pixelmon.magmar', args=[]} weighted their choices as follows:  Ember, Tier 2, Weight 2.112676;  Leer, Tier 0, Weight 0.0;  Clear Smog, Tier 2, Weight 1.7605635;  Confuse Ray, Tier 0, Weight 0.0;  
+translation{key='pixelmon.magmar', args=[]} decided their best choices were:  Ember, Tier 2, Weight 2.112676;  Clear Smog, Tier 2, Weight 1.7605635;  
+Magmar selected attack Ember for Magmar targeting Garchomp and opted to mega evolve
+tydf62 selected attack Liquidation for Garchomp targeting Naclstack
+Battle Message: Helioptile used Quick Attack!
+Garchomp was damaged by Helioptile type ATTACK for 5 before: 284 after: 279
+Helioptile used Quick Attack against Garchomp with results MoveResults{damage=5, fullDamage=5, power=[], accuracy=0, priority=1.0, result=hit, weightMod=0.0}
+Battle Message: Helioptile used Quick Attack!
+Garchomp was damaged by Helioptile type ATTACK for 5 before: 279 after: 274
+Helioptile used Quick Attack against Garchomp with results MoveResults{damage=5, fullDamage=5, power=[], accuracy=0, priority=1.0, result=hit, weightMod=0.0}
+Battle Message: Garchomp used Liquidation!
+Battle Message: It's super effective!
+Naclstack was damaged by Garchomp type ATTACK for 67 before: 67 after: 0
+Battle Message: Naclstack fainted!
+tydf62 told Garchomp to use Liquidation against Naclstack with results MoveResults{damage=67, fullDamage=421, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Magmar used Ember!
+Battle Message: It wasn't very effective...
+Garchomp was damaged by Magmar type ATTACK for 5 before: 274 after: 269
+Magmar used Ember against Garchomp with results MoveResults{damage=5, fullDamage=5, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Cosmog used Splash!
+Battle Message: But nothing happened!
+Cosmog used Splash against Cosmog with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Cosmog[health=40, , max health=42]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=14, DEFENSE=19, SPECIAL_ATTACK=14, SPECIAL_DEFENSE=16, SPEED=19, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Helioptile[health=58, , max health=58]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=30, DEFENSE=23, SPECIAL_ATTACK=40, SPECIAL_DEFENSE=29, SPEED=40, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Helioptile[health=59, , max health=59]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=29, DEFENSE=23, SPECIAL_ATTACK=40, SPECIAL_DEFENSE=25, SPEED=43, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Magmar[health=88, , max health=88]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=84, DEFENSE=53, SPECIAL_ATTACK=81, SPECIAL_DEFENSE=64, SPEED=75, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Garchomp[health=284, , max health=284]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=231, DEFENSE=183, SPECIAL_ATTACK=134, SPECIAL_DEFENSE=167, SPEED=203, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Cosmog[health=42, , max health=42]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=14, DEFENSE=19, SPECIAL_ATTACK=14, SPECIAL_DEFENSE=16, SPEED=19, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Helioptile[health=58, , max health=58]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=30, DEFENSE=23, SPECIAL_ATTACK=40, SPECIAL_DEFENSE=29, SPEED=40, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Helioptile[health=59, , max health=59]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=29, DEFENSE=23, SPECIAL_ATTACK=40, SPECIAL_DEFENSE=25, SPEED=43, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Magmar[health=88, , max health=88]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=84, DEFENSE=53, SPECIAL_ATTACK=81, SPECIAL_DEFENSE=64, SPEED=75, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Garchomp[health=269, , max health=284]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=231, DEFENSE=183, SPECIAL_ATTACK=134, SPECIAL_DEFENSE=167, SPEED=203, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Cosmog selected attack Teleport for Cosmog targeting Cosmog and opted to mega evolve
+translation{key='pixelmon.helioptile', args=[]} weighted their choices as follows:  Mud-Slap, Tier 2, Weight 1.056338;  Tail Whip, Tier 0, Weight 0.0;  Quick Attack, Tier 2, Weight 2.112676;  Charge, Tier 0, Weight 0.0;  
+translation{key='pixelmon.helioptile', args=[]} decided their best choices were:  Quick Attack, Tier 2, Weight 2.112676;  
+Helioptile selected attack Quick Attack for Helioptile targeting Garchomp and opted to mega evolve
+translation{key='pixelmon.helioptile', args=[]} weighted their choices as follows:  Tail Whip, Tier 0, Weight 0.0;  Thunder Shock, Tier 0, Weight 0.0;  Quick Attack, Tier 2, Weight 2.112676;  Bulldoze, Tier 2, Weight -110.570404;  
+translation{key='pixelmon.helioptile', args=[]} decided their best choices were:  Quick Attack, Tier 2, Weight 2.112676;  
+Helioptile selected attack Quick Attack for Helioptile targeting Garchomp and opted to mega evolve
+translation{key='pixelmon.magmar', args=[]} weighted their choices as follows:  Ember, Tier 2, Weight 2.112676;  Leer, Tier 0, Weight 0.0;  Clear Smog, Tier 2, Weight 1.7605635;  Confuse Ray, Tier 0, Weight 0.0;  
+translation{key='pixelmon.magmar', args=[]} decided their best choices were:  Ember, Tier 2, Weight 2.112676;  Clear Smog, Tier 2, Weight 1.7605635;  
+Magmar selected attack Ember for Magmar targeting Garchomp and opted to mega evolve
+tydf62 selected attack Crunch for Garchomp targeting Helioptile
+Battle Message: Helioptile used Quick Attack!
+Garchomp was damaged by Helioptile type ATTACK for 5 before: 269 after: 264
+Helioptile used Quick Attack against Garchomp with results MoveResults{damage=5, fullDamage=5, power=[], accuracy=0, priority=1.0, result=hit, weightMod=0.0}
+Battle Message: Helioptile used Quick Attack!
+Garchomp was damaged by Helioptile type ATTACK for 5 before: 264 after: 259
+Helioptile used Quick Attack against Garchomp with results MoveResults{damage=5, fullDamage=5, power=[], accuracy=0, priority=1.0, result=hit, weightMod=0.0}
+Battle Message: Garchomp used Crunch!
+Battle Message: A critical hit!
+Helioptile was damaged by Garchomp type ATTACK for 58 before: 58 after: 0
+Battle Message: Helioptile fainted!
+tydf62 told Garchomp to use Crunch against Helioptile with results MoveResults{damage=58, fullDamage=678, power=[], accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}
+Battle Message: Magmar used Ember!
+Battle Message: It wasn't very effective...
+Garchomp was damaged by Magmar type ATTACK for 5 before: 259 after: 254
+Magmar used Ember against Garchomp with results MoveResults{damage=5, fullDamage=5, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Battle Message: Cosmog used Teleport!
+Battle Message: Cosmog teleported away!
+
+BATTLE ENDED
+Zamazenta stats changed from [ACCURACY=100, EVASION=100, ATTACK=180, DEFENSE=252, SPECIAL_ATTACK=217, SPECIAL_DEFENSE=247, SPEED=232] to [ACCURACY=100, EVASION=100, ATTACK=180, DEFENSE=214, SPECIAL_ATTACK=217, SPECIAL_DEFENSE=208, SPEED=247] delta: DEFENSE=38, SPECIAL_DEFENSE=39, SPEED=-15
+Cosmog used Teleport against Cosmog with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=-6.0, result=succeeded, weightMod=0.0}
+Error in applyEffect for class com.pixelmonmod.pixelmon.battles.attacks.specialAttacks.basic.Teleport for attack Teleport
+Cannot invoke "com.pixelmonmod.pixelmon.entities.pixelmon.PixelmonEntity.setHealth(float)" because the return value of "com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.getEntity()" is null
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.attacks.specialAttacks.basic.Teleport.wildPokemonAttemptsEscape(Teleport.java:56)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.attacks.specialAttacks.basic.Teleport.applyEffectDuring(Teleport.java:26)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.attacks.Attack.applySelfStatusMove(Attack.java:1193)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.attacks.Attack.useSelfTargetingStatusMoves(Attack.java:619)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.attacks.Attack.use(Attack.java:393)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:1146)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:1075)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.takeTurn(PixelmonWrapper.java:2035)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.takeTurn(BattleController.java:1478)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.doTurnLogic(BattleController.java:626)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:525)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)

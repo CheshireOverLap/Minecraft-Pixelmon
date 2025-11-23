@@ -1,0 +1,2 @@
+execute as @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:paper",components:{"minecraft:custom_data":{pokeheal:1b}}}]}] run function pokeheal:heal
+execute as @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:paper",components:{"minecraft:custom_data":{checkspawn:1b}}}]}] run function pokeheal:checkspawn

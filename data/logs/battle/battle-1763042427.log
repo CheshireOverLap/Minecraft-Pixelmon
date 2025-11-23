@@ -1,0 +1,476 @@
+Pixelmon Version 9.3.9
+Battle data 2025-11-13T14:00:27.292925783Z
+
+Team #0 PlayerParticipant lame1202 minecraft:overworld (3812.6518135857264, 100.0, -2645.340390813816) 
+	Lunala {Ability:"ShadowShield",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:0s,EVDefense:4s,EVHP:118s,EVSpecialAttack:252s,EVSpecialDefense:4s,EVSpeed:132s,EXP:7716,FormattedNickname:'{"text":"","extra":["『コウモリ』"]}',Friendship:254s,Gender:2b,GigantamaxFactor:0b,Health:442,HeldItemStack:{count:1,id:"pixelmon:choice_scarf"},IVAttack:31b,IVDefense:9b,IVHP:22b,IVSpAtt:15b,IVSpDef:31b,IVSpeed:31b,IV_HTDEFENSE:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,Level:100,MintNature:16b,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762894687610L,MoveSkillCooldownId:"open_wormhole",MoveSkillCooldownTarget:1762895587610L},{MoveSkillCooldownCurrent:1762706868028L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762706893028L}],Moveset:[{MoveID:"Moongeist Beam",MovePP:5b},{MoveID:"Moonblast",MovePP:15b},{MoveID:"Psyshock",MovePP:10b},{MoveID:"Focus Blast",MovePP:5b}],NBT_VERSION:2b,Nature:2b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Future Sight","Cosmic Power","Psyshock","Splash","Teleport","Moongeist Beam","Focus Blast"],Size:392.969829837004d,SpecFlags:[],StatsAttack:262s,StatsDefense:215s,StatsHP:444s,StatsSpecialAttack:373s,StatsSpecialDefense:225s,StatsSpeed:289s,UUID:[I;-1179243225,-108770495,-1853800206,-1381633602],Variant:"base",eggCycles:-1,ndex:792,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Urshifu {Ability:"UnseenFist",CaughtBall:"level_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:252s,EVDefense:6s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:252s,EXP:0,FormattedNickname:'{"text":"","extra":["『クマ』"]}',Friendship:255s,Gender:0b,GigantamaxFactor:0b,Health:341,HeldItemStack:{count:1,id:"pixelmon:life_orb"},IVAttack:0b,IVDefense:31b,IVHP:31b,IVSpAtt:31b,IVSpDef:6b,IVSpeed:3b,IV_HTATTACK:1b,IV_HTDEFENSE:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,IV_HTSPECIAL_DEFENSE:1b,IV_HTSPEED:1b,Level:100,MintNature:15b,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762706865624L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762706890624L}],Moveset:[{MoveID:"Surging Strikes",MovePP:5b},{MoveID:"Close Combat",MovePP:5b},{MoveID:"Thunder Punch",MovePP:15b},{MoveID:"Ice Punch",MovePP:15b}],NBT_VERSION:2b,Nature:5b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Rock Smash","Surging Strikes","Leer","Endure","Aerial Ace","Thunder Punch","Ice Punch"],Size:151.05878067529977d,SpecFlags:[],StatsAttack:359s,StatsDefense:237s,StatsHP:341s,StatsSpecialAttack:145s,StatsSpecialDefense:156s,StatsSpeed:322s,UUID:[I;-326515662,630081550,-1680083011,1637730844],Variant:"rapidstrike",eggCycles:-1,ndex:892,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Garchomp {Ability:"RoughSkin",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:252s,EVDefense:0s,EVHP:6s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:252s,EXP:3721,FormattedNickname:'{"text":"","extra":["『ワニ』"]}',Friendship:255s,Gender:1b,GigantamaxFactor:0b,Health:316,HeldItemStack:{count:1,id:"pixelmon:lum_berry"},IVAttack:27b,IVDefense:24b,IVHP:10b,IVSpAtt:12b,IVSpDef:28b,IVSpeed:27b,IV_HTATTACK:1b,IV_HTDEFENSE:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,IV_HTSPECIAL_DEFENSE:1b,IV_HTSPEED:1b,Level:100,MintNature:16b,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762881070851L,MoveSkillCooldownId:"mount_boost",MoveSkillCooldownTarget:1762881110851L},{MoveSkillCooldownCurrent:1762706851325L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762706876325L}],Moveset:[{MoveID:"Earthquake",MovePP:10b},{MoveID:"Outrage",MovePP:10b},{MoveID:"Dual Chop",MovePP:15b},{MoveID:"Fire Blast",MovePP:5b}],NBT_VERSION:2b,Nature:12b,PAbilitySlot:0,PHiddenAbility:1b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["False Swipe","Dig","Sand Attack","Bite","Stone Edge","Swords Dance","Outrage","Sand Tomb","Tackle","Tera Blast","Earthquake","Slash","Bulldoze","Crunch","Fire Blast"],Size:179.34559614068806d,SpecFlags:[],StatsAttack:359s,StatsDefense:226s,StatsHP:358s,StatsSpecialAttack:196s,StatsSpecialDefense:185s,StatsSpeed:333s,UUID:[I;6640726,-1809694469,-1176671605,-1159100764],Variant:"base",eggCycles:-1,ndex:445,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Necrozma {Ability:"PrismArmor",CaughtBall:"ultra_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:148s,EVDefense:131s,EVHP:24s,EVSpecialAttack:60s,EVSpecialDefense:36s,EVSpeed:69s,EXP:3178,Friendship:53s,Gender:2b,GigantamaxFactor:0b,Health:303,HeldItemStack:{count:1,id:"pixelmon:lucky_egg"},IVAttack:31b,IVDefense:16b,IVHP:30b,IVSpAtt:31b,IVSpDef:31b,IVSpeed:31b,Level:89,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762893464066L,MoveSkillCooldownId:"open_wormhole",MoveSkillCooldownTarget:1762894364066L},{MoveSkillCooldownCurrent:1762706871122L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762706896122L}],Moveset:[{MoveID:"Photon Geyser",MovePP:5b},{MoveID:"Outrage",MovePP:10b},{MoveID:"Earthquake",MovePP:10b},{MoveID:"Stone Edge",MovePP:5b}],NBT_VERSION:2b,Nature:24b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Outrage","Metal Claw","Earthquake","Stealth Rock","Night Slash","Charge Beam","Psycho Cut","Morning Sun","Iron Defense","Photon Geyser"],Size:570.831928793087d,SpecFlags:[],StatsAttack:255s,StatsDefense:228s,StatsHP:303s,StatsSpecialAttack:244s,StatsSpecialDefense:218s,StatsSpeed:188s,UUID:[I;-1087597354,2026982268,-1162648836,-1602538276],Variant:"base",eggCycles:-1,ndex:800,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Yveltal {Ability:"DarkAura",CaughtBall:"master_ball",DoesLevel:1b,DynamaxLevel:10,EVAttack:6s,EVDefense:0s,EVHP:0s,EVSpecialAttack:252s,EVSpecialDefense:0s,EVSpeed:252s,EXP:0,FormattedNickname:'{"text":"","extra":["『カラス』"]}',Friendship:255s,Gender:2b,GigantamaxFactor:0b,Health:393,HeldItemStack:{count:1,id:"pixelmon:life_orb"},IVAttack:22b,IVDefense:31b,IVHP:27b,IVSpAtt:12b,IVSpDef:31b,IVSpeed:31b,IV_HTATTACK:1b,IV_HTHP:1b,IV_HTSPECIAL_ATTACK:1b,Level:100,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762891541634L,MoveSkillCooldownId:"fly",MoveSkillCooldownTarget:1762891542684L}],Moveset:[{MoveID:"Sky Attack",MovePP:5b},{MoveID:"Foul Play",MovePP:15b},{MoveID:"Dark Pulse",MovePP:15b},{MoveID:"Fly",MovePP:15b}],NBT_VERSION:2b,Nature:2b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Foul Play","Fly","Roost","Snarl","Dark Pulse","Gust","Disable"],Size:354.61112173609985d,SpecFlags:[],StatsAttack:299s,StatsDefense:226s,StatsHP:393s,StatsSpecialAttack:361s,StatsSpecialDefense:232s,StatsSpeed:297s,UUID:[I;-1063911881,-209827597,-1503807379,789664429],Variant:"base",eggCycles:-1,ndex:717,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+	Mawile {Ability:"Intimidate",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:198s,EVDefense:0s,EVHP:167s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:145s,EXP:439,FormattedNickname:'{"text":"","extra":["『ハ』"]}',Friendship:255s,Gender:1b,GigantamaxFactor:0b,Health:280,HeldItemStack:{components:{"pixelmon:mega_evolution":{duration:5400000L,form_name:"mega",valid_pokemon:["mawile"]},"pixelmon:next_usable":"2036-02-17T04:12:18.968934574Z"},count:1,id:"pixelmon:mawilite"},IVAttack:6b,IVDefense:26b,IVHP:29b,IVSpAtt:29b,IVSpDef:0b,IVSpeed:10b,Level:100,MintNature:16b,MoveSkillCooldown:[{MoveSkillCooldownCurrent:1762752859894L,MoveSkillCooldownId:"scare",MoveSkillCooldownTarget:1762753159894L},{MoveSkillCooldownCurrent:1762706857877L,MoveSkillCooldownId:"forage",MoveSkillCooldownTarget:1762706882877L}],Moveset:[{MoveID:"Play Rough",MovePP:10b},{MoveID:"False Swipe",MovePP:40b},{MoveID:"Iron Head",MovePP:15b},{MoveID:"Fire Fang",MovePP:15b}],NBT_VERSION:2b,Nature:10b,PAbilitySlot:1,PHiddenAbility:0b,PersistentData:{},Pokerus:{Announced:0b,Type:0s},RelrnMoves:["Play Rough","Astonish","Bite","Iron Defense","Fire Fang","Crunch","Iron Head"],Size:61.85857324827446d,SpecFlags:[],StatsAttack:230s,StatsDefense:201s,StatsHP:280s,StatsSpecialAttack:144s,StatsSpecialDefense:103s,StatsSpeed:166s,UUID:[I;509829599,-497333300,-1288727742,147472422],Variant:"base",eggCycles:-1,ndex:303,originalTrainer:"lame1202",originalTrainerUUID:[I;-812478946,543770915,-1079866976,-1753718133],palette:"none",ribbons2:[]}
+Team #1 EntityParticipant Lyle minecraft:overworld (3901.443463551839, 70.0, -3730.5022237232383) 
+	Joltik {Ability:"CompoundEyes",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:1b,GigantamaxFactor:0b,Health:49,IVAttack:20b,IVDefense:6b,IVHP:31b,IVSpAtt:18b,IVSpDef:19b,IVSpeed:2b,Level:17,Moveset:[{MoveID:"Absorb",MovePP:22b},{MoveID:"Fury Cutter",MovePP:15b},{MoveID:"Bug Bite",MovePP:16b},{MoveID:"Thunder Wave",MovePP:20b}],NBT_VERSION:2b,Nature:12b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},RelrnMoves:["Absorb","Bug Bite","Fury Cutter"],Size:20.432641252059664d,SpecFlags:[],StatsAttack:24s,StatsDefense:25s,StatsHP:49s,StatsSpecialAttack:27s,StatsSpecialDefense:22s,StatsSpeed:27s,UUID:[I;290039680,2103593427,-1413131282,-1168550317],Variant:"base",eggCycles:-1,ndex:595,palette:"none",ribbons2:[]}
+	Joltik {Ability:"CompoundEyes",CaughtBall:"poke_ball",DoesLevel:1b,DynamaxLevel:0,EVAttack:0s,EVDefense:0s,EVHP:0s,EVSpecialAttack:0s,EVSpecialDefense:0s,EVSpeed:0s,EXP:0,Friendship:0s,Gender:1b,GigantamaxFactor:0b,Health:39,IVAttack:6b,IVDefense:12b,IVHP:24b,IVSpAtt:30b,IVSpDef:0b,IVSpeed:21b,Level:13,Moveset:[{MoveID:"Absorb",MovePP:25b},{MoveID:"Fury Cutter",MovePP:20b},{MoveID:"Electroweb",MovePP:15b},{MoveID:"Bug Bite",MovePP:20b}],NBT_VERSION:2b,Nature:18b,PAbilitySlot:0,PHiddenAbility:0b,PersistentData:{},RelrnMoves:["Absorb","Fury Cutter","Electroweb"],Size:20.393292723694618d,SpecFlags:[],StatsAttack:18s,StatsDefense:17s,StatsHP:39s,StatsSpecialAttack:25s,StatsSpecialDefense:18s,StatsSpeed:24s,UUID:[I;-1165249138,-1365750741,-1310533692,-1947456418],Variant:"base",eggCycles:-1,ndex:595,palette:"none",ribbons2:[]}
+
+Turn #0 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+
+Lunala stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-2, SPEED=-3
+Urshifu stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-3
+Garchomp stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=2] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-2
+Necrozma stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=2, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-2, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Yveltal stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=3, SPEED=3] delta: ATTACK=-2, DEFENSE=-3, SPECIAL_ATTACK=-2, SPECIAL_DEFENSE=-3, SPEED=-3
+Mawile stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=3, DEFENSE=3, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=3, SPEED=4] delta: ATTACK=-3, DEFENSE=-3, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-3, SPEED=-4
+Joltik stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=3] delta: ATTACK=-4, DEFENSE=-4, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-4, SPEED=-3
+Joltik stats changed from [ACCURACY=100, EVASION=100, ATTACK=0, DEFENSE=0, SPECIAL_ATTACK=0, SPECIAL_DEFENSE=0, SPEED=0] to [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=3] delta: ATTACK=-4, DEFENSE=-4, SPECIAL_ATTACK=-3, SPECIAL_DEFENSE=-4, SPEED=-3
+Lunala stats changed from [ACCURACY=100, EVASION=100, ATTACK=2, DEFENSE=3, SPECIAL_ATTACK=2, SPECIAL_DEFENSE=2, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433] delta: ATTACK=-260, DEFENSE=-212, SPECIAL_ATTACK=-371, SPECIAL_DEFENSE=-223, SPEED=-430
+Joltik stats changed from [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27] delta: ATTACK=-20, DEFENSE=-21, SPECIAL_ATTACK=-24, SPECIAL_DEFENSE=-18, SPEED=-24
+Joltik stats changed from [ACCURACY=100, EVASION=100, ATTACK=4, DEFENSE=4, SPECIAL_ATTACK=3, SPECIAL_DEFENSE=4, SPEED=3] to [ACCURACY=100, EVASION=100, ATTACK=18, DEFENSE=17, SPECIAL_ATTACK=25, SPECIAL_DEFENSE=18, SPEED=24] delta: ATTACK=-14, DEFENSE=-13, SPECIAL_ATTACK=-22, SPECIAL_DEFENSE=-14, SPEED=-21
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Fury Cutter for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 2 before: 442 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Fury Cutter!
+Joltik was given status com.pixelmonmod.pixelmon.battles.status.FuryCutterStatus@4b53b4e9
+Lunala was damaged by Joltik type ATTACK for 2 before: 444 after: 442
+Lyle told Joltik to use Fury Cutter against Lunala with results MoveResults{damage=2, fullDamage=2, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #0 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #1 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Absorb for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 2 before: 442 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Absorb!
+Lunala was damaged by Joltik type ATTACK for 0 before: 444 after: 444
+Lyle told Joltik to use Absorb against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Joltik lost status com.pixelmonmod.pixelmon.battles.status.FuryCutterStatus@4b53b4e9
+
+Turn #1 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #2 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=444, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.22522523;  Fury Cutter, Tier 1, Weight 0.45045045;  Bug Bite, Tier 1, Weight 0.45045045;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.22522523;  Fury Cutter, Tier 1, Weight 0.45045045;  Bug Bite, Tier 1, Weight 0.45045045;  
+Lyle selected attack Bug Bite for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+Battle Message: It had no effect!
+Battle Message: Joltik used Bug Bite!
+Lunala was damaged by Joltik type ATTACK for 2 before: 444 after: 442
+Lyle told Joltik to use Bug Bite against Lunala with results MoveResults{damage=2, fullDamage=2, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #2 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=444, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #3 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Fury Cutter for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 2 before: 442 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Fury Cutter!
+Joltik was given status com.pixelmonmod.pixelmon.battles.status.FuryCutterStatus@7df343b2
+Lunala was damaged by Joltik type ATTACK for 2 before: 444 after: 442
+Lyle told Joltik to use Fury Cutter against Lunala with results MoveResults{damage=2, fullDamage=2, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #3 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #4 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Bug Bite for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 2 before: 442 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Bug Bite!
+Lunala was damaged by Joltik type ATTACK for 2 before: 444 after: 442
+Lyle told Joltik to use Bug Bite against Lunala with results MoveResults{damage=2, fullDamage=2, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Joltik lost status com.pixelmonmod.pixelmon.battles.status.FuryCutterStatus@7df343b2
+
+Turn #4 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #5 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Fury Cutter for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 2 before: 442 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Fury Cutter!
+Joltik was given status com.pixelmonmod.pixelmon.battles.status.FuryCutterStatus@25bac296
+Battle Message: A critical hit!
+Lunala was damaged by Joltik type ATTACK for 3 before: 444 after: 441
+Lyle told Joltik to use Fury Cutter against Lunala with results MoveResults{damage=3, fullDamage=3, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #5 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #6 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=441, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Absorb for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 3 before: 441 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Absorb!
+Battle Message: A critical hit!
+Lunala was damaged by Joltik type ATTACK for 1 before: 444 after: 443
+Lyle told Joltik to use Absorb against Lunala with results MoveResults{damage=1, fullDamage=1, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Joltik lost status com.pixelmonmod.pixelmon.battles.status.FuryCutterStatus@25bac296
+
+Turn #6 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=441, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #7 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=443, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Fury Cutter for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 1 before: 443 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Fury Cutter!
+Joltik was given status com.pixelmonmod.pixelmon.battles.status.FuryCutterStatus@20707340
+Lunala was damaged by Joltik type ATTACK for 2 before: 444 after: 442
+Lyle told Joltik to use Fury Cutter against Lunala with results MoveResults{damage=2, fullDamage=2, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #7 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=443, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #8 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Absorb for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 2 before: 442 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Absorb!
+Lunala was damaged by Joltik type ATTACK for 0 before: 444 after: 444
+Lyle told Joltik to use Absorb against Lunala with results MoveResults{damage=0, fullDamage=0, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+Joltik lost status com.pixelmonmod.pixelmon.battles.status.FuryCutterStatus@20707340
+
+Turn #8 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #9 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=444, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.22522523;  Fury Cutter, Tier 1, Weight 0.45045045;  Bug Bite, Tier 1, Weight 0.45045045;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.22522523;  Fury Cutter, Tier 1, Weight 0.45045045;  Bug Bite, Tier 1, Weight 0.45045045;  
+Lyle selected attack Bug Bite for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+Battle Message: It had no effect!
+Battle Message: Joltik used Bug Bite!
+Lunala was damaged by Joltik type ATTACK for 2 before: 444 after: 442
+Lyle told Joltik to use Bug Bite against Lunala with results MoveResults{damage=2, fullDamage=2, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #9 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=444, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #10 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Bug Bite for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 2 before: 442 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Bug Bite!
+Lunala was damaged by Joltik type ATTACK for 2 before: 444 after: 442
+Lyle told Joltik to use Bug Bite against Lunala with results MoveResults{damage=2, fullDamage=2, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #10 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #11 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Fury Cutter for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 2 before: 442 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Fury Cutter!
+Joltik was given status com.pixelmonmod.pixelmon.battles.status.FuryCutterStatus@67be84f1
+Lunala was damaged by Joltik type ATTACK for 2 before: 444 after: 442
+Lyle told Joltik to use Fury Cutter against Lunala with results MoveResults{damage=2, fullDamage=2, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+
+Turn #11 has ended
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+Turn #12 has begun
+ Terrain: NONE[5 turns remaining]
+ Weather: none
+ Pokemon: 
+ Lunala[health=442, , max health=444]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=262, DEFENSE=215, SPECIAL_ATTACK=373, SPECIAL_DEFENSE=225, SPEED=433, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+ Joltik[health=49, , max health=49]
+  Stats: ACCURACY=100, EVASION=100, ATTACK=24, DEFENSE=25, SPECIAL_ATTACK=27, SPECIAL_DEFENSE=22, SPEED=27, stages=[, ACCURACY=0, , , EVASION=0, , , ATTACK=0, , , DEFENSE=0, , , SPECIAL_ATTACK=0, , , SPECIAL_DEFENSE=0, , , SPEED=0, , , ]
+
+
+empty weighted their choices as follows:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  Thunder Wave, Tier 0, Weight 0.0;  Switch to Joltik, Tier 0, Weight 0.0;  
+empty decided their best choices were:  Absorb, Tier 1, Weight 0.45045045;  Fury Cutter, Tier 1, Weight 0.9009009;  Bug Bite, Tier 1, Weight 0.9009009;  
+Lyle selected attack Bug Bite for Joltik targeting Lunala and opted to mega evolve
+lame1202 used pixelmon:potion on Lunala
+Battle Message: lame1202 used the Potion.
+lame1202 was healed by 2 before: 442 after: 444
+Battle Message: 『コウモリ』 restored health!
+Battle Message: Joltik used Bug Bite!
+Lunala was damaged by Joltik type ATTACK for 2 before: 444 after: 442
+Lyle told Joltik to use Bug Bite against Lunala with results MoveResults{damage=2, fullDamage=2, power=[], accuracy=0, priority=0.0, result=hit, weightMod=0.0}
+lame1202 executed command tp ___________12345
+
+BATTLE ENDED
+
+BATTLE ENDED
+Caught error in battle. Continuing...
+Attempted to load class net/minecraft/client/resources/sounds/SoundInstance for invalid dist DEDICATED_SERVER
+MC-BOOTSTRAP/fml_loader@4.0.41/net.neoforged.fml.common.asm.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:60)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:94)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:57)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:190)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$20(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:311)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:298)
+cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:214)
+java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.forfeitBattleForBeingTooFarAway(PlayerParticipant.java:666)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.handlePlayerDistanceFromBattle(PlayerParticipant.java:647)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.participants.PlayerParticipant.tick(PlayerParticipant.java:451)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.onUpdate(BattleController.java:1135)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.controller.BattleController.update(BattleController.java:511)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:202)
+TRANSFORMER/pixelmon@9.3.9/com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:10)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+TRANSFORMER/neoforge@21.1.209/net.neoforged.neoforge.event.EventHooks.fireServerTickPost(EventHooks.java:1020)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:943)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707)
+TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+java.base/java.lang.Thread.run(Unknown Source)
